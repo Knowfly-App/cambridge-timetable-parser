@@ -10,7 +10,7 @@ def parse_timetable(file_path, output_path, start_page, format):
 
     # strings to clenup
     replace = ["Syllabus/Component Code Duration Date Session",
-               "Sessions:  AM morning        PM afternoon        EV evening\nIG Cambridge IGCSE    OL Cambridge O Level    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Syllabus view (A–Z)"]
+               "Sessions:  AM morning        PM afternoon        EV evening\nIG Cambridge IGCSE    OL Cambridge O Level    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Syllabus view (A–Z)", "Sessions:  AM morning        PM afternoon        \nIG Cambridge IGCSE    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Sessions:  AM morning        PM afternoon        \nIG Cambridge IGCSE       \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Sessions:  AM morning        PM afternoon        \nIG Cambridge IGCSE    9–1 Cambridge IGCSE (9–1)    OL Cambridge O Level    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Sessions:  AM morning        PM afternoon        EV evening\nIG Cambridge IGCSE    OL Cambridge O Level    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Sessions:  AM morning        PM afternoon        EV evening\nIG Cambridge IGCSE    OL Cambridge O Level    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023", "Sessions:  AM morning        PM afternoon        \nIG Cambridge IGCSE    \nAS Cambridge International AS Level    AL Cambridge International A Level    \nCambridge Final Exam Timetable June 2023"]
 
     data = []
 
@@ -60,7 +60,7 @@ def parse_timetable(file_path, output_path, start_page, format):
     # convert the data_map to a dataframe
     df = pd.DataFrame(flat_data)
     df.columns = ['type', 'subject', 'code', 'duration', 'date']
-    
+
     if format == 'json':
         df.to_json(output_path, orient='records')
     else:
