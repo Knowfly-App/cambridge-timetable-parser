@@ -47,7 +47,7 @@ def parse_timetable(file_path, output_path, start_page):
     data = re.split(r'Cambridge[a-zA-Z ]*\n', data_string)[1:]
 
     data = [[[titles[i].strip(), x, *re.findall(
-            r'([a-zA-Z0-9 ()–&]*)[ ]?([0-9]{4}\/[0-9]{2}) ([0-9]*?h?[ ]?[0-9]*?m?) (.*)', x)] for x in sorted(d.splitlines())]
+            r'(.*)[ ]?([0-9]{4}\/[0-9]{2}) ([0-9]*?h?[ ]?[0-9]*?m?) (.*)', x)] for x in sorted(d.splitlines())]
             for i, d in enumerate(data)]
 
     # flatten data
