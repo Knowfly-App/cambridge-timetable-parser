@@ -1,7 +1,7 @@
 [
   {
     "code": "0262",
-    "commonSubstring": "Swahili ",
+    "commonSubstring": "Swahili",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -21,7 +21,7 @@
   },
   {
     "code": "0408",
-    "commonSubstring": "World Literature ",
+    "commonSubstring": "World Literature",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -41,7 +41,7 @@
   },
   {
     "code": "0410",
-    "commonSubstring": "Music (Listening) ",
+    "commonSubstring": "Music",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -54,7 +54,7 @@
   },
   {
     "code": "0411",
-    "commonSubstring": "Drama ",
+    "commonSubstring": "Drama",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -67,7 +67,7 @@
   },
   {
     "code": "0413",
-    "commonSubstring": "Physical Education ",
+    "commonSubstring": "Physical Education",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -80,7 +80,7 @@
   },
   {
     "code": "0417",
-    "commonSubstring": "Information & Communication Technology ",
+    "commonSubstring": "Information",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -93,7 +93,7 @@
   },
   {
     "code": "0445",
-    "commonSubstring": "Design & Technology ",
+    "commonSubstring": "Design",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -127,7 +127,7 @@
   },
   {
     "code": "0448",
-    "commonSubstring": "Pakistan Studies ",
+    "commonSubstring": "Pakistan Studies",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -147,7 +147,7 @@
   },
   {
     "code": "0450",
-    "commonSubstring": "Business Studies ",
+    "commonSubstring": "Business Studies",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -167,7 +167,7 @@
   },
   {
     "code": "0452",
-    "commonSubstring": "Accounting ",
+    "commonSubstring": "Accounting",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -187,7 +187,7 @@
   },
   {
     "code": "0454",
-    "commonSubstring": "Enterprise ",
+    "commonSubstring": "Enterprise",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -200,7 +200,7 @@
   },
   {
     "code": "0455",
-    "commonSubstring": "Economics ",
+    "commonSubstring": "Economics",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -220,7 +220,7 @@
   },
   {
     "code": "0457",
-    "commonSubstring": "Global Perspectives ",
+    "commonSubstring": "Global Perspectives",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -233,7 +233,7 @@
   },
   {
     "code": "0460",
-    "commonSubstring": "Geography ",
+    "commonSubstring": "Geography",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -260,7 +260,7 @@
   },
   {
     "code": "0470",
-    "commonSubstring": "History ",
+    "commonSubstring": "History",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -287,7 +287,7 @@
   },
   {
     "code": "0471",
-    "commonSubstring": "Travel & Tourism ",
+    "commonSubstring": "Travel",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -307,7 +307,7 @@
   },
   {
     "code": "0472",
-    "commonSubstring": "English (as an Additional Language) ",
+    "commonSubstring": "English",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -334,7 +334,7 @@
   },
   {
     "code": "0475",
-    "commonSubstring": "Literature in English ",
+    "commonSubstring": "Literature in English",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -368,7 +368,7 @@
   },
   {
     "code": "0478",
-    "commonSubstring": "Computer Science ",
+    "commonSubstring": "Computer Science",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -388,7 +388,7 @@
   },
   {
     "code": "0480",
-    "commonSubstring": "Latin ",
+    "commonSubstring": "Latin",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -408,7 +408,7 @@
   },
   {
     "code": "0488",
-    "commonSubstring": "Literature (Spanish) ",
+    "commonSubstring": "Literature",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -428,7 +428,7 @@
   },
   {
     "code": "0493",
-    "commonSubstring": "Islamiyat ",
+    "commonSubstring": "Islamiyat",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -448,7 +448,7 @@
   },
   {
     "code": "0495",
-    "commonSubstring": "Sociology ",
+    "commonSubstring": "Sociology",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -468,7 +468,7 @@
   },
   {
     "code": "0499",
-    "commonSubstring": "Sanskrit ",
+    "commonSubstring": "Sanskrit",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -488,7 +488,7 @@
   },
   {
     "code": "0500",
-    "commonSubstring": "First Language English (Oral Endorsement) ",
+    "commonSubstring": "First Language English",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -508,7 +508,7 @@
   },
   {
     "code": "0501",
-    "commonSubstring": "First Language French ",
+    "commonSubstring": "First Language French",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -528,7 +528,7 @@
   },
   {
     "code": "0502",
-    "commonSubstring": "First Language Spanish ",
+    "commonSubstring": "First Language Spanish",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -548,7 +548,7 @@
   },
   {
     "code": "0505",
-    "commonSubstring": "First Language German ",
+    "commonSubstring": "First Language German",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -568,7 +568,7 @@
   },
   {
     "code": "0508",
-    "commonSubstring": "First Language Arabic ",
+    "commonSubstring": "First Language Arabic",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -588,7 +588,7 @@
   },
   {
     "code": "0509",
-    "commonSubstring": "First Language Chinese ",
+    "commonSubstring": "First Language Chinese",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -608,7 +608,7 @@
   },
   {
     "code": "0510",
-    "commonSubstring": "English as a Second Language (Speaking  Endorsement) (",
+    "commonSubstring": "English as a Second Language",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -642,7 +642,7 @@
   },
   {
     "code": "0511",
-    "commonSubstring": "English as a Second Language (Count-in  Speaking) (",
+    "commonSubstring": "English as a Second Language",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -676,7 +676,7 @@
   },
   {
     "code": "0513",
-    "commonSubstring": "First Language Turkish ",
+    "commonSubstring": "First Language Turkish",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -696,7 +696,7 @@
   },
   {
     "code": "0518",
-    "commonSubstring": "First Language Thai ",
+    "commonSubstring": "First Language Thai",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -716,7 +716,7 @@
   },
   {
     "code": "0520",
-    "commonSubstring": "French ",
+    "commonSubstring": "French",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -743,7 +743,7 @@
   },
   {
     "code": "0523",
-    "commonSubstring": "Chinese as a Second Language ",
+    "commonSubstring": "Chinese as a Second Language",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -763,7 +763,7 @@
   },
   {
     "code": "0525",
-    "commonSubstring": "German ",
+    "commonSubstring": "German",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -790,7 +790,7 @@
   },
   {
     "code": "0530",
-    "commonSubstring": "Spanish ",
+    "commonSubstring": "Spanish",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -817,7 +817,7 @@
   },
   {
     "code": "0535",
-    "commonSubstring": "Italian ",
+    "commonSubstring": "Italian",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -844,7 +844,7 @@
   },
   {
     "code": "0538",
-    "commonSubstring": "Bahasa Indonesia ",
+    "commonSubstring": "Bahasa Indonesia",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -864,7 +864,7 @@
   },
   {
     "code": "0539",
-    "commonSubstring": "Urdu as a Second Language ",
+    "commonSubstring": "Urdu as a Second Language",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -884,7 +884,7 @@
   },
   {
     "code": "0544",
-    "commonSubstring": "Arabic ",
+    "commonSubstring": "Arabic",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -911,7 +911,7 @@
   },
   {
     "code": "0546",
-    "commonSubstring": "Malay ",
+    "commonSubstring": "Malay",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -938,7 +938,7 @@
   },
   {
     "code": "0547",
-    "commonSubstring": "Mandarin Chinese ",
+    "commonSubstring": "Mandarin Chinese",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -965,7 +965,7 @@
   },
   {
     "code": "0580",
-    "commonSubstring": "Mathematics (",
+    "commonSubstring": "Mathematics",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -999,7 +999,7 @@
   },
   {
     "code": "0606",
-    "commonSubstring": "Additional Mathematics ",
+    "commonSubstring": "Additional Mathematics",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1019,7 +1019,7 @@
   },
   {
     "code": "0607",
-    "commonSubstring": "Cambridge International Mathematics (",
+    "commonSubstring": "Cambridge International Mathematics",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1067,7 +1067,7 @@
   },
   {
     "code": "0610",
-    "commonSubstring": "Biology (",
+    "commonSubstring": "Biology",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1115,7 +1115,7 @@
   },
   {
     "code": "0620",
-    "commonSubstring": "Chemistry (",
+    "commonSubstring": "Chemistry",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1163,7 +1163,7 @@
   },
   {
     "code": "0625",
-    "commonSubstring": "Physics (",
+    "commonSubstring": "Physics",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1211,7 +1211,7 @@
   },
   {
     "code": "0648",
-    "commonSubstring": "Food & Nutrition ",
+    "commonSubstring": "Food",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1224,7 +1224,7 @@
   },
   {
     "code": "0653",
-    "commonSubstring": "Combined Science (",
+    "commonSubstring": "Combined Science",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1272,7 +1272,7 @@
   },
   {
     "code": "0654",
-    "commonSubstring": "Co-ordinated Sciences (Double Award) ",
+    "commonSubstring": "Co",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1320,7 +1320,7 @@
   },
   {
     "code": "0680",
-    "commonSubstring": "Environmental Management ",
+    "commonSubstring": "Environmental Management",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1340,7 +1340,7 @@
   },
   {
     "code": "0696",
-    "commonSubstring": "First Language Malay ",
+    "commonSubstring": "First Language Malay",
     "group": [
       {
         "type": "Cambridge IGCSE",
@@ -1360,7 +1360,7 @@
   },
   {
     "code": "1123",
-    "commonSubstring": "English Language ",
+    "commonSubstring": "English Language",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1380,7 +1380,7 @@
   },
   {
     "code": "2010",
-    "commonSubstring": "Literature in English ",
+    "commonSubstring": "Literature in English",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1400,7 +1400,7 @@
   },
   {
     "code": "2048",
-    "commonSubstring": "Religious Studies (Bible Knowledge) ",
+    "commonSubstring": "Religious Studies",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1420,7 +1420,7 @@
   },
   {
     "code": "2055",
-    "commonSubstring": "Hinduism ",
+    "commonSubstring": "Hinduism",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1440,7 +1440,7 @@
   },
   {
     "code": "2058",
-    "commonSubstring": "Islamiyat ",
+    "commonSubstring": "Islamiyat",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1460,7 +1460,7 @@
   },
   {
     "code": "2059",
-    "commonSubstring": "Pakistan Studies ",
+    "commonSubstring": "Pakistan Studies",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1480,7 +1480,7 @@
   },
   {
     "code": "2068",
-    "commonSubstring": "Islamic Studies ",
+    "commonSubstring": "Islamic Studies",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1500,7 +1500,7 @@
   },
   {
     "code": "2069",
-    "commonSubstring": "Global Perspectives ",
+    "commonSubstring": "Global Perspectives",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1513,7 +1513,7 @@
   },
   {
     "code": "2147",
-    "commonSubstring": "History ",
+    "commonSubstring": "History",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1533,7 +1533,7 @@
   },
   {
     "code": "2210",
-    "commonSubstring": "Computer Science ",
+    "commonSubstring": "Computer Science",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1553,7 +1553,7 @@
   },
   {
     "code": "2251",
-    "commonSubstring": "Sociology ",
+    "commonSubstring": "Sociology",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1573,7 +1573,7 @@
   },
   {
     "code": "2281",
-    "commonSubstring": "Economics ",
+    "commonSubstring": "Economics",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1593,7 +1593,7 @@
   },
   {
     "code": "3015",
-    "commonSubstring": "French ",
+    "commonSubstring": "French",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1620,7 +1620,7 @@
   },
   {
     "code": "3180",
-    "commonSubstring": "Arabic ",
+    "commonSubstring": "Arabic",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1640,7 +1640,7 @@
   },
   {
     "code": "3204",
-    "commonSubstring": "Bengali ",
+    "commonSubstring": "Bengali",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1660,7 +1660,7 @@
   },
   {
     "code": "3205",
-    "commonSubstring": "Sinhala ",
+    "commonSubstring": "Sinhala",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1680,7 +1680,7 @@
   },
   {
     "code": "3226",
-    "commonSubstring": "Tamil ",
+    "commonSubstring": "Tamil",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1700,7 +1700,7 @@
   },
   {
     "code": "3247",
-    "commonSubstring": "First Language Urdu ",
+    "commonSubstring": "First Language Urdu",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1720,7 +1720,7 @@
   },
   {
     "code": "3248",
-    "commonSubstring": "Second Language Urdu ",
+    "commonSubstring": "Second Language Urdu",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1740,7 +1740,7 @@
   },
   {
     "code": "4024",
-    "commonSubstring": "Mathematics Syllabus D ",
+    "commonSubstring": "Mathematics Syllabus D",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1760,7 +1760,7 @@
   },
   {
     "code": "4037",
-    "commonSubstring": "Additional Mathematics ",
+    "commonSubstring": "Additional Mathematics",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1780,7 +1780,7 @@
   },
   {
     "code": "5014",
-    "commonSubstring": "Environmental Management ",
+    "commonSubstring": "Environmental Management",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1800,7 +1800,7 @@
   },
   {
     "code": "5054",
-    "commonSubstring": "Physics ",
+    "commonSubstring": "Physics",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1834,7 +1834,7 @@
   },
   {
     "code": "5070",
-    "commonSubstring": "Chemistry ",
+    "commonSubstring": "Chemistry",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1868,7 +1868,7 @@
   },
   {
     "code": "5090",
-    "commonSubstring": "Biology ",
+    "commonSubstring": "Biology",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1902,7 +1902,7 @@
   },
   {
     "code": "5129",
-    "commonSubstring": "Combined Science ",
+    "commonSubstring": "Combined Science",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1929,7 +1929,7 @@
   },
   {
     "code": "6065",
-    "commonSubstring": "Food & Nutrition ",
+    "commonSubstring": "Food",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1942,7 +1942,7 @@
   },
   {
     "code": "6130",
-    "commonSubstring": "Fashion & Textiles ",
+    "commonSubstring": "Fashion",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1955,7 +1955,7 @@
   },
   {
     "code": "7094",
-    "commonSubstring": "Bangladesh Studies ",
+    "commonSubstring": "Bangladesh Studies",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1975,7 +1975,7 @@
   },
   {
     "code": "7100",
-    "commonSubstring": "Commerce ",
+    "commonSubstring": "Commerce",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -1995,7 +1995,7 @@
   },
   {
     "code": "7115",
-    "commonSubstring": "Business Studies ",
+    "commonSubstring": "Business Studies",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -2015,7 +2015,7 @@
   },
   {
     "code": "7707",
-    "commonSubstring": "Accounting ",
+    "commonSubstring": "Accounting",
     "group": [
       {
         "type": "Cambridge O Level",
@@ -2035,7 +2035,7 @@
   },
   {
     "code": "8021",
-    "commonSubstring": "English General Paper ",
+    "commonSubstring": "English General Paper",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2055,7 +2055,7 @@
   },
   {
     "code": "8291",
-    "commonSubstring": "Environmental Management ",
+    "commonSubstring": "Environmental Management",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2075,7 +2075,7 @@
   },
   {
     "code": "8665",
-    "commonSubstring": "First Language Spanish ",
+    "commonSubstring": "First Language Spanish",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2095,7 +2095,7 @@
   },
   {
     "code": "8673",
-    "commonSubstring": "Spanish Literature ",
+    "commonSubstring": "Spanish Literature",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2108,7 +2108,7 @@
   },
   {
     "code": "8680",
-    "commonSubstring": "Arabic Language ",
+    "commonSubstring": "Arabic Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2128,7 +2128,7 @@
   },
   {
     "code": "8681",
-    "commonSubstring": "Chinese Language ",
+    "commonSubstring": "Chinese Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2148,7 +2148,7 @@
   },
   {
     "code": "8682",
-    "commonSubstring": "French Language ",
+    "commonSubstring": "French Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2168,7 +2168,7 @@
   },
   {
     "code": "8683",
-    "commonSubstring": "German Language ",
+    "commonSubstring": "German Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2188,7 +2188,7 @@
   },
   {
     "code": "8684",
-    "commonSubstring": "Portuguese Language ",
+    "commonSubstring": "Portuguese Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2208,7 +2208,7 @@
   },
   {
     "code": "8685",
-    "commonSubstring": "Spanish Language ",
+    "commonSubstring": "Spanish Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2228,7 +2228,7 @@
   },
   {
     "code": "8686",
-    "commonSubstring": "Urdu Language ",
+    "commonSubstring": "Urdu Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2248,7 +2248,7 @@
   },
   {
     "code": "8689",
-    "commonSubstring": "Tamil Language ",
+    "commonSubstring": "Tamil Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2268,7 +2268,7 @@
   },
   {
     "code": "8695",
-    "commonSubstring": "Language & Literature in English ",
+    "commonSubstring": "Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2288,7 +2288,7 @@
   },
   {
     "code": "9084",
-    "commonSubstring": "Law ",
+    "commonSubstring": "Law",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2322,7 +2322,7 @@
   },
   {
     "code": "9093",
-    "commonSubstring": "English Language ",
+    "commonSubstring": "English Language",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2356,7 +2356,7 @@
   },
   {
     "code": "9231",
-    "commonSubstring": "Further Mathematics ",
+    "commonSubstring": "Further Mathematics",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2390,7 +2390,7 @@
   },
   {
     "code": "9239",
-    "commonSubstring": "Global Perspectives & Research ",
+    "commonSubstring": "Global Perspectives",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2403,7 +2403,7 @@
   },
   {
     "code": "9395",
-    "commonSubstring": "Travel & Tourism ",
+    "commonSubstring": "Travel",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2430,7 +2430,7 @@
   },
   {
     "code": "9396",
-    "commonSubstring": "Physical Education ",
+    "commonSubstring": "Physical Education",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2450,7 +2450,7 @@
   },
   {
     "code": "9482",
-    "commonSubstring": "Drama ",
+    "commonSubstring": "Drama",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2463,7 +2463,7 @@
   },
   {
     "code": "9483",
-    "commonSubstring": "Music (Listening) ",
+    "commonSubstring": "Music",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2476,7 +2476,7 @@
   },
   {
     "code": "9484",
-    "commonSubstring": "Biblical Studies ",
+    "commonSubstring": "Biblical Studies",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2510,7 +2510,7 @@
   },
   {
     "code": "9487",
-    "commonSubstring": "Hinduism ",
+    "commonSubstring": "Hinduism",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2544,7 +2544,7 @@
   },
   {
     "code": "9488",
-    "commonSubstring": "Islamic Studies ",
+    "commonSubstring": "Islamic Studies",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2578,7 +2578,7 @@
   },
   {
     "code": "9489",
-    "commonSubstring": "History ",
+    "commonSubstring": "History",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2612,7 +2612,7 @@
   },
   {
     "code": "9607",
-    "commonSubstring": "Media Studies ",
+    "commonSubstring": "Media Studies",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2632,7 +2632,7 @@
   },
   {
     "code": "9609",
-    "commonSubstring": "Business ",
+    "commonSubstring": "Business",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2666,7 +2666,7 @@
   },
   {
     "code": "9618",
-    "commonSubstring": "Computer Science ",
+    "commonSubstring": "Computer Science",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2700,7 +2700,7 @@
   },
   {
     "code": "9626",
-    "commonSubstring": "Information Technology ",
+    "commonSubstring": "Information Technology",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2720,7 +2720,7 @@
   },
   {
     "code": "9680",
-    "commonSubstring": "Arabic ",
+    "commonSubstring": "Arabic",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -2754,7 +2754,7 @@
   },
   {
     "code": "9686",
-    "commonSubstring": "Urdu ",
+    "commonSubstring": "Urdu",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -2781,7 +2781,7 @@
   },
   {
     "code": "9689",
-    "commonSubstring": "Tamil ",
+    "commonSubstring": "Tamil",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -2815,7 +2815,7 @@
   },
   {
     "code": "9693",
-    "commonSubstring": "Marine Science ",
+    "commonSubstring": "Marine Science",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2849,7 +2849,7 @@
   },
   {
     "code": "9694",
-    "commonSubstring": "Thinking Skills ",
+    "commonSubstring": "Thinking Skills",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2883,7 +2883,7 @@
   },
   {
     "code": "9695",
-    "commonSubstring": "Literature in English ",
+    "commonSubstring": "Literature in English",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2917,7 +2917,7 @@
   },
   {
     "code": "9696",
-    "commonSubstring": "Geography (",
+    "commonSubstring": "Geography",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2951,7 +2951,7 @@
   },
   {
     "code": "9699",
-    "commonSubstring": "Sociology ",
+    "commonSubstring": "Sociology",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -2985,7 +2985,7 @@
   },
   {
     "code": "9700",
-    "commonSubstring": "Biology ",
+    "commonSubstring": "Biology",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3033,7 +3033,7 @@
   },
   {
     "code": "9701",
-    "commonSubstring": "Chemistry ",
+    "commonSubstring": "Chemistry",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3081,7 +3081,7 @@
   },
   {
     "code": "9702",
-    "commonSubstring": "Physics ",
+    "commonSubstring": "Physics",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3129,7 +3129,7 @@
   },
   {
     "code": "9705",
-    "commonSubstring": "Design & Technology ",
+    "commonSubstring": "Design",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3149,7 +3149,7 @@
   },
   {
     "code": "9706",
-    "commonSubstring": "Accounting ",
+    "commonSubstring": "Accounting",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3183,7 +3183,7 @@
   },
   {
     "code": "9708",
-    "commonSubstring": "Economics ",
+    "commonSubstring": "Economics",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3217,7 +3217,7 @@
   },
   {
     "code": "9709",
-    "commonSubstring": "Mathematics (",
+    "commonSubstring": "Mathematics",
     "group": [
       {
         "type": "Cambridge International AS Level",
@@ -3265,7 +3265,7 @@
   },
   {
     "code": "9715",
-    "commonSubstring": "Chinese ",
+    "commonSubstring": "Chinese",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -3292,7 +3292,7 @@
   },
   {
     "code": "9716",
-    "commonSubstring": "French ",
+    "commonSubstring": "French",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -3319,7 +3319,7 @@
   },
   {
     "code": "9717",
-    "commonSubstring": "German ",
+    "commonSubstring": "German",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -3346,7 +3346,7 @@
   },
   {
     "code": "9718",
-    "commonSubstring": "Portuguese ",
+    "commonSubstring": "Portuguese",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -3373,7 +3373,7 @@
   },
   {
     "code": "9719",
-    "commonSubstring": "Spanish ",
+    "commonSubstring": "Spanish",
     "group": [
       {
         "type": "Cambridge International A Level",
@@ -3400,7 +3400,7 @@
   },
   {
     "code": "9990",
-    "commonSubstring": "Psychology ",
+    "commonSubstring": "Psychology",
     "group": [
       {
         "type": "Cambridge International AS Level",
