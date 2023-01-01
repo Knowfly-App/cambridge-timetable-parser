@@ -4,7 +4,7 @@ import pandas as pd
 import argparse
 
 
-def parse_timetable(file_path, output_path, start_page):
+def parse_timetable(file_path, output_path, start_page, format):
     # read your file
     pdf = PyPDF2.PdfReader(open(file_path, 'rb'))
 
@@ -60,20 +60,26 @@ def parse_timetable(file_path, output_path, start_page):
     # convert the data_map to a dataframe
     df = pd.DataFrame(flat_data)
     df.columns = ['type', 'subject', 'code', 'duration', 'date']
-    df.to_csv(output_path, index=False)
+    
+    if format == 'json':
+        df.to_json(output_path, orient='records')
+    else:
+        df.to_csv(output_path, index=False)
 
 
 if __name__ == '__main__':
     # read arguments from the command line
     parser = argparse.ArgumentParser()
-    parser.add_argument('--file_path', type=str, default='file.pdf',
+    parser.add_argument('--file-path', type=str, default='file.pdf',
                         help='path to the pdf file for the cambridge timetable')
-    parser.add_argument('--output_path', type=str, default='timetable.csv',
+    parser.add_argument('--output-path', type=str, default='timetable.csv',
                         help='The path for the output CSV file (default: timetable.csv)')
     parser.add_argument('--start-page', type=int, default=10,
                         help='First page from where the "Syllabus view(A–Z)" section starts')
+    parser.add_argument('--format', type=str, default="csv",
+                        help='Export format: csv or json (default: csv)')
     args = parser.parse_args()
 
     # call the function
     parse_timetable(file_path=args.file_path,
-                    output_path=args.output_path, start_page=args.start_page-1)
+                    output_path=args.output_path, start_page=args.start_page-1, format=args.format)
