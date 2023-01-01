@@ -24,6 +24,7 @@ options:
   --file_path FILE_PATH
                         path to the pdf file for the cambridge timetable
   --output_path OUTPUT_PATH
+                        The path for the output CSV file (default: timetable.csv)
   --start-page START_PAGE
                         First page from where the "Syllabus view(A–Z)" section starts
 ```
