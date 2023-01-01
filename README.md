@@ -30,8 +30,20 @@ options:
 ```
 
 
-Example:
+## Example:
+
+> Note: Use `python3` instead of `python` if you do not have python aliased to python3
+
+
+### Usage with default values
+
+```bash
+python main.py
+```
+
+### Usage with all arguments
 
 ```bash
 python main.py --file_path "timetable.pdf" --output_path "output.csv" --start-page 10
 ```
+
