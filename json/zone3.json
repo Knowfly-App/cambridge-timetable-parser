@@ -1515,7 +1515,14 @@
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Physics (Practical) 0972/51 1h 15m Tuesday 16 May 2023 PMCambridge IGCSE Continued Physics (Alternative to Practical) ",
+        "subject": "Physics (Practical) ",
+        "code": "0972/51",
+        "duration": "1h 15m",
+        "date": "Tuesday 16 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Alternative to Practical) ",
         "code": "0972/61",
         "duration": "1h",
         "date": "Tuesday 16 May 2023 PM"
@@ -1938,7 +1945,7 @@
     "commonSubstring": "Physical Education",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge IGCSE",
         "subject": "Physical Education ",
         "code": "0995/12",
         "duration": "1h 45m",
@@ -2627,21 +2634,21 @@
     "commonSubstring": "Spanish",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge IGCSE",
         "subject": "Spanish (Listening \u2013 Multiple Choice) ",
         "code": "7160/12",
         "duration": "50m",
         "date": "Monday 22 May 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge IGCSE",
         "subject": "Spanish ",
         "code": "7160/22",
         "duration": "1h",
         "date": "Wednesday 24 May 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge IGCSE",
         "subject": "Spanish ",
         "code": "7160/42",
         "duration": "1h",
