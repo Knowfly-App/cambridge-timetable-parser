@@ -1,4 +1,135 @@
 type,subject,code,duration,date
+Cambridge IGCSE,Accounting (Multiple Choice) ,0452/13,1h 15m,Friday 26 May 2023 PM
+Cambridge IGCSE,Accounting ,0452/23,1h 45m,Friday 19 May 2023 PM
+Cambridge IGCSE,Additional Mathematics ,0606/13,2h,Tuesday 23 May 2023 PM
+Cambridge IGCSE,Additional Mathematics ,0606/23,2h,Tuesday 30 May 2023 PM
+Cambridge IGCSE,American History (US) ,0409/01,2h,Thursday 27 April 2023 AM
+Cambridge IGCSE,American History (US) ,0409/02,1h 45m,Monday 01 May 2023 AM
+Cambridge IGCSE,Arabic (Listening – Multiple Choice) ,0544/11,50m,Thursday 18 May 2023 AM
+Cambridge IGCSE,Arabic ,0544/21,1h,Wednesday 26 April 2023 AM
+Cambridge IGCSE,Arabic ,0544/41,1h,Thursday 18 May 2023 AM
+Cambridge IGCSE,Biology (Alternative to Practical) ,0610/63,1h,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Biology (Core) ,0610/33,1h 15m,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Biology (Extended) ,0610/43,1h 15m,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Biology (Multiple Choice – Core) ,0610/13,45m,Thursday 08 June 2023 PM
+Cambridge IGCSE,Biology (Multiple Choice – Extended) ,0610/23,45m,Thursday 08 June 2023 PM
+Cambridge IGCSE,Biology (Practical) ,0610/53,1h 15m,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Business Studies ,0450/13,1h 30m,Monday 15 May 2023 PM
+Cambridge IGCSE,Business Studies ,0450/23,1h 30m,Monday 22 May 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Core) ,0607/13,45m,Tuesday 25 April 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Core) ,0607/33,1h 45m,Thursday 27 April 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Core) ,0607/53,1h 10m,Friday 12 May 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Extended) ,0607/23,45m,Tuesday 25 April 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Extended) ,0607/43,2h 15m,Thursday 27 April 2023 PM
+Cambridge IGCSE,Cambridge International Mathematics (Extended) ,0607/63,1h 40m,Friday 12 May 2023 PM
+Cambridge IGCSE,Chemistry (Alternative to Practical) ,0620/63,1h,Thursday 11 May 2023 PM
+Cambridge IGCSE,Chemistry (Core) ,0620/33,1h 15m,Thursday 04 May 2023 PM
+Cambridge IGCSE,Chemistry (Extended) ,0620/43,1h 15m,Thursday 04 May 2023 PM
+Cambridge IGCSE,Chemistry (Multiple Choice – Core) ,0620/13,45m,Wednesday 07 June 2023 PM
+Cambridge IGCSE,Chemistry (Multiple Choice – Extended) ,0620/23,45m,Wednesday 07 June 2023 PM
+Cambridge IGCSE,Chemistry (Practical) ,0620/53,1h 15m,Thursday 11 May 2023 PM
+Cambridge IGCSE,Chinese as a Second Language (Listening) ,0523/02,45m,Friday 28 April 2023 PM
+Cambridge IGCSE,Chinese as a Second Language ,0523/01,2h,Wednesday 26 April 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award)  (Alternative to Practical),0654/63,1h 30m,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award)  (Extended),0654/43,2h,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award) (Core) ,0654/33,2h,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award) (Multiple  Choice – Core),0654/13,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award) (Multiple  Choice – Extended),0654/23,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Co-ordinated Sciences (Double Award) (Practical) ,0654/53,2h,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Combined Science (Alternative to Practical) ,0653/63,1h,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Combined Science (Core) ,0653/33,1h 15m,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Combined Science (Extended) ,0653/43,1h 15m,Tuesday 02 May 2023 PM
+Cambridge IGCSE,Combined Science (Multiple Choice – Core) ,0653/13,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Combined Science (Multiple Choice – Extended) ,0653/23,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Combined Science (Practical) ,0653/53,1h 15m,Tuesday 09 May 2023 PM
+Cambridge IGCSE,Computer Science ,0478/13,1h 45m,Friday 12 May 2023 PM
+Cambridge IGCSE,Computer Science ,0478/23,1h 45m,Thursday 18 May 2023 PM
+Cambridge IGCSE,Design & Technology ,0445/11,1h 15m,Wednesday 17 May 2023 AM
+Cambridge IGCSE,Design & Technology ,0445/31,1h,Monday 05 June 2023 AM
+Cambridge IGCSE,Design & Technology ,0445/41,1h,Monday 05 June 2023 AM
+Cambridge IGCSE,Design & Technology ,0445/51,1h,Monday 05 June 2023 AM
+Cambridge IGCSE,Drama ,0411/11,2h 30m,Friday 26 May 2023 AM
+Cambridge IGCSE,Economics (Multiple Choice) ,0455/13,45m,Monday 05 June 2023 PM
+Cambridge IGCSE,Economics ,0455/23,2h 15m,Thursday 25 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Count-in  Speaking) (Core),0511/13,1h 30m,Wednesday 03 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Count-in  Speaking) (Extended),0511/23,2h,Wednesday 03 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Count-in  Speaking) (Listening – Core),0511/33,40m,Friday 05 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Count-in  Speaking) (Listening – Extended),0511/43,50m,Friday 05 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Speaking  Endorsement) (Core),0510/13,1h 30m,Wednesday 03 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Speaking  Endorsement) (Extended),0510/23,2h,Wednesday 03 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Speaking  Endorsement) (Listening – Core),0510/33,40m,Friday 05 May 2023 PM
+Cambridge IGCSE,English as a Second Language (Speaking  Endorsement) (Listening – Extended),0510/43,50m,Friday 05 May 2023 PM
+Cambridge IGCSE,Enterprise ,0454/11,1h 30m,Tuesday 06 June 2023 AM
+Cambridge IGCSE,Environmental Management ,0680/13,1h 45m,Tuesday 23 May 2023 PM
+Cambridge IGCSE,Environmental Management ,0680/23,1h 45m,Monday 05 June 2023 PM
+Cambridge IGCSE,First Language Chinese ,0509/11,2h 15m,Thursday 11 May 2023 AM
+Cambridge IGCSE,First Language Chinese ,0509/21,2h,Thursday 18 May 2023 AM
+Cambridge IGCSE,First Language English (Oral Endorsement) ,0500/13,2h,Wednesday 03 May 2023 PM
+Cambridge IGCSE,First Language English (Oral Endorsement) ,0500/23,2h,Friday 05 May 2023 PM
+Cambridge IGCSE,First Language English (US) ,0524/13,2h,Wednesday 03 May 2023 PM
+Cambridge IGCSE,First Language Spanish ,0502/13,2h,Wednesday 17 May 2023 PM
+Cambridge IGCSE,First Language Spanish ,0502/23,2h,Friday 19 May 2023 PM
+Cambridge IGCSE,Food & Nutrition ,0648/11,2h,Wednesday 07 June 2023 AM
+Cambridge IGCSE,French (Listening – Multiple Choice) ,0520/13,50m,Friday 28 April 2023 PM
+Cambridge IGCSE,French ,0520/23,1h,Thursday 11 May 2023 PM
+Cambridge IGCSE,French ,0520/43,1h,Friday 28 April 2023 PM
+Cambridge IGCSE,Geography ,0460/11,1h 45m,Wednesday 03 May 2023 AM
+Cambridge IGCSE,Geography ,0460/21,1h 30m,Monday 15 May 2023 AM
+Cambridge IGCSE,Geography ,0460/41,1h 30m,Tuesday 23 May 2023 AM
+Cambridge IGCSE,German (Listening – Multiple Choice) ,0525/11,50m,Wednesday 26 April 2023 AM
+Cambridge IGCSE,German ,0525/21,1h,Thursday 11 May 2023 AM
+Cambridge IGCSE,German ,0525/41,1h,Wednesday 26 April 2023 AM
+Cambridge IGCSE,Global Perspectives ,0457/11,1h 15m,Friday 12 May 2023 AM
+Cambridge IGCSE,History ,0470/11,2h,Friday 05 May 2023 AM
+Cambridge IGCSE,History ,0470/21,2h,Wednesday 10 May 2023 AM
+Cambridge IGCSE,History ,0470/41,1h,Wednesday 17 May 2023 AM
+Cambridge IGCSE,Information & Communication Technology ,0417/11,1h 30m,Friday 12 May 2023 AM
+Cambridge IGCSE,Italian (Listening – Multiple Choice) ,0535/11,50m,Tuesday 25 April 2023 AM
+Cambridge IGCSE,Italian ,0535/21,1h,Thursday 27 April 2023 AM
+Cambridge IGCSE,Italian ,0535/41,1h,Tuesday 25 April 2023 AM
+Cambridge IGCSE,Literature (English) (US) ,0427/01,1h 30m,Tuesday 09 May 2023 AM
+Cambridge IGCSE,Literature (English) (US) ,0427/02,45m,Tuesday 16 May 2023 AM
+Cambridge IGCSE,Literature (Spanish) ,0488/13,2h 15m,Monday 24 April 2023 PM
+Cambridge IGCSE,Literature (Spanish) ,0488/33,1h 20m,Thursday 27 April 2023 PM
+Cambridge IGCSE,Literature in English ,0475/11,1h 30m,Tuesday 09 May 2023 AM
+Cambridge IGCSE,Literature in English ,0475/21,1h 30m,Tuesday 16 May 2023 AM
+Cambridge IGCSE,Literature in English ,0475/31,45m,Tuesday 16 May 2023 AM
+Cambridge IGCSE,Literature in English ,0475/41,1h 15m,Tuesday 16 May 2023 AM
+Cambridge IGCSE,Malay (Listening – Multiple Choice) ,0546/11,50m,Monday 29 May 2023 AM
+Cambridge IGCSE,Malay ,0546/21,1h,Friday 05 May 2023 AM
+Cambridge IGCSE,Malay ,0546/41,1h,Monday 15 May 2023 AM
+Cambridge IGCSE,Mandarin Chinese (Listening – Multiple Choice) ,0547/13,40m,Monday 22 May 2023 PM
+Cambridge IGCSE,Mandarin Chinese ,0547/23,1h 15m,Wednesday 24 May 2023 PM
+Cambridge IGCSE,Mandarin Chinese ,0547/43,1h 15m,Monday 22 May 2023 PM
+Cambridge IGCSE,Mathematics (Core) ,0580/11,1h,Tuesday 02 May 2023 AM
+Cambridge IGCSE,Mathematics (Core) ,0580/31,2h,Thursday 04 May 2023 AM
+Cambridge IGCSE,Mathematics (Extended) ,0580/21,1h 30m,Tuesday 02 May 2023 AM
+Cambridge IGCSE,Mathematics (Extended) ,0580/41,2h 30m,Thursday 04 May 2023 AM
+Cambridge IGCSE,Mathematics (US) (Core) ,0444/11,1h,Tuesday 02 May 2023 AM
+Cambridge IGCSE,Mathematics (US) (Core) ,0444/31,2h,Thursday 04 May 2023 AM
+Cambridge IGCSE,Mathematics (US) (Extended) ,0444/21,1h 30m,Tuesday 02 May 2023 AM
+Cambridge IGCSE,Mathematics (US) (Extended) ,0444/41,2h 30m,Thursday 04 May 2023 AM
+Cambridge IGCSE,Music (Listening) ,0410/11,1h 15m,Tuesday 23 May 2023 AM
+Cambridge IGCSE,Physical Education ,0413/11,1h 45m,Friday 19 May 2023 AM
+Cambridge IGCSE,Physics (Alternative to Practical) ,0625/63,1h,Tuesday 16 May 2023 PM
+Cambridge IGCSE,Physics (Core) ,0625/33,1h 15m,Wednesday 10 May 2023 PM
+Cambridge IGCSE,Physics (Extended) ,0625/43,1h 15m,Wednesday 10 May 2023 PM
+Cambridge IGCSE,Physics (Multiple Choice – Core) ,0625/13,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Physics (Multiple Choice – Extended) ,0625/23,45m,Tuesday 06 June 2023 PM
+Cambridge IGCSE,Physics (Practical) ,0625/53,1h 15m,Tuesday 16 May 2023 PM
+Cambridge IGCSE,Sanskrit ,0499/13,1h 30m,Monday 24 April 2023 PM
+Cambridge IGCSE,Sanskrit ,0499/23,1h 30m,Friday 28 April 2023 PM
+Cambridge IGCSE,Sociology ,0495/11,2h,Monday 22 May 2023 AM
+Cambridge IGCSE,Sociology ,0495/21,1h 45m,Wednesday 24 May 2023 AM
+Cambridge IGCSE,Spanish (Listening – Multiple Choice) ,0530/11,50m,Monday 22 May 2023 AM
+Cambridge IGCSE,Spanish ,0530/21,1h,Wednesday 24 May 2023 AM
+Cambridge IGCSE,Spanish ,0530/41,1h,Monday 22 May 2023 AM
+Cambridge IGCSE,Travel & Tourism ,0471/11,2h,Tuesday 09 May 2023 AM
+Cambridge IGCSE,Travel & Tourism ,0471/21,2h 30m,Thursday 25 May 2023 AM
+Cambridge IGCSE,Urdu as a Second Language (Listening) ,0539/02,45m,Wednesday 26 April 2023 AM
+Cambridge IGCSE,Urdu as a Second Language ,0539/01,2h,Thursday 11 May 2023 AM
+Cambridge IGCSE,World Literature ,0408/23,1h 15m,Monday 15 May 2023 PM
+Cambridge IGCSE,World Literature ,0408/33,1h 30m,Wednesday 17 May 2023 PM
 Cambridge International AS Level,Accounting (Multiple Choice) ,9706/11,1h,Wednesday 07 June 2023 AM
 Cambridge International AS Level,Accounting ,9706/21,1h 45m,Friday 05 May 2023 AM
 Cambridge International AS Level,Biology (Multiple Choice) ,9700/13,1h 15m,Thursday 08 June 2023 PM

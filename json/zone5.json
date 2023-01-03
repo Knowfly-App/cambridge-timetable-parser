@@ -1,5 +1,1244 @@
 [
   {
+    "code": "0408",
+    "commonSubstring": "World Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "World Literature ",
+        "code": "0408/22",
+        "duration": "1h 15m",
+        "date": "Monday 15 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "World Literature ",
+        "code": "0408/32",
+        "duration": "1h 30m",
+        "date": "Wednesday 17 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0410",
+    "commonSubstring": "Music",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Music (Listening) ",
+        "code": "0410/13",
+        "duration": "1h 15m",
+        "date": "Tuesday 23 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0411",
+    "commonSubstring": "Drama",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Drama ",
+        "code": "0411/13",
+        "duration": "2h 30m",
+        "date": "Friday 26 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0413",
+    "commonSubstring": "Physical Education",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Education ",
+        "code": "0413/13",
+        "duration": "1h 45m",
+        "date": "Friday 19 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0417",
+    "commonSubstring": "Information",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Information & Communication Technology ",
+        "code": "0417/13",
+        "duration": "1h 30m",
+        "date": "Friday 12 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0445",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology ",
+        "code": "0445/13",
+        "duration": "1h 15m",
+        "date": "Wednesday 17 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology ",
+        "code": "0445/33",
+        "duration": "1h",
+        "date": "Monday 05 June 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology ",
+        "code": "0445/43",
+        "duration": "1h",
+        "date": "Monday 05 June 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Design & Technology ",
+        "code": "0445/53",
+        "duration": "1h",
+        "date": "Monday 05 June 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0448",
+    "commonSubstring": "Pakistan Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Pakistan Studies ",
+        "code": "0448/01",
+        "duration": "1h 30m",
+        "date": "Tuesday 25 April 2023 EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Pakistan Studies ",
+        "code": "0448/02",
+        "duration": "1h 30m",
+        "date": "Thursday 27 April 2023 EV"
+      }
+    ]
+  },
+  {
+    "code": "0450",
+    "commonSubstring": "Business Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Business Studies ",
+        "code": "0450/12",
+        "duration": "1h 30m",
+        "date": "Monday 15 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Business Studies ",
+        "code": "0450/22",
+        "duration": "1h 30m",
+        "date": "Monday 22 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0452",
+    "commonSubstring": "Accounting",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Accounting (Multiple Choice) ",
+        "code": "0452/12",
+        "duration": "1h 15m",
+        "date": "Friday 26 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Accounting ",
+        "code": "0452/22",
+        "duration": "1h 45m",
+        "date": "Friday 19 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0454",
+    "commonSubstring": "Enterprise",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Enterprise ",
+        "code": "0454/13",
+        "duration": "1h 30m",
+        "date": "Tuesday 06 June 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0455",
+    "commonSubstring": "Economics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Economics (Multiple Choice) ",
+        "code": "0455/12",
+        "duration": "45m",
+        "date": "Monday 05 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Economics ",
+        "code": "0455/22",
+        "duration": "2h 15m",
+        "date": "Thursday 25 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0457",
+    "commonSubstring": "Global Perspectives",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Global Perspectives ",
+        "code": "0457/13",
+        "duration": "1h 15m",
+        "date": "Friday 12 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0460",
+    "commonSubstring": "Geography",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography ",
+        "code": "0460/13",
+        "duration": "1h 45m",
+        "date": "Wednesday 03 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography ",
+        "code": "0460/23",
+        "duration": "1h 30m",
+        "date": "Monday 15 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Geography ",
+        "code": "0460/43",
+        "duration": "1h 30m",
+        "date": "Tuesday 23 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0470",
+    "commonSubstring": "History",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History ",
+        "code": "0470/13",
+        "duration": "2h",
+        "date": "Friday 05 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History ",
+        "code": "0470/23",
+        "duration": "2h",
+        "date": "Wednesday 10 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "History ",
+        "code": "0470/43",
+        "duration": "1h",
+        "date": "Wednesday 17 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0471",
+    "commonSubstring": "Travel",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Travel & Tourism ",
+        "code": "0471/13",
+        "duration": "2h",
+        "date": "Tuesday 09 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Travel & Tourism ",
+        "code": "0471/23",
+        "duration": "2h 30m",
+        "date": "Thursday 25 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0472",
+    "commonSubstring": "English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language) (Listening \u2013  Multiple Choice)",
+        "code": "0472/12",
+        "duration": "50m",
+        "date": "Friday 05 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language) ",
+        "code": "0472/22",
+        "duration": "1h",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English (as an Additional Language) ",
+        "code": "0472/42",
+        "duration": "1h",
+        "date": "Wednesday 03 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0475",
+    "commonSubstring": "Literature in English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English ",
+        "code": "0475/13",
+        "duration": "1h 30m",
+        "date": "Tuesday 09 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English ",
+        "code": "0475/23",
+        "duration": "1h 30m",
+        "date": "Tuesday 16 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English ",
+        "code": "0475/33",
+        "duration": "45m",
+        "date": "Tuesday 16 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature in English ",
+        "code": "0475/43",
+        "duration": "1h 15m",
+        "date": "Tuesday 16 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0478",
+    "commonSubstring": "Computer Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Computer Science ",
+        "code": "0478/12",
+        "duration": "1h 45m",
+        "date": "Friday 12 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Computer Science ",
+        "code": "0478/22",
+        "duration": "1h 45m",
+        "date": "Thursday 18 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0480",
+    "commonSubstring": "Latin",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Latin ",
+        "code": "0480/13",
+        "duration": "1h 30m",
+        "date": "Monday 08 May 2023 EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Latin ",
+        "code": "0480/23",
+        "duration": "1h 30m",
+        "date": "Wednesday 10 May 2023 EV"
+      }
+    ]
+  },
+  {
+    "code": "0488",
+    "commonSubstring": "Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature (Spanish) ",
+        "code": "0488/12",
+        "duration": "2h 15m",
+        "date": "Monday 24 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Literature (Spanish) ",
+        "code": "0488/32",
+        "duration": "1h 20m",
+        "date": "Friday 28 April 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0493",
+    "commonSubstring": "Islamiyat",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Islamiyat ",
+        "code": "0493/12",
+        "duration": "1h 30m",
+        "date": "Wednesday 26 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Islamiyat ",
+        "code": "0493/22",
+        "duration": "1h 30m",
+        "date": "Monday 08 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0495",
+    "commonSubstring": "Sociology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sociology ",
+        "code": "0495/13",
+        "duration": "2h",
+        "date": "Monday 22 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sociology ",
+        "code": "0495/23",
+        "duration": "1h 45m",
+        "date": "Wednesday 24 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0499",
+    "commonSubstring": "Sanskrit",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sanskrit ",
+        "code": "0499/12",
+        "duration": "1h 30m",
+        "date": "Monday 24 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Sanskrit ",
+        "code": "0499/22",
+        "duration": "1h 30m",
+        "date": "Friday 28 April 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0500",
+    "commonSubstring": "First Language English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement) ",
+        "code": "0500/12",
+        "duration": "2h",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement) ",
+        "code": "0500/22",
+        "duration": "2h",
+        "date": "Friday 05 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0502",
+    "commonSubstring": "First Language Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Spanish ",
+        "code": "0502/12",
+        "duration": "2h",
+        "date": "Wednesday 17 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Spanish ",
+        "code": "0502/22",
+        "duration": "2h",
+        "date": "Friday 19 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0509",
+    "commonSubstring": "First Language Chinese",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Chinese ",
+        "code": "0509/13",
+        "duration": "2h 15m",
+        "date": "Thursday 11 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Chinese ",
+        "code": "0509/23",
+        "duration": "2h",
+        "date": "Thursday 18 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0510",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking  Endorsement) (Core)",
+        "code": "0510/12",
+        "duration": "1h 30m",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking  Endorsement) (Extended)",
+        "code": "0510/22",
+        "duration": "2h",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking  Endorsement) (Listening \u2013 Core)",
+        "code": "0510/32",
+        "duration": "40m",
+        "date": "Friday 05 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking  Endorsement) (Listening \u2013 Extended)",
+        "code": "0510/42",
+        "duration": "50m",
+        "date": "Friday 05 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0511",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in  Speaking) (Core)",
+        "code": "0511/12",
+        "duration": "1h 30m",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in  Speaking) (Extended)",
+        "code": "0511/22",
+        "duration": "2h",
+        "date": "Wednesday 03 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in  Speaking) (Listening \u2013 Core)",
+        "code": "0511/32",
+        "duration": "40m",
+        "date": "Friday 05 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in  Speaking) (Listening \u2013 Extended)",
+        "code": "0511/42",
+        "duration": "50m",
+        "date": "Friday 05 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0520",
+    "commonSubstring": "French",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French (Listening \u2013 Multiple Choice) ",
+        "code": "0520/12",
+        "duration": "50m",
+        "date": "Friday 28 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French ",
+        "code": "0520/22",
+        "duration": "1h",
+        "date": "Thursday 11 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "French ",
+        "code": "0520/42",
+        "duration": "1h",
+        "date": "Friday 28 April 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0523",
+    "commonSubstring": "Chinese as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chinese as a Second Language ",
+        "code": "0523/01",
+        "duration": "2h",
+        "date": "Wednesday 26 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chinese as a Second Language (Listening) ",
+        "code": "0523/02",
+        "duration": "45m",
+        "date": "Friday 28 April 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0525",
+    "commonSubstring": "German",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German (Listening \u2013 Multiple Choice) ",
+        "code": "0525/13",
+        "duration": "50m",
+        "date": "Wednesday 26 April 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German ",
+        "code": "0525/23",
+        "duration": "1h",
+        "date": "Thursday 11 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "German ",
+        "code": "0525/43",
+        "duration": "1h",
+        "date": "Wednesday 26 April 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0530",
+    "commonSubstring": "Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish (Listening \u2013 Multiple Choice) ",
+        "code": "0530/13",
+        "duration": "50m",
+        "date": "Monday 22 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish ",
+        "code": "0530/23",
+        "duration": "1h",
+        "date": "Wednesday 24 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Spanish ",
+        "code": "0530/43",
+        "duration": "1h",
+        "date": "Monday 22 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0535",
+    "commonSubstring": "Italian",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian (Listening \u2013 Multiple Choice) ",
+        "code": "0535/13",
+        "duration": "50m",
+        "date": "Wednesday 26 April 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian ",
+        "code": "0535/23",
+        "duration": "1h",
+        "date": "Friday 28 April 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Italian ",
+        "code": "0535/43",
+        "duration": "1h",
+        "date": "Wednesday 26 April 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0538",
+    "commonSubstring": "Bahasa Indonesia",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Bahasa Indonesia ",
+        "code": "0538/01",
+        "duration": "1h 45m",
+        "date": "Friday 28 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Bahasa Indonesia ",
+        "code": "0538/02",
+        "duration": "1h 45m",
+        "date": "Monday 29 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0539",
+    "commonSubstring": "Urdu as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Urdu as a Second Language ",
+        "code": "0539/01",
+        "duration": "2h",
+        "date": "Thursday 11 May 2023 EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Urdu as a Second Language (Listening) ",
+        "code": "0539/02",
+        "duration": "45m",
+        "date": "Wednesday 26 April 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0544",
+    "commonSubstring": "Arabic",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic (Listening \u2013 Multiple Choice) ",
+        "code": "0544/13",
+        "duration": "50m",
+        "date": "Thursday 18 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic ",
+        "code": "0544/23",
+        "duration": "1h",
+        "date": "Wednesday 26 April 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Arabic ",
+        "code": "0544/43",
+        "duration": "1h",
+        "date": "Thursday 18 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0546",
+    "commonSubstring": "Malay",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay (Listening \u2013 Multiple Choice) ",
+        "code": "0546/13",
+        "duration": "50m",
+        "date": "Monday 29 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay ",
+        "code": "0546/23",
+        "duration": "1h",
+        "date": "Friday 05 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Malay ",
+        "code": "0546/43",
+        "duration": "1h",
+        "date": "Monday 15 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0547",
+    "commonSubstring": "Mandarin Chinese",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese (Listening \u2013 Multiple Choice) ",
+        "code": "0547/12",
+        "duration": "40m",
+        "date": "Monday 22 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese ",
+        "code": "0547/22",
+        "duration": "1h 15m",
+        "date": "Wednesday 24 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mandarin Chinese ",
+        "code": "0547/42",
+        "duration": "1h 15m",
+        "date": "Monday 22 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0580",
+    "commonSubstring": "Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Core) ",
+        "code": "0580/13",
+        "duration": "1h",
+        "date": "Tuesday 02 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Extended) ",
+        "code": "0580/23",
+        "duration": "1h 30m",
+        "date": "Tuesday 02 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Core) ",
+        "code": "0580/33",
+        "duration": "2h",
+        "date": "Thursday 04 May 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Mathematics (Extended) ",
+        "code": "0580/43",
+        "duration": "2h 30m",
+        "date": "Thursday 04 May 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0606",
+    "commonSubstring": "Additional Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Additional Mathematics ",
+        "code": "0606/12",
+        "duration": "2h",
+        "date": "Tuesday 23 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Additional Mathematics ",
+        "code": "0606/22",
+        "duration": "2h",
+        "date": "Tuesday 30 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0607",
+    "commonSubstring": "Cambridge International Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core) ",
+        "code": "0607/12",
+        "duration": "45m",
+        "date": "Tuesday 25 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended) ",
+        "code": "0607/22",
+        "duration": "45m",
+        "date": "Tuesday 25 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core) ",
+        "code": "0607/32",
+        "duration": "1h 45m",
+        "date": "Thursday 27 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended) ",
+        "code": "0607/42",
+        "duration": "2h 15m",
+        "date": "Thursday 27 April 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core) ",
+        "code": "0607/52",
+        "duration": "1h 10m",
+        "date": "Friday 12 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended) ",
+        "code": "0607/62",
+        "duration": "1h 40m",
+        "date": "Friday 12 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0610",
+    "commonSubstring": "Biology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Core) ",
+        "code": "0610/12",
+        "duration": "45m",
+        "date": "Thursday 08 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Extended) ",
+        "code": "0610/22",
+        "duration": "45m",
+        "date": "Thursday 08 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Core) ",
+        "code": "0610/32",
+        "duration": "1h 15m",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Extended) ",
+        "code": "0610/42",
+        "duration": "1h 15m",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Practical) ",
+        "code": "0610/52",
+        "duration": "1h 15m",
+        "date": "Tuesday 09 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Biology (Alternative to Practical) ",
+        "code": "0610/62",
+        "duration": "1h",
+        "date": "Tuesday 09 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0620",
+    "commonSubstring": "Chemistry",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Core) ",
+        "code": "0620/12",
+        "duration": "45m",
+        "date": "Wednesday 07 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Extended) ",
+        "code": "0620/22",
+        "duration": "45m",
+        "date": "Wednesday 07 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Core) ",
+        "code": "0620/32",
+        "duration": "1h 15m",
+        "date": "Thursday 04 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Extended) ",
+        "code": "0620/42",
+        "duration": "1h 15m",
+        "date": "Thursday 04 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Practical) ",
+        "code": "0620/52",
+        "duration": "1h 15m",
+        "date": "Thursday 11 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Chemistry (Alternative to Practical) ",
+        "code": "0620/62",
+        "duration": "1h",
+        "date": "Thursday 11 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0625",
+    "commonSubstring": "Physics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Core) ",
+        "code": "0625/12",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Extended) ",
+        "code": "0625/22",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Core) ",
+        "code": "0625/32",
+        "duration": "1h 15m",
+        "date": "Wednesday 10 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Extended) ",
+        "code": "0625/42",
+        "duration": "1h 15m",
+        "date": "Wednesday 10 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Practical) ",
+        "code": "0625/52",
+        "duration": "1h 15m",
+        "date": "Tuesday 16 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physics (Alternative to Practical) ",
+        "code": "0625/62",
+        "duration": "1h",
+        "date": "Tuesday 16 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0648",
+    "commonSubstring": "Food",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Food & Nutrition ",
+        "code": "0648/13",
+        "duration": "2h",
+        "date": "Wednesday 07 June 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0653",
+    "commonSubstring": "Combined Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Core) ",
+        "code": "0653/12",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Extended) ",
+        "code": "0653/22",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Core) ",
+        "code": "0653/32",
+        "duration": "1h 15m",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Extended) ",
+        "code": "0653/42",
+        "duration": "1h 15m",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Practical) ",
+        "code": "0653/52",
+        "duration": "1h 15m",
+        "date": "Tuesday 09 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Combined Science (Alternative to Practical) ",
+        "code": "0653/62",
+        "duration": "1h",
+        "date": "Tuesday 09 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0654",
+    "commonSubstring": "Co",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple  Choice \u2013 Core)",
+        "code": "0654/12",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple  Choice \u2013 Extended)",
+        "code": "0654/22",
+        "duration": "45m",
+        "date": "Tuesday 06 June 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Core) ",
+        "code": "0654/32",
+        "duration": "2h",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award)  (Extended)",
+        "code": "0654/42",
+        "duration": "2h",
+        "date": "Tuesday 02 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Practical) ",
+        "code": "0654/52",
+        "duration": "2h",
+        "date": "Tuesday 09 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award)  (Alternative to Practical)",
+        "code": "0654/62",
+        "duration": "1h 30m",
+        "date": "Tuesday 09 May 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0680",
+    "commonSubstring": "Environmental Management",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Environmental Management ",
+        "code": "0680/12",
+        "duration": "1h 45m",
+        "date": "Tuesday 23 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Environmental Management ",
+        "code": "0680/22",
+        "duration": "1h 45m",
+        "date": "Monday 05 June 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0696",
+    "commonSubstring": "First Language Malay",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Malay ",
+        "code": "0696/01",
+        "duration": "2h",
+        "date": "Friday 05 May 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "First Language Malay ",
+        "code": "0696/02",
+        "duration": "2h",
+        "date": "Monday 15 May 2023 PM"
+      }
+    ]
+  },
+  {
     "code": "1123",
     "commonSubstring": "English Language",
     "group": [
