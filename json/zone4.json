@@ -1,41 +1,21 @@
 [
   {
-    "code": "0262",
-    "commonSubstring": "Swahili",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Swahili ",
-        "code": "0262/01",
-        "duration": "2h",
-        "date": "Monday 24 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Swahili (Listening) ",
-        "code": "0262/02",
-        "duration": "45m",
-        "date": "Friday 28 April 2023 PM"
-      }
-    ]
-  },
-  {
     "code": "0408",
     "commonSubstring": "World Literature",
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "World Literature ",
+        "subject": "World Literature",
         "code": "0408/22",
         "duration": "1h 15m",
-        "date": "Monday 15 May 2023 AM"
+        "date": "Thursday 02 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "World Literature ",
+        "subject": "World Literature",
         "code": "0408/32",
         "duration": "1h 30m",
-        "date": "Wednesday 17 May 2023 AM"
+        "date": "Wednesday 08 2023 PM"
       }
     ]
   },
@@ -45,10 +25,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Music (Listening) ",
+        "subject": "Music (Listening)",
         "code": "0410/12",
         "duration": "1h 15m",
-        "date": "Tuesday 23 May 2023 PM"
+        "date": "Monday 30 October PM"
       }
     ]
   },
@@ -58,10 +38,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Drama ",
+        "subject": "Drama",
         "code": "0411/12",
         "duration": "2h 30m",
-        "date": "Friday 26 May 2023 PM"
+        "date": "Friday 27 October PM"
       }
     ]
   },
@@ -71,10 +51,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physical Education ",
+        "subject": "Physical Education",
         "code": "0413/12",
         "duration": "1h 45m",
-        "date": "Friday 19 May 2023 PM"
+        "date": "Monday 09 October AM"
       }
     ]
   },
@@ -84,10 +64,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Information & Communication Technology ",
+        "subject": "Information & Communication Technology",
         "code": "0417/12",
         "duration": "1h 30m",
-        "date": "Friday 12 May 2023 PM"
+        "date": "Thursday 19 October AM"
       }
     ]
   },
@@ -97,51 +77,31 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "0445/12",
         "duration": "1h 15m",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Wednesday 25 October 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "0445/32",
         "duration": "1h",
-        "date": "Monday 05 June 2023 PM"
+        "date": "Friday 03 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "0445/42",
         "duration": "1h",
-        "date": "Monday 05 June 2023 PM"
+        "date": "Friday 03 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "0445/52",
         "duration": "1h",
-        "date": "Monday 05 June 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0448",
-    "commonSubstring": "Pakistan Studies",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Pakistan Studies ",
-        "code": "0448/01",
-        "duration": "1h 30m",
-        "date": "Tuesday 25 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Pakistan Studies ",
-        "code": "0448/02",
-        "duration": "1h 30m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Friday 03 PM"
       }
     ]
   },
@@ -151,17 +111,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Business Studies ",
+        "subject": "Business Studies",
         "code": "0450/12",
         "duration": "1h 30m",
-        "date": "Monday 15 May 2023 AM"
+        "date": "Friday 13 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Business Studies ",
+        "subject": "Business Studies",
         "code": "0450/22",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 AM"
+        "date": "Tuesday 17 October AM"
       }
     ]
   },
@@ -171,17 +131,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Accounting (Multiple Choice) ",
+        "subject": "Accounting (Multiple Choice)",
         "code": "0452/12",
         "duration": "1h 15m",
-        "date": "Friday 26 May 2023 AM"
+        "date": "Wednesday 08 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Accounting ",
+        "subject": "Accounting",
         "code": "0452/22",
         "duration": "1h 45m",
-        "date": "Friday 19 May 2023 AM"
+        "date": "Monday 09 October PM"
       }
     ]
   },
@@ -191,10 +151,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Enterprise ",
+        "subject": "Enterprise",
         "code": "0454/12",
         "duration": "1h 30m",
-        "date": "Tuesday 06 June 2023 PM"
+        "date": "Friday 06 October PM"
       }
     ]
   },
@@ -204,17 +164,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Economics (Multiple Choice) ",
+        "subject": "Economics (Multiple Choice)",
         "code": "0455/12",
         "duration": "45m",
-        "date": "Monday 05 June 2023 AM"
+        "date": "Monday 06 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Economics ",
+        "subject": "Economics",
         "code": "0455/22",
         "duration": "2h 15m",
-        "date": "Thursday 25 May 2023 AM"
+        "date": "Monday 23 October PM"
       }
     ]
   },
@@ -224,10 +184,10 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Global Perspectives ",
+        "subject": "Global Perspectives",
         "code": "0457/12",
         "duration": "1h 15m",
-        "date": "Friday 12 May 2023 PM"
+        "date": "Wednesday 25 October 2023 AM"
       }
     ]
   },
@@ -237,24 +197,24 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Geography ",
+        "subject": "Geography",
         "code": "0460/12",
         "duration": "1h 45m",
-        "date": "Wednesday 03 May 2023 PM"
+        "date": "Friday 20 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Geography ",
+        "subject": "Geography",
         "code": "0460/22",
         "duration": "1h 30m",
-        "date": "Monday 15 May 2023 PM"
+        "date": "Wednesday 18 October 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Geography ",
+        "subject": "Geography",
         "code": "0460/42",
         "duration": "1h 30m",
-        "date": "Tuesday 23 May 2023 PM"
+        "date": "Monday 30 October PM"
       }
     ]
   },
@@ -264,24 +224,24 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "History ",
+        "subject": "History",
         "code": "0470/12",
         "duration": "2h",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Friday 06 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "History ",
+        "subject": "History",
         "code": "0470/22",
         "duration": "2h",
-        "date": "Wednesday 10 May 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "History ",
+        "subject": "History",
         "code": "0470/42",
         "duration": "1h",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Wednesday 25 October 2023 AM"
       }
     ]
   },
@@ -291,44 +251,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Travel & Tourism ",
+        "subject": "Travel & Tourism",
         "code": "0471/12",
         "duration": "2h",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Travel & Tourism ",
+        "subject": "Travel & Tourism",
         "code": "0471/22",
         "duration": "2h 30m",
-        "date": "Thursday 25 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0472",
-    "commonSubstring": "English",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "English (as an Additional Language) (Listening \u2013  Multiple Choice)",
-        "code": "0472/12",
-        "duration": "50m",
-        "date": "Friday 05 May 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "English (as an Additional Language) ",
-        "code": "0472/22",
-        "duration": "1h",
-        "date": "Wednesday 03 May 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "English (as an Additional Language) ",
-        "code": "0472/42",
-        "duration": "1h",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Friday 13 October PM"
       }
     ]
   },
@@ -338,31 +271,31 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "0475/12",
         "duration": "1h 30m",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "0475/22",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Tuesday 31 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "0475/32",
         "duration": "45m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Tuesday 31 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "0475/42",
         "duration": "1h 15m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Tuesday 31 October PM"
       }
     ]
   },
@@ -372,37 +305,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "0478/12",
         "duration": "1h 45m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Wednesday 11 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "0478/22",
         "duration": "1h 45m",
-        "date": "Thursday 18 May 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0480",
-    "commonSubstring": "Latin",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Latin ",
-        "code": "0480/12",
-        "duration": "1h 30m",
-        "date": "Monday 08 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Latin ",
-        "code": "0480/22",
-        "duration": "1h 30m",
-        "date": "Wednesday 10 May 2023 PM"
+        "date": "Friday 20 October PM"
       }
     ]
   },
@@ -412,17 +325,37 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature (Spanish) ",
-        "code": "0488/12",
+        "subject": "Literature (Spanish)",
+        "code": "0488/01",
         "duration": "2h 15m",
-        "date": "Monday 24 April 2023 AM"
+        "date": "Wednesday 04 October 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Literature (Spanish) ",
-        "code": "0488/32",
+        "subject": "Literature (Spanish)",
+        "code": "0488/03",
         "duration": "1h 20m",
-        "date": "Thursday 27 April 2023 EV"
+        "date": "Friday 06 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0490",
+    "commonSubstring": "Religious Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Religious Studies",
+        "code": "0490/12",
+        "duration": "1h 45m",
+        "date": "Thursday 02 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Religious Studies",
+        "code": "0490/22",
+        "duration": "1h 45m",
+        "date": "Thursday 09 2023 PM"
       }
     ]
   },
@@ -432,17 +365,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Islamiyat ",
+        "subject": "Islamiyat",
         "code": "0493/12",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Islamiyat ",
+        "subject": "Islamiyat",
         "code": "0493/22",
         "duration": "1h 30m",
-        "date": "Monday 08 May 2023 AM"
+        "date": "Wednesday 04 October 2023 AM"
       }
     ]
   },
@@ -452,37 +385,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "0495/12",
         "duration": "2h",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "0495/22",
         "duration": "1h 45m",
-        "date": "Wednesday 24 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0499",
-    "commonSubstring": "Sanskrit",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Sanskrit ",
-        "code": "0499/12",
-        "duration": "1h 30m",
-        "date": "Monday 24 April 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Sanskrit ",
-        "code": "0499/22",
-        "duration": "1h 30m",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Thursday 19 October PM"
       }
     ]
   },
@@ -492,37 +405,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language English (Oral Endorsement) ",
+        "subject": "First Language English (Oral Endorsement)",
         "code": "0500/12",
         "duration": "2h",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Thursday 12 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language English (Oral Endorsement) ",
+        "subject": "First Language English (Oral Endorsement)",
         "code": "0500/22",
         "duration": "2h",
-        "date": "Friday 05 May 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0501",
-    "commonSubstring": "First Language French",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language French ",
-        "code": "0501/01",
-        "duration": "2h",
-        "date": "Wednesday 03 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language French ",
-        "code": "0501/02",
-        "duration": "2h",
-        "date": "Monday 15 May 2023 PM"
+        "date": "Tuesday 17 October PM"
       }
     ]
   },
@@ -532,37 +425,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language Spanish ",
+        "subject": "First Language Spanish",
         "code": "0502/12",
         "duration": "2h",
-        "date": "Wednesday 17 May 2023 AM"
+        "date": "Tuesday 03 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language Spanish ",
+        "subject": "First Language Spanish",
         "code": "0502/22",
         "duration": "2h",
-        "date": "Friday 19 May 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0505",
-    "commonSubstring": "First Language German",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language German ",
-        "code": "0505/01",
-        "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language German ",
-        "code": "0505/02",
-        "duration": "2h",
-        "date": "Thursday 18 May 2023 PM"
+        "date": "Thursday 05 October PM"
       }
     ]
   },
@@ -572,37 +445,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language Arabic ",
+        "subject": "First Language Arabic",
         "code": "0508/01",
         "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "First Language Arabic ",
+        "subject": "First Language Arabic",
         "code": "0508/02",
         "duration": "2h",
-        "date": "Thursday 18 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0509",
-    "commonSubstring": "First Language Chinese",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Chinese ",
-        "code": "0509/12",
-        "duration": "2h 15m",
-        "date": "Thursday 11 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Chinese ",
-        "code": "0509/22",
-        "duration": "2h",
-        "date": "Thursday 18 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -612,31 +465,31 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Speaking  Endorsement) (Core)",
+        "subject": "English as a Second Language (Speaking Endorsement) (Core)",
         "code": "0510/12",
         "duration": "1h 30m",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Speaking  Endorsement) (Extended)",
+        "subject": "English as a Second Language (Speaking Endorsement) (Extended)",
         "code": "0510/22",
         "duration": "2h",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Speaking  Endorsement) (Listening \u2013 Core)",
+        "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Core)",
         "code": "0510/32",
         "duration": "40m",
-        "date": "Friday 05 May 2023 AM"
+        "date": "Monday 16 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Speaking  Endorsement) (Listening \u2013 Extended)",
+        "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Extended)",
         "code": "0510/42",
         "duration": "50m",
-        "date": "Friday 05 May 2023 AM"
+        "date": "Monday 16 October AM"
       }
     ]
   },
@@ -646,71 +499,31 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Count-in  Speaking) (Core)",
+        "subject": "English as a Second Language (Count-in Speaking) (Core)",
         "code": "0511/12",
         "duration": "1h 30m",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Count-in  Speaking) (Extended)",
+        "subject": "English as a Second Language (Count-in Speaking) (Extended)",
         "code": "0511/22",
         "duration": "2h",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Count-in  Speaking) (Listening \u2013 Core)",
+        "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Core)",
         "code": "0511/32",
         "duration": "40m",
-        "date": "Friday 05 May 2023 AM"
+        "date": "Monday 16 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "English as a Second Language (Count-in  Speaking) (Listening \u2013 Extended)",
+        "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Extended)",
         "code": "0511/42",
         "duration": "50m",
-        "date": "Friday 05 May 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0513",
-    "commonSubstring": "First Language Turkish",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Turkish ",
-        "code": "0513/01",
-        "duration": "2h",
-        "date": "Thursday 27 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Turkish ",
-        "code": "0513/02",
-        "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0518",
-    "commonSubstring": "First Language Thai",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Thai ",
-        "code": "0518/01",
-        "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Thai ",
-        "code": "0518/02",
-        "duration": "2h",
-        "date": "Thursday 18 May 2023 PM"
+        "date": "Monday 16 October AM"
       }
     ]
   },
@@ -720,44 +533,24 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "French (Listening \u2013 Multiple Choice) ",
+        "subject": "French (Listening \u2013 Multiple Choice)",
         "code": "0520/12",
         "duration": "50m",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Thursday 16 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "French ",
+        "subject": "French",
         "code": "0520/22",
         "duration": "1h",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Wednesday 25 October 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "French ",
+        "subject": "French",
         "code": "0520/42",
         "duration": "1h",
-        "date": "Friday 28 April 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0523",
-    "commonSubstring": "Chinese as a Second Language",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Chinese as a Second Language ",
-        "code": "0523/01",
-        "duration": "2h",
-        "date": "Wednesday 26 April 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Chinese as a Second Language (Listening) ",
-        "code": "0523/02",
-        "duration": "45m",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Friday 27 October PM"
       }
     ]
   },
@@ -767,24 +560,24 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "German (Listening \u2013 Multiple Choice) ",
+        "subject": "German (Listening \u2013 Multiple Choice)",
         "code": "0525/12",
         "duration": "50m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Friday 10 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "German ",
+        "subject": "German",
         "code": "0525/22",
         "duration": "1h",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Monday 06 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "German ",
+        "subject": "German",
         "code": "0525/42",
         "duration": "1h",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Tuesday 17 October PM"
       }
     ]
   },
@@ -794,172 +587,44 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Spanish (Listening \u2013 Multiple Choice) ",
+        "subject": "Spanish (Listening \u2013 Multiple Choice)",
         "code": "0530/12",
         "duration": "50m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Friday 17 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Spanish ",
+        "subject": "Spanish",
         "code": "0530/22",
         "duration": "1h",
-        "date": "Wednesday 24 May 2023 PM"
+        "date": "Thursday 26 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Spanish ",
+        "subject": "Spanish",
         "code": "0530/42",
         "duration": "1h",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 30 October AM"
       }
     ]
   },
   {
-    "code": "0535",
-    "commonSubstring": "Italian",
+    "code": "0549",
+    "commonSubstring": "Hindi as a Second Language",
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Italian (Listening \u2013 Multiple Choice) ",
-        "code": "0535/12",
-        "duration": "50m",
-        "date": "Tuesday 25 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Italian ",
-        "code": "0535/22",
-        "duration": "1h",
-        "date": "Thursday 27 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Italian ",
-        "code": "0535/42",
-        "duration": "1h",
-        "date": "Tuesday 25 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0538",
-    "commonSubstring": "Bahasa Indonesia",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Bahasa Indonesia ",
-        "code": "0538/01",
-        "duration": "1h 45m",
-        "date": "Friday 28 April 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Bahasa Indonesia ",
-        "code": "0538/02",
-        "duration": "1h 45m",
-        "date": "Monday 29 May 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0539",
-    "commonSubstring": "Urdu as a Second Language",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Urdu as a Second Language ",
-        "code": "0539/01",
+        "subject": "Hindi as a Second Language",
+        "code": "0549/01",
         "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Monday 23 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Urdu as a Second Language (Listening) ",
-        "code": "0539/02",
+        "subject": "Hindi as a Second Language",
+        "code": "0549/02",
         "duration": "45m",
-        "date": "Wednesday 26 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0544",
-    "commonSubstring": "Arabic",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Arabic (Listening \u2013 Multiple Choice) ",
-        "code": "0544/12",
-        "duration": "50m",
-        "date": "Thursday 18 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Arabic ",
-        "code": "0544/22",
-        "duration": "1h",
-        "date": "Wednesday 26 April 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Arabic ",
-        "code": "0544/42",
-        "duration": "1h",
-        "date": "Thursday 18 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0546",
-    "commonSubstring": "Malay",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Malay (Listening \u2013 Multiple Choice) ",
-        "code": "0546/12",
-        "duration": "50m",
-        "date": "Monday 29 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Malay ",
-        "code": "0546/22",
-        "duration": "1h",
-        "date": "Friday 05 May 2023 PM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Malay ",
-        "code": "0546/42",
-        "duration": "1h",
-        "date": "Monday 15 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "0547",
-    "commonSubstring": "Mandarin Chinese",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Mandarin Chinese (Listening \u2013 Multiple Choice) ",
-        "code": "0547/12",
-        "duration": "40m",
-        "date": "Monday 22 May 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Mandarin Chinese ",
-        "code": "0547/22",
-        "duration": "1h 15m",
-        "date": "Wednesday 24 May 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "Mandarin Chinese ",
-        "code": "0547/42",
-        "duration": "1h 15m",
-        "date": "Monday 22 May 2023 AM"
+        "date": "Friday 20 October AM"
       }
     ]
   },
@@ -969,31 +634,44 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Mathematics (Core) ",
+        "subject": "Mathematics (Core)",
         "code": "0580/12",
         "duration": "1h",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Mathematics (Extended) ",
+        "subject": "Mathematics (Extended)",
         "code": "0580/22",
         "duration": "1h 30m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Mathematics (Core) ",
+        "subject": "Mathematics (Core)",
         "code": "0580/32",
         "duration": "2h",
-        "date": "Thursday 04 May 2023 PM"
+        "date": "Wednesday 18 October 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Mathematics (Extended) ",
+        "subject": "Mathematics (Extended)",
         "code": "0580/42",
         "duration": "2h 30m",
-        "date": "Thursday 04 May 2023 PM"
+        "date": "Wednesday 18 October 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0600",
+    "commonSubstring": "Agriculture",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Agriculture",
+        "code": "0600/12",
+        "duration": "1h 45m",
+        "date": "Thursday 19 October AM"
       }
     ]
   },
@@ -1003,17 +681,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Additional Mathematics ",
+        "subject": "Additional Mathematics",
         "code": "0606/12",
         "duration": "2h",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Friday 06 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Additional Mathematics ",
+        "subject": "Additional Mathematics",
         "code": "0606/22",
         "duration": "2h",
-        "date": "Tuesday 30 May 2023 AM"
+        "date": "Monday 09 October PM"
       }
     ]
   },
@@ -1023,45 +701,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Core) ",
+        "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/12",
         "duration": "45m",
-        "date": "Tuesday 25 April 2023 AM"
+        "date": "Tuesday 03 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Extended) ",
+        "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/22",
         "duration": "45m",
-        "date": "Tuesday 25 April 2023 AM"
+        "date": "Tuesday 03 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Core) ",
+        "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/32",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 AM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Extended) ",
+        "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/42",
         "duration": "2h 15m",
-        "date": "Thursday 27 April 2023 AM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Core) ",
+        "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/52",
         "duration": "1h 10m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Wednesday 18 October 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Cambridge International Mathematics (Extended) ",
+        "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/62",
         "duration": "1h 40m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Wednesday 18 October 2023 AM"
       }
     ]
   },
@@ -1071,45 +749,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Multiple Choice \u2013 Core) ",
+        "subject": "Biology (Multiple Choice \u2013 Core)",
         "code": "0610/12",
         "duration": "45m",
-        "date": "Thursday 08 June 2023 AM"
+        "date": "Tuesday 14 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Multiple Choice \u2013 Extended) ",
+        "subject": "Biology (Multiple Choice \u2013 Extended)",
         "code": "0610/22",
         "duration": "45m",
-        "date": "Thursday 08 June 2023 AM"
+        "date": "Tuesday 14 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Core) ",
+        "subject": "Biology (Core)",
         "code": "0610/32",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Extended) ",
+        "subject": "Biology (Extended)",
         "code": "0610/42",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Practical) ",
+        "subject": "Biology (Practical)",
         "code": "0610/52",
         "duration": "1h 15m",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Thursday 19 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Biology (Alternative to Practical) ",
+        "subject": "Biology (Alternative to Practical)",
         "code": "0610/62",
         "duration": "1h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Thursday 19 October PM"
       }
     ]
   },
@@ -1119,45 +797,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Multiple Choice \u2013 Core) ",
+        "subject": "Chemistry (Multiple Choice \u2013 Core)",
         "code": "0620/12",
         "duration": "45m",
-        "date": "Wednesday 07 June 2023 AM"
+        "date": "Wednesday 15 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Multiple Choice \u2013 Extended) ",
+        "subject": "Chemistry (Multiple Choice \u2013 Extended)",
         "code": "0620/22",
         "duration": "45m",
-        "date": "Wednesday 07 June 2023 AM"
+        "date": "Wednesday 15 2023 PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Core) ",
+        "subject": "Chemistry (Core)",
         "code": "0620/32",
         "duration": "1h 15m",
-        "date": "Thursday 04 May 2023 AM"
+        "date": "Friday 13 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Extended) ",
+        "subject": "Chemistry (Extended)",
         "code": "0620/42",
         "duration": "1h 15m",
-        "date": "Thursday 04 May 2023 AM"
+        "date": "Friday 13 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Practical) ",
+        "subject": "Chemistry (Practical)",
         "code": "0620/52",
         "duration": "1h 15m",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Thursday 26 October PM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Chemistry (Alternative to Practical) ",
+        "subject": "Chemistry (Alternative to Practical)",
         "code": "0620/62",
         "duration": "1h",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Thursday 26 October PM"
       }
     ]
   },
@@ -1167,45 +845,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Multiple Choice \u2013 Core) ",
+        "subject": "Physics (Multiple Choice \u2013 Core)",
         "code": "0625/12",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Multiple Choice \u2013 Extended) ",
+        "subject": "Physics (Multiple Choice \u2013 Extended)",
         "code": "0625/22",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Core) ",
+        "subject": "Physics (Core)",
         "code": "0625/32",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Extended) ",
+        "subject": "Physics (Extended)",
         "code": "0625/42",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Practical) ",
+        "subject": "Physics (Practical)",
         "code": "0625/52",
         "duration": "1h 15m",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Physics (Alternative to Practical) ",
+        "subject": "Physics (Alternative to Practical)",
         "code": "0625/62",
         "duration": "1h",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       }
     ]
   },
@@ -1215,10 +893,58 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Food & Nutrition ",
+        "subject": "Food & Nutrition",
         "code": "0648/12",
         "duration": "2h",
-        "date": "Wednesday 07 June 2023 PM"
+        "date": "Thursday 26 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0652",
+    "commonSubstring": "Physical Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Multiple Choice \u2013 Core)",
+        "code": "0652/12",
+        "duration": "45m",
+        "date": "Thursday 09 2023 EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Multiple Choice \u2013 Extended)",
+        "code": "0652/22",
+        "duration": "45m",
+        "date": "Thursday 09 2023 EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Core)",
+        "code": "0652/32",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Extended)",
+        "code": "0652/42",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Practical)",
+        "code": "0652/52",
+        "duration": "1h 15m",
+        "date": "Tuesday 24 October EV"
+      },
+      {
+        "type": "Cambridge IGCSE",
+        "subject": "Physical Science (Alternative to Practical)",
+        "code": "0652/62",
+        "duration": "1h",
+        "date": "Tuesday 24 October EV"
       }
     ]
   },
@@ -1228,45 +954,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Multiple Choice \u2013 Core) ",
+        "subject": "Combined Science (Multiple Choice \u2013 Core)",
         "code": "0653/12",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Multiple Choice \u2013 Extended) ",
+        "subject": "Combined Science (Multiple Choice \u2013 Extended)",
         "code": "0653/22",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Core) ",
+        "subject": "Combined Science (Core)",
         "code": "0653/32",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Extended) ",
+        "subject": "Combined Science (Extended)",
         "code": "0653/42",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Practical) ",
+        "subject": "Combined Science (Practical)",
         "code": "0653/52",
         "duration": "1h 15m",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Tuesday 24 October EV"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Combined Science (Alternative to Practical) ",
+        "subject": "Combined Science (Alternative to Practical)",
         "code": "0653/62",
         "duration": "1h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       }
     ]
   },
@@ -1276,45 +1002,45 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award) (Multiple  Choice \u2013 Core)",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Core)",
         "code": "0654/12",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award) (Multiple  Choice \u2013 Extended)",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Extended)",
         "code": "0654/22",
         "duration": "45m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award) (Core) ",
+        "subject": "Co-ordinated Sciences (Double Award) (Core)",
         "code": "0654/32",
         "duration": "2h",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award)  (Extended)",
+        "subject": "Co-ordinated Sciences (Double Award) (Extended)",
         "code": "0654/42",
         "duration": "2h",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award) (Practical) ",
+        "subject": "Co-ordinated Sciences (Double Award) (Practical)",
         "code": "0654/52",
         "duration": "2h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Co-ordinated Sciences (Double Award)  (Alternative to Practical)",
+        "subject": "Co-ordinated Sciences (Double Award) (Alternative to Practical)",
         "code": "0654/62",
         "duration": "1h 30m",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       }
     ]
   },
@@ -1324,37 +1050,17 @@
     "group": [
       {
         "type": "Cambridge IGCSE",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "0680/12",
         "duration": "1h 45m",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge IGCSE",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "0680/22",
         "duration": "1h 45m",
-        "date": "Monday 05 June 2023 AM"
-      }
-    ]
-  },
-  {
-    "code": "0696",
-    "commonSubstring": "First Language Malay",
-    "group": [
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Malay ",
-        "code": "0696/01",
-        "duration": "2h",
-        "date": "Friday 05 May 2023 AM"
-      },
-      {
-        "type": "Cambridge IGCSE",
-        "subject": "First Language Malay ",
-        "code": "0696/02",
-        "duration": "2h",
-        "date": "Monday 15 May 2023 AM"
+        "date": "Thursday 05 October AM"
       }
     ]
   },
@@ -1364,17 +1070,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "1123/12",
         "duration": "1h 30m",
-        "date": "Tuesday 25 April 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "1123/22",
         "duration": "1h 45m",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Monday 16 October AM"
       }
     ]
   },
@@ -1384,17 +1090,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "2010/12",
         "duration": "1h 30m",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "2010/22",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Tuesday 31 October PM"
       }
     ]
   },
@@ -1404,17 +1110,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Religious Studies (Bible Knowledge) ",
+        "subject": "Religious Studies (Bible Knowledge)",
         "code": "2048/12",
         "duration": "1h 30m",
-        "date": "Tuesday 30 May 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Religious Studies (Bible Knowledge) ",
+        "subject": "Religious Studies (Bible Knowledge)",
         "code": "2048/22",
         "duration": "1h 30m",
-        "date": "Friday 02 June 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -1424,17 +1130,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "2055/01",
         "duration": "1h 30m",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "2055/02",
         "duration": "1h 30m",
-        "date": "Tuesday 23 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -1444,17 +1150,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Islamiyat ",
+        "subject": "Islamiyat",
         "code": "2058/12",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Islamiyat ",
+        "subject": "Islamiyat",
         "code": "2058/22",
         "duration": "1h 30m",
-        "date": "Monday 08 May 2023 AM"
+        "date": "Wednesday 04 October 2023 AM"
       }
     ]
   },
@@ -1464,17 +1170,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Pakistan Studies ",
+        "subject": "Pakistan Studies",
         "code": "2059/01",
         "duration": "1h 30m",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Tuesday 03 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Pakistan Studies ",
+        "subject": "Pakistan Studies",
         "code": "2059/02",
         "duration": "1h 30m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Thursday 05 October PM"
       }
     ]
   },
@@ -1484,30 +1190,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "2068/12",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Wednesday 25 October 2023 PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "2068/22",
         "duration": "1h 30m",
-        "date": "Friday 28 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "2069",
-    "commonSubstring": "Global Perspectives",
-    "group": [
-      {
-        "type": "Cambridge O Level",
-        "subject": "Global Perspectives ",
-        "code": "2069/12",
-        "duration": "1h 15m",
-        "date": "Friday 12 May 2023 PM"
+        "date": "Friday 03 PM"
       }
     ]
   },
@@ -1517,17 +1210,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "2147/12",
         "duration": "2h",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Friday 06 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "2147/22",
         "duration": "2h",
-        "date": "Wednesday 10 May 2023 PM"
+        "date": "Friday 27 October AM"
       }
     ]
   },
@@ -1537,17 +1230,44 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "2210/12",
         "duration": "1h 45m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Wednesday 11 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "2210/22",
         "duration": "1h 45m",
-        "date": "Thursday 18 May 2023 AM"
+        "date": "Friday 20 October PM"
+      }
+    ]
+  },
+  {
+    "code": "2217",
+    "commonSubstring": "Geography",
+    "group": [
+      {
+        "type": "Cambridge O Level",
+        "subject": "Geography",
+        "code": "2217/12",
+        "duration": "1h 45m",
+        "date": "Friday 20 October PM"
+      },
+      {
+        "type": "Cambridge O Level",
+        "subject": "Geography",
+        "code": "2217/22",
+        "duration": "1h 30m",
+        "date": "Wednesday 18 October 2023 PM"
+      },
+      {
+        "type": "Cambridge O Level",
+        "subject": "Geography",
+        "code": "2217/32",
+        "duration": "1h 30m",
+        "date": "Monday 30 October PM"
       }
     ]
   },
@@ -1557,17 +1277,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "2251/12",
         "duration": "2h",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "2251/22",
         "duration": "1h 45m",
-        "date": "Wednesday 24 May 2023 PM"
+        "date": "Thursday 19 October PM"
       }
     ]
   },
@@ -1577,44 +1297,37 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Economics (Multiple Choice) ",
+        "subject": "Economics (Multiple Choice)",
         "code": "2281/12",
         "duration": "45m",
-        "date": "Monday 05 June 2023 AM"
+        "date": "Monday 06 PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Economics ",
+        "subject": "Economics",
         "code": "2281/22",
         "duration": "2h 15m",
-        "date": "Thursday 25 May 2023 AM"
+        "date": "Monday 23 October PM"
       }
     ]
   },
   {
-    "code": "3015",
-    "commonSubstring": "French",
+    "code": "3158",
+    "commonSubstring": "Setswana",
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "French (Listening \u2013 Multiple Choice) ",
-        "code": "3015/01",
-        "duration": "50m",
-        "date": "Friday 28 April 2023 AM"
+        "subject": "Setswana",
+        "code": "3158/01",
+        "duration": "2h 30m",
+        "date": "Tuesday 03 October EV"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "French ",
-        "code": "3015/02",
-        "duration": "1h",
-        "date": "Thursday 11 May 2023 AM"
-      },
-      {
-        "type": "Cambridge O Level",
-        "subject": "French ",
-        "code": "3015/04",
-        "duration": "1h",
-        "date": "Friday 28 April 2023 AM"
+        "subject": "Setswana",
+        "code": "3158/02",
+        "duration": "1h 30m",
+        "date": "Monday 16 October EV"
       }
     ]
   },
@@ -1624,97 +1337,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "3180/01",
         "duration": "1h 30m",
-        "date": "Wednesday 03 May 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "3180/02",
         "duration": "1h 30m",
-        "date": "Thursday 18 May 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "3204",
-    "commonSubstring": "Bengali",
-    "group": [
-      {
-        "type": "Cambridge O Level",
-        "subject": "Bengali ",
-        "code": "3204/01",
-        "duration": "2h",
-        "date": "Monday 24 April 2023 PM"
-      },
-      {
-        "type": "Cambridge O Level",
-        "subject": "Bengali ",
-        "code": "3204/02",
-        "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "3205",
-    "commonSubstring": "Sinhala",
-    "group": [
-      {
-        "type": "Cambridge O Level",
-        "subject": "Sinhala ",
-        "code": "3205/01",
-        "duration": "1h 30m",
-        "date": "Monday 24 April 2023 PM"
-      },
-      {
-        "type": "Cambridge O Level",
-        "subject": "Sinhala ",
-        "code": "3205/02",
-        "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "3226",
-    "commonSubstring": "Tamil",
-    "group": [
-      {
-        "type": "Cambridge O Level",
-        "subject": "Tamil ",
-        "code": "3226/01",
-        "duration": "1h 30m",
-        "date": "Monday 24 April 2023 PM"
-      },
-      {
-        "type": "Cambridge O Level",
-        "subject": "Tamil ",
-        "code": "3226/02",
-        "duration": "1h 30m",
-        "date": "Friday 28 April 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "3247",
-    "commonSubstring": "First Language Urdu",
-    "group": [
-      {
-        "type": "Cambridge O Level",
-        "subject": "First Language Urdu ",
-        "code": "3247/01",
-        "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 PM"
-      },
-      {
-        "type": "Cambridge O Level",
-        "subject": "First Language Urdu ",
-        "code": "3247/02",
-        "duration": "2h",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -1724,17 +1357,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Second Language Urdu ",
+        "subject": "Second Language Urdu",
         "code": "3248/01",
         "duration": "2h",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Second Language Urdu ",
+        "subject": "Second Language Urdu",
         "code": "3248/02",
         "duration": "1h 45m",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -1744,17 +1377,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Mathematics Syllabus D ",
+        "subject": "Mathematics Syllabus D",
         "code": "4024/12",
         "duration": "2h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Mathematics Syllabus D ",
+        "subject": "Mathematics Syllabus D",
         "code": "4024/22",
         "duration": "2h 30m",
-        "date": "Wednesday 24 May 2023 AM"
+        "date": "Wednesday 18 October 2023 AM"
       }
     ]
   },
@@ -1764,17 +1397,37 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Additional Mathematics ",
+        "subject": "Additional Mathematics",
         "code": "4037/12",
         "duration": "2h",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Friday 06 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Additional Mathematics ",
+        "subject": "Additional Mathematics",
         "code": "4037/22",
         "duration": "2h",
-        "date": "Tuesday 30 May 2023 AM"
+        "date": "Monday 09 October PM"
+      }
+    ]
+  },
+  {
+    "code": "4040",
+    "commonSubstring": "Statistics",
+    "group": [
+      {
+        "type": "Cambridge O Level",
+        "subject": "Statistics",
+        "code": "4040/12",
+        "duration": "2h 15m",
+        "date": "Tuesday 10 October PM"
+      },
+      {
+        "type": "Cambridge O Level",
+        "subject": "Statistics",
+        "code": "4040/22",
+        "duration": "2h 15m",
+        "date": "Monday 16 October PM"
       }
     ]
   },
@@ -1784,17 +1437,30 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "5014/12",
         "duration": "1h 45m",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "5014/22",
         "duration": "1h 45m",
-        "date": "Monday 05 June 2023 AM"
+        "date": "Thursday 05 October AM"
+      }
+    ]
+  },
+  {
+    "code": "5038",
+    "commonSubstring": "Agriculture",
+    "group": [
+      {
+        "type": "Cambridge O Level",
+        "subject": "Agriculture",
+        "code": "5038/12",
+        "duration": "1h 45m",
+        "date": "Thursday 19 October AM"
       }
     ]
   },
@@ -1804,31 +1470,31 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Physics (Multiple Choice) ",
+        "subject": "Physics (Multiple Choice)",
         "code": "5054/12",
         "duration": "1h",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Physics ",
+        "subject": "Physics",
         "code": "5054/22",
         "duration": "1h 45m",
-        "date": "Wednesday 10 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Physics (Practical) ",
+        "subject": "Physics (Practical)",
         "code": "5054/32",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Physics (Alternative to Practical) ",
+        "subject": "Physics (Alternative to Practical)",
         "code": "5054/42",
         "duration": "1h",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Tuesday 24 October AM"
       }
     ]
   },
@@ -1838,31 +1504,31 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Chemistry (Multiple Choice) ",
+        "subject": "Chemistry (Multiple Choice)",
         "code": "5070/12",
         "duration": "1h",
-        "date": "Wednesday 07 June 2023 AM"
+        "date": "Monday 30 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Chemistry ",
+        "subject": "Chemistry",
         "code": "5070/22",
         "duration": "1h 45m",
-        "date": "Thursday 04 May 2023 AM"
+        "date": "Monday 09 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Chemistry (Practical) ",
+        "subject": "Chemistry (Practical)",
         "code": "5070/32",
         "duration": "1h 30m",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Tuesday 03 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Chemistry (Alternative to Practical) ",
+        "subject": "Chemistry (Alternative to Practical)",
         "code": "5070/42",
         "duration": "1h",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Tuesday 03 October AM"
       }
     ]
   },
@@ -1872,31 +1538,31 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Biology (Multiple Choice) ",
+        "subject": "Biology (Multiple Choice)",
         "code": "5090/12",
         "duration": "1h",
-        "date": "Thursday 08 June 2023 AM"
+        "date": "Tuesday 31 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Biology ",
+        "subject": "Biology",
         "code": "5090/22",
         "duration": "1h 45m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Friday 20 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Biology (Practical) ",
+        "subject": "Biology (Practical)",
         "code": "5090/32",
         "duration": "1h 30m",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Thursday 05 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Biology (Alternative to Practical) ",
+        "subject": "Biology (Alternative to Practical)",
         "code": "5090/42",
         "duration": "1h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Thursday 05 October AM"
       }
     ]
   },
@@ -1906,24 +1572,44 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Combined Science (Multiple Choice) ",
+        "subject": "Combined Science (Multiple Choice)",
         "code": "5129/12",
         "duration": "1h",
-        "date": "Thursday 01 June 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Combined Science ",
+        "subject": "Combined Science",
         "code": "5129/22",
         "duration": "1h 45m",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Combined Science ",
+        "subject": "Combined Science",
         "code": "5129/32",
         "duration": "1h",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Tuesday 24 October AM"
+      }
+    ]
+  },
+  {
+    "code": "6043",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge O Level",
+        "subject": "Design & Technology",
+        "code": "6043/12",
+        "duration": "1h 15m",
+        "date": "Wednesday 25 October 2023 PM"
+      },
+      {
+        "type": "Cambridge O Level",
+        "subject": "Design & Technology",
+        "code": "6043/32",
+        "duration": "1h",
+        "date": "Friday 03 PM"
       }
     ]
   },
@@ -1933,10 +1619,10 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Food & Nutrition ",
+        "subject": "Food & Nutrition",
         "code": "6065/12",
         "duration": "2h",
-        "date": "Wednesday 07 June 2023 PM"
+        "date": "Thursday 26 October AM"
       }
     ]
   },
@@ -1946,30 +1632,30 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Fashion & Textiles ",
+        "subject": "Fashion & Textiles",
         "code": "6130/01",
         "duration": "2h",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Wednesday 11 October PM"
       }
     ]
   },
   {
-    "code": "7094",
-    "commonSubstring": "Bangladesh Studies",
+    "code": "7096",
+    "commonSubstring": "Travel",
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Bangladesh Studies ",
-        "code": "7094/01",
-        "duration": "1h 30m",
-        "date": "Monday 29 May 2023 PM"
+        "subject": "Travel & Tourism",
+        "code": "7096/12",
+        "duration": "2h",
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Bangladesh Studies ",
-        "code": "7094/02",
-        "duration": "1h 30m",
-        "date": "Wednesday 31 May 2023 PM"
+        "subject": "Travel & Tourism",
+        "code": "7096/22",
+        "duration": "2h 30m",
+        "date": "Friday 13 October PM"
       }
     ]
   },
@@ -1979,17 +1665,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Commerce (Multiple Choice) ",
+        "subject": "Commerce (Multiple Choice)",
         "code": "7100/12",
         "duration": "1h",
-        "date": "Tuesday 06 June 2023 PM"
+        "date": "Tuesday 14 AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Commerce ",
+        "subject": "Commerce",
         "code": "7100/22",
         "duration": "2h",
-        "date": "Thursday 01 June 2023 PM"
+        "date": "Monday 23 October AM"
       }
     ]
   },
@@ -1999,17 +1685,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Business Studies ",
+        "subject": "Business Studies",
         "code": "7115/12",
         "duration": "1h 30m",
-        "date": "Monday 15 May 2023 AM"
+        "date": "Friday 13 October AM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Business Studies ",
+        "subject": "Business Studies",
         "code": "7115/22",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 AM"
+        "date": "Tuesday 17 October AM"
       }
     ]
   },
@@ -2019,17 +1705,17 @@
     "group": [
       {
         "type": "Cambridge O Level",
-        "subject": "Accounting (Multiple Choice) ",
+        "subject": "Accounting (Multiple Choice)",
         "code": "7707/12",
         "duration": "1h 15m",
-        "date": "Friday 26 May 2023 AM"
+        "date": "Wednesday 08 2023 PM"
       },
       {
         "type": "Cambridge O Level",
-        "subject": "Accounting ",
+        "subject": "Accounting",
         "code": "7707/22",
         "duration": "1h 45m",
-        "date": "Friday 19 May 2023 AM"
+        "date": "Monday 09 October PM"
       }
     ]
   },
@@ -2039,17 +1725,37 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "English General Paper ",
+        "subject": "English General Paper",
         "code": "8021/12",
         "duration": "1h 15m",
-        "date": "Tuesday 25 April 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "English General Paper ",
+        "subject": "English General Paper",
         "code": "8021/22",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 AM"
+        "date": "Wednesday 04 October 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "8281",
+    "commonSubstring": "Japanese Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Japanese Language",
+        "code": "8281/02",
+        "duration": "1h 45m",
+        "date": "Thursday 05 October PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Japanese Language",
+        "code": "8281/03",
+        "duration": "1h 30m",
+        "date": "Tuesday 03 October PM"
       }
     ]
   },
@@ -2059,17 +1765,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "8291/12",
         "duration": "1h 45m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Tuesday 03 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Environmental Management ",
+        "subject": "Environmental Management",
         "code": "8291/22",
         "duration": "1h 45m",
-        "date": "Monday 01 May 2023 PM"
+        "date": "Thursday 05 October PM"
       }
     ]
   },
@@ -2079,17 +1785,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "First Language Spanish ",
+        "subject": "First Language Spanish",
         "code": "8665/22",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "First Language Spanish ",
+        "subject": "First Language Spanish",
         "code": "8665/42",
         "duration": "2h 30m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 13 PM"
       }
     ]
   },
@@ -2099,10 +1805,43 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Spanish Literature ",
+        "subject": "Spanish Literature",
         "code": "8673/42",
         "duration": "2h 30m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 13 PM"
+      }
+    ]
+  },
+  {
+    "code": "8675",
+    "commonSubstring": "Hindi Literature",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Hindi Literature",
+        "code": "8675/04",
+        "duration": "2h 30m",
+        "date": "Tuesday 03 October AM"
+      }
+    ]
+  },
+  {
+    "code": "8679",
+    "commonSubstring": "Afrikaans Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Afrikaans Language",
+        "code": "8679/02",
+        "duration": "1h 45m",
+        "date": "Friday 06 October EV"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Afrikaans Language",
+        "code": "8679/03",
+        "duration": "1h 30m",
+        "date": "Monday 02 October EV"
       }
     ]
   },
@@ -2112,17 +1851,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Arabic Language ",
+        "subject": "Arabic Language",
         "code": "8680/22",
         "duration": "1h 45m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Arabic Language ",
+        "subject": "Arabic Language",
         "code": "8680/32",
         "duration": "1h 30m",
-        "date": "Tuesday 30 May 2023 PM"
+        "date": "Friday 06 October AM"
       }
     ]
   },
@@ -2132,17 +1871,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chinese Language ",
+        "subject": "Chinese Language",
         "code": "8681/22",
         "duration": "1h 45m",
-        "date": "Monday 24 April 2023 AM"
+        "date": "Thursday 05 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chinese Language ",
+        "subject": "Chinese Language",
         "code": "8681/32",
         "duration": "1h 30m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Thursday 12 October AM"
       }
     ]
   },
@@ -2152,17 +1891,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "French Language ",
+        "subject": "French Language",
         "code": "8682/22",
         "duration": "1h 45m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Friday 06 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "French Language ",
+        "subject": "French Language",
         "code": "8682/32",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       }
     ]
   },
@@ -2172,37 +1911,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "German Language ",
-        "code": "8683/02",
+        "subject": "German Language",
+        "code": "8683/22",
         "duration": "1h 45m",
-        "date": "Wednesday 31 May 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "German Language ",
-        "code": "8683/03",
+        "subject": "German Language",
+        "code": "8683/32",
         "duration": "1h 30m",
-        "date": "Friday 02 June 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "8684",
-    "commonSubstring": "Portuguese Language",
-    "group": [
-      {
-        "type": "Cambridge International AS Level",
-        "subject": "Portuguese Language ",
-        "code": "8684/02",
-        "duration": "1h 45m",
-        "date": "Monday 08 May 2023 PM"
-      },
-      {
-        "type": "Cambridge International AS Level",
-        "subject": "Portuguese Language ",
-        "code": "8684/03",
-        "duration": "1h 30m",
-        "date": "Monday 15 May 2023 PM"
+        "date": "Wednesday 11 October PM"
       }
     ]
   },
@@ -2212,17 +1931,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Spanish Language ",
+        "subject": "Spanish Language",
         "code": "8685/22",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Spanish Language ",
+        "subject": "Spanish Language",
         "code": "8685/32",
         "duration": "1h 30m",
-        "date": "Friday 19 May 2023 PM"
+        "date": "Wednesday 11 October PM"
       }
     ]
   },
@@ -2232,17 +1951,37 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Urdu Language ",
+        "subject": "Urdu Language",
         "code": "8686/02",
         "duration": "1h 45m",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Urdu Language ",
+        "subject": "Urdu Language",
         "code": "8686/03",
         "duration": "1h 30m",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Friday 06 October AM"
+      }
+    ]
+  },
+  {
+    "code": "8687",
+    "commonSubstring": "Hindi Language",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Hindi Language",
+        "code": "8687/02",
+        "duration": "1h 45m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Hindi Language",
+        "code": "8687/03",
+        "duration": "1h 30m",
+        "date": "Friday 06 October AM"
       }
     ]
   },
@@ -2252,17 +1991,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Tamil Language ",
+        "subject": "Tamil Language",
         "code": "8689/22",
         "duration": "1h 45m",
-        "date": "Monday 24 April 2023 PM"
+        "date": "Friday 27 October EV"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Tamil Language ",
+        "subject": "Tamil Language",
         "code": "8689/32",
         "duration": "1h 30m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Friday 06 October EV"
       }
     ]
   },
@@ -2272,17 +2011,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Language & Literature in English ",
+        "subject": "Language & Literature in English",
         "code": "8695/12",
         "duration": "2h",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Monday 30 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Language & Literature in English ",
+        "subject": "Language & Literature in English",
         "code": "8695/22",
         "duration": "2h",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Monday 16 October PM"
       }
     ]
   },
@@ -2292,31 +2031,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Law ",
+        "subject": "Law",
         "code": "9084/12",
         "duration": "1h 30m",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Monday 02 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Law ",
+        "subject": "Law",
         "code": "9084/22",
         "duration": "1h 30m",
-        "date": "Thursday 25 May 2023 AM"
+        "date": "Thursday 05 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Law ",
+        "subject": "Law",
         "code": "9084/32",
         "duration": "1h 30m",
-        "date": "Monday 29 May 2023 AM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Law ",
+        "subject": "Law",
         "code": "9084/42",
         "duration": "1h 30m",
-        "date": "Wednesday 31 May 2023 AM"
+        "date": "Friday 20 October AM"
       }
     ]
   },
@@ -2326,31 +2065,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "9093/12",
         "duration": "2h 15m",
-        "date": "Wednesday 26 April 2023 AM"
+        "date": "Wednesday 25 October 2023 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "9093/22",
         "duration": "2h",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Monday 30 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "9093/32",
         "duration": "2h 15m",
-        "date": "Monday 08 May 2023 AM"
+        "date": "Wednesday 01 2023 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "English Language ",
+        "subject": "English Language",
         "code": "9093/42",
         "duration": "2h 15m",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Friday 03 PM"
       }
     ]
   },
@@ -2360,31 +2099,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Further Mathematics ",
+        "subject": "Further Mathematics",
         "code": "9231/12",
         "duration": "2h",
-        "date": "Thursday 18 May 2023 PM"
+        "date": "Monday 09 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Further Mathematics ",
+        "subject": "Further Mathematics",
         "code": "9231/22",
         "duration": "2h",
-        "date": "Tuesday 23 May 2023 PM"
+        "date": "Wednesday 01 2023 AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Further Mathematics ",
+        "subject": "Further Mathematics",
         "code": "9231/32",
         "duration": "1h 30m",
-        "date": "Friday 26 May 2023 PM"
+        "date": "Wednesday 25 October 2023 AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Further Mathematics ",
+        "subject": "Further Mathematics",
         "code": "9231/42",
         "duration": "1h 30m",
-        "date": "Tuesday 30 May 2023 PM"
+        "date": "Friday 03 AM"
       }
     ]
   },
@@ -2394,10 +2133,44 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Global Perspectives & Research ",
+        "subject": "Global Perspectives & Research",
         "code": "9239/12",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 AM"
+        "date": "Tuesday 03 October AM"
+      }
+    ]
+  },
+  {
+    "code": "9274",
+    "commonSubstring": "Classical Studies",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Classical Studies",
+        "code": "9274/12",
+        "duration": "1h 30m",
+        "date": "Tuesday 24 October PM"
+      },
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Classical Studies",
+        "code": "9274/22",
+        "duration": "1h 30m",
+        "date": "Thursday 26 October PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Classical Studies",
+        "code": "9274/32",
+        "duration": "1h 30m",
+        "date": "Friday 03 PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Classical Studies",
+        "code": "9274/42",
+        "duration": "1h 30m",
+        "date": "Saturday 11 PM"
       }
     ]
   },
@@ -2407,24 +2180,24 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Travel & Tourism ",
+        "subject": "Travel & Tourism",
         "code": "9395/12",
         "duration": "2h 30m",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Monday 02 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Travel & Tourism ",
+        "subject": "Travel & Tourism",
         "code": "9395/32",
         "duration": "1h 30m",
-        "date": "Wednesday 24 May 2023 PM"
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Travel & Tourism ",
+        "subject": "Travel & Tourism",
         "code": "9395/42",
         "duration": "1h 30m",
-        "date": "Friday 26 May 2023 PM"
+        "date": "Tuesday 17 October PM"
       }
     ]
   },
@@ -2434,17 +2207,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Physical Education ",
+        "subject": "Physical Education",
         "code": "9396/12",
         "duration": "2h 30m",
-        "date": "Wednesday 31 May 2023 PM"
+        "date": "Tuesday 07 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Physical Education ",
+        "subject": "Physical Education",
         "code": "9396/32",
         "duration": "2h 30m",
-        "date": "Monday 05 June 2023 PM"
+        "date": "Thursday 09 2023 PM"
       }
     ]
   },
@@ -2454,10 +2227,10 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Drama ",
+        "subject": "Drama",
         "code": "9482/12",
         "duration": "2h",
-        "date": "Thursday 25 May 2023 PM"
+        "date": "Friday 10 PM"
       }
     ]
   },
@@ -2467,10 +2240,10 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Music (Listening) ",
+        "subject": "Music (Listening)",
         "code": "9483/12",
         "duration": "2h",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Thursday 09 2023 PM"
       }
     ]
   },
@@ -2480,31 +2253,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biblical Studies ",
+        "subject": "Biblical Studies",
         "code": "9484/12",
         "duration": "1h 30m",
-        "date": "Friday 19 May 2023 PM"
+        "date": "Wednesday 08 2023 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biblical Studies ",
+        "subject": "Biblical Studies",
         "code": "9484/22",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 13 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Biblical Studies ",
+        "subject": "Biblical Studies",
         "code": "9484/32",
         "duration": "1h 30m",
-        "date": "Monday 29 May 2023 PM"
+        "date": "Wednesday 15 2023 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Biblical Studies ",
+        "subject": "Biblical Studies",
         "code": "9484/42",
         "duration": "1h 30m",
-        "date": "Friday 02 June 2023 PM"
+        "date": "Friday 17 PM"
       }
     ]
   },
@@ -2514,31 +2287,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "9487/01",
         "duration": "1h 30m",
-        "date": "Monday 24 April 2023 AM"
+        "date": "Thursday 12 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "9487/02",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 AM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "9487/03",
         "duration": "1h 30m",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Thursday 26 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Hinduism ",
+        "subject": "Hinduism",
         "code": "9487/04",
         "duration": "1h 30m",
-        "date": "Monday 01 May 2023 AM"
+        "date": "Wednesday 08 2023 PM"
       }
     ]
   },
@@ -2548,31 +2321,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "9488/12",
         "duration": "1h 30m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Monday 23 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "9488/22",
         "duration": "1h 30m",
-        "date": "Friday 28 April 2023 PM"
+        "date": "Wednesday 01 2023 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "9488/32",
         "duration": "1h 30m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Monday 06 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Islamic Studies ",
+        "subject": "Islamic Studies",
         "code": "9488/42",
         "duration": "1h 30m",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Friday 10 AM"
       }
     ]
   },
@@ -2582,31 +2355,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "9489/12",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Wednesday 18 October 2023 AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "9489/22",
         "duration": "1h 45m",
-        "date": "Thursday 04 May 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "9489/32",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 PM"
+        "date": "Monday 30 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "History ",
+        "subject": "History",
         "code": "9489/42",
         "duration": "1h 45m",
-        "date": "Friday 12 May 2023 PM"
+        "date": "Thursday 02 2023 AM"
       }
     ]
   },
@@ -2616,17 +2389,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Media Studies ",
-        "code": "9607/22",
+        "subject": "Media Studies",
+        "code": "9607/02",
         "duration": "2h",
-        "date": "Thursday 04 May 2023 AM"
+        "date": "Thursday 09 2023 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Media Studies ",
-        "code": "9607/42",
+        "subject": "Media Studies",
+        "code": "9607/04",
         "duration": "2h",
-        "date": "Wednesday 24 May 2023 AM"
+        "date": "Tuesday 14 AM"
       }
     ]
   },
@@ -2636,31 +2409,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Business ",
+        "subject": "Business",
         "code": "9609/12",
         "duration": "1h 15m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Monday 09 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Business ",
+        "subject": "Business",
         "code": "9609/22",
         "duration": "1h 30m",
-        "date": "Thursday 04 May 2023 PM"
+        "date": "Friday 13 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Business ",
+        "subject": "Business",
         "code": "9609/32",
         "duration": "1h 45m",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Monday 16 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Business ",
+        "subject": "Business",
         "code": "9609/42",
         "duration": "1h 15m",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Thursday 19 October AM"
       }
     ]
   },
@@ -2670,31 +2443,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "9618/12",
         "duration": "1h 30m",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Wednesday 11 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Computer Science ",
+        "subject": "Computer Science",
         "code": "9618/22",
         "duration": "2h",
-        "date": "Friday 19 May 2023 PM"
+        "date": "Friday 20 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Computer Science (Advanced) ",
+        "subject": "Computer Science (Advanced)",
         "code": "9618/32",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Wednesday 25 October 2023 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Computer Science (Practical) ",
+        "subject": "Computer Science (Practical)",
         "code": "9618/42",
         "duration": "2h 30m",
-        "date": "Wednesday 24 May 2023 PM"
+        "date": "Tuesday 31 October AM"
       }
     ]
   },
@@ -2704,17 +2477,71 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Information Technology ",
+        "subject": "Information Technology",
         "code": "9626/12",
         "duration": "1h 45m",
-        "date": "Tuesday 09 May 2023 PM"
+        "date": "Thursday 12 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Information Technology (Advanced) ",
+        "subject": "Information Technology (Advanced)",
         "code": "9626/32",
         "duration": "1h 45m",
-        "date": "Monday 15 May 2023 PM"
+        "date": "Monday 23 October PM"
+      }
+    ]
+  },
+  {
+    "code": "9631",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge International AS Level",
+        "subject": "Design & Textiles",
+        "code": "9631/01",
+        "duration": "2h",
+        "date": "Wednesday 25 October 2023 PM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Design & Textiles",
+        "code": "9631/03",
+        "duration": "2h",
+        "date": "Friday 03 PM"
+      }
+    ]
+  },
+  {
+    "code": "9676",
+    "commonSubstring": "Urdu",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/02",
+        "duration": "1h 45m",
+        "date": "Friday 27 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/03",
+        "duration": "1h 30m",
+        "date": "Friday 06 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/04",
+        "duration": "2h 30m",
+        "date": "Tuesday 03 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Urdu",
+        "code": "9676/05",
+        "duration": "45m",
+        "date": "Friday 27 October AM"
       }
     ]
   },
@@ -2724,31 +2551,31 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "9680/22",
         "duration": "1h 45m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "9680/32",
         "duration": "1h 30m",
-        "date": "Tuesday 30 May 2023 PM"
+        "date": "Friday 06 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "9680/42",
         "duration": "2h 30m",
-        "date": "Thursday 25 May 2023 PM"
+        "date": "Tuesday 03 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Arabic ",
+        "subject": "Arabic",
         "code": "9680/52",
         "duration": "45m",
-        "date": "Thursday 01 June 2023 PM"
+        "date": "Friday 27 October AM"
       }
     ]
   },
@@ -2758,24 +2585,58 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "Urdu ",
+        "subject": "Urdu",
         "code": "9686/02",
         "duration": "1h 45m",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Friday 27 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Urdu ",
+        "subject": "Urdu",
         "code": "9686/03",
         "duration": "1h 30m",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Friday 06 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Urdu ",
+        "subject": "Urdu",
         "code": "9686/04",
         "duration": "2h 30m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Tuesday 03 October AM"
+      }
+    ]
+  },
+  {
+    "code": "9687",
+    "commonSubstring": "Hindi",
+    "group": [
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Hindi",
+        "code": "9687/02",
+        "duration": "1h 45m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Hindi",
+        "code": "9687/03",
+        "duration": "1h 30m",
+        "date": "Friday 06 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Hindi",
+        "code": "9687/04",
+        "duration": "2h 30m",
+        "date": "Tuesday 03 October AM"
+      },
+      {
+        "type": "Cambridge International A Level",
+        "subject": "Hindi",
+        "code": "9687/05",
+        "duration": "45m",
+        "date": "Friday 27 October AM"
       }
     ]
   },
@@ -2785,31 +2646,31 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "Tamil ",
+        "subject": "Tamil",
         "code": "9689/22",
         "duration": "1h 45m",
-        "date": "Monday 24 April 2023 PM"
+        "date": "Friday 27 October EV"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Tamil ",
+        "subject": "Tamil",
         "code": "9689/32",
         "duration": "1h 30m",
-        "date": "Tuesday 02 May 2023 PM"
+        "date": "Friday 06 October EV"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Tamil ",
+        "subject": "Tamil",
         "code": "9689/42",
         "duration": "2h 30m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Tuesday 03 October EV"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Tamil ",
+        "subject": "Tamil",
         "code": "9689/52",
         "duration": "45m",
-        "date": "Thursday 01 June 2023 PM"
+        "date": "Friday 27 October EV"
       }
     ]
   },
@@ -2819,31 +2680,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Marine Science ",
+        "subject": "Marine Science",
         "code": "9693/12",
         "duration": "1h 45m",
-        "date": "Monday 24 April 2023 PM"
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Marine Science ",
+        "subject": "Marine Science",
         "code": "9693/22",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Thursday 19 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Marine Science ",
+        "subject": "Marine Science",
         "code": "9693/32",
         "duration": "1h 45m",
-        "date": "Monday 01 May 2023 PM"
+        "date": "Wednesday 01 2023 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Marine Science ",
+        "subject": "Marine Science",
         "code": "9693/42",
         "duration": "1h 45m",
-        "date": "Wednesday 03 May 2023 PM"
+        "date": "Friday 03 PM"
       }
     ]
   },
@@ -2853,31 +2714,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Thinking Skills ",
+        "subject": "Thinking Skills",
         "code": "9694/12",
         "duration": "1h 30m",
-        "date": "Monday 24 April 2023 PM"
+        "date": "Tuesday 03 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Thinking Skills ",
+        "subject": "Thinking Skills",
         "code": "9694/22",
         "duration": "1h 45m",
-        "date": "Friday 28 April 2023 PM"
+        "date": "Friday 06 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Thinking Skills ",
+        "subject": "Thinking Skills",
         "code": "9694/32",
         "duration": "2h",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Friday 13 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Thinking Skills ",
+        "subject": "Thinking Skills",
         "code": "9694/42",
         "duration": "1h 45m",
-        "date": "Thursday 18 May 2023 PM"
+        "date": "Thursday 26 October PM"
       }
     ]
   },
@@ -2887,31 +2748,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "9695/12",
         "duration": "2h",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "9695/22",
         "duration": "2h",
-        "date": "Friday 19 May 2023 AM"
+        "date": "Tuesday 31 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "9695/32",
         "duration": "2h",
-        "date": "Wednesday 24 May 2023 AM"
+        "date": "Monday 06 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Literature in English ",
+        "subject": "Literature in English",
         "code": "9695/42",
         "duration": "2h",
-        "date": "Friday 26 May 2023 AM"
+        "date": "Wednesday 08 2023 PM"
       }
     ]
   },
@@ -2921,31 +2782,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Geography (Core) ",
+        "subject": "Geography (Core)",
         "code": "9696/12",
         "duration": "1h 30m",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Geography (Core) ",
+        "subject": "Geography (Core)",
         "code": "9696/22",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 AM"
+        "date": "Friday 03 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Geography (Advanced) ",
+        "subject": "Geography (Advanced)",
         "code": "9696/32",
         "duration": "1h 30m",
-        "date": "Thursday 18 May 2023 AM"
+        "date": "Monday 06 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Geography (Advanced) ",
+        "subject": "Geography (Advanced)",
         "code": "9696/42",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 AM"
+        "date": "Thursday 09 2023 PM"
       }
     ]
   },
@@ -2955,31 +2816,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "9699/12",
         "duration": "1h 30m",
-        "date": "Monday 08 May 2023 PM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "9699/22",
         "duration": "1h 30m",
-        "date": "Thursday 11 May 2023 PM"
+        "date": "Monday 23 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "9699/32",
         "duration": "1h 15m",
-        "date": "Wednesday 17 May 2023 PM"
+        "date": "Monday 06 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Sociology ",
+        "subject": "Sociology",
         "code": "9699/42",
         "duration": "1h 45m",
-        "date": "Tuesday 23 May 2023 PM"
+        "date": "Wednesday 08 2023 AM"
       }
     ]
   },
@@ -2989,45 +2850,45 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biology (Multiple Choice) ",
+        "subject": "Biology (Multiple Choice)",
         "code": "9700/12",
         "duration": "1h 15m",
-        "date": "Thursday 08 June 2023 AM"
+        "date": "Tuesday 14 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biology ",
+        "subject": "Biology",
         "code": "9700/22",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 AM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biology (Practical \u2013 Advanced) ",
+        "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/33",
         "duration": "2h",
-        "date": "Tuesday 23 May 2023 AM"
+        "date": "Thursday 12 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Biology (Practical \u2013 Advanced) ",
+        "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/34",
         "duration": "2h",
-        "date": "Thursday 01 June 2023 AM"
+        "date": "Tuesday 07 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Biology ",
+        "subject": "Biology",
         "code": "9700/42",
         "duration": "2h",
-        "date": "Wednesday 03 May 2023 AM"
+        "date": "Thursday 26 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Biology ",
+        "subject": "Biology",
         "code": "9700/52",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 AM"
+        "date": "Tuesday 24 October PM"
       }
     ]
   },
@@ -3037,45 +2898,45 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chemistry (Multiple Choice) ",
+        "subject": "Chemistry (Multiple Choice)",
         "code": "9701/12",
         "duration": "1h 15m",
-        "date": "Wednesday 07 June 2023 AM"
+        "date": "Thursday 16 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chemistry ",
+        "subject": "Chemistry",
         "code": "9701/22",
         "duration": "1h 15m",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Friday 20 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chemistry (Practical \u2013 Advanced) ",
+        "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/33",
         "duration": "2h",
-        "date": "Thursday 18 May 2023 AM"
+        "date": "Tuesday 10 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Chemistry (Practical \u2013 Advanced) ",
+        "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/34",
         "duration": "2h",
-        "date": "Tuesday 30 May 2023 AM"
+        "date": "Thursday 02 2023 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Chemistry ",
+        "subject": "Chemistry",
         "code": "9701/42",
         "duration": "2h",
-        "date": "Thursday 04 May 2023 AM"
+        "date": "Friday 27 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Chemistry ",
+        "subject": "Chemistry",
         "code": "9701/52",
         "duration": "1h 15m",
-        "date": "Thursday 11 May 2023 AM"
+        "date": "Friday 20 October PM"
       }
     ]
   },
@@ -3085,45 +2946,45 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Physics (Multiple Choice) ",
+        "subject": "Physics (Multiple Choice)",
         "code": "9702/12",
         "duration": "1h 15m",
-        "date": "Tuesday 06 June 2023 AM"
+        "date": "Wednesday 15 2023 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Physics ",
+        "subject": "Physics",
         "code": "9702/22",
         "duration": "1h 15m",
-        "date": "Wednesday 17 May 2023 AM"
+        "date": "Thursday 19 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Physics (Practical \u2013 Advanced) ",
+        "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/33",
         "duration": "2h",
-        "date": "Tuesday 02 May 2023 AM"
+        "date": "Tuesday 17 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Physics (Practical \u2013 Advanced) ",
+        "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/34",
         "duration": "2h",
-        "date": "Thursday 25 May 2023 AM"
+        "date": "Tuesday 31 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Physics ",
+        "subject": "Physics",
         "code": "9702/42",
         "duration": "2h",
-        "date": "Tuesday 09 May 2023 AM"
+        "date": "Monday 09 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Physics ",
+        "subject": "Physics",
         "code": "9702/52",
         "duration": "1h 15m",
-        "date": "Wednesday 17 May 2023 AM"
+        "date": "Thursday 19 October PM"
       }
     ]
   },
@@ -3133,17 +2994,17 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "9705/12",
         "duration": "3h",
-        "date": "Tuesday 25 April 2023 PM"
+        "date": "Friday 10 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Design & Technology ",
+        "subject": "Design & Technology",
         "code": "9705/32",
         "duration": "3h",
-        "date": "Friday 28 April 2023 PM"
+        "date": "Tuesday 14 PM"
       }
     ]
   },
@@ -3153,31 +3014,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Accounting (Multiple Choice) ",
+        "subject": "Accounting (Multiple Choice)",
         "code": "9706/12",
         "duration": "1h",
-        "date": "Wednesday 07 June 2023 PM"
+        "date": "Wednesday 15 2023 AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Accounting ",
+        "subject": "Accounting",
         "code": "9706/22",
         "duration": "1h 45m",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Wednesday 18 October 2023 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Accounting ",
+        "subject": "Accounting",
         "code": "9706/32",
         "duration": "1h 30m",
-        "date": "Monday 08 May 2023 PM"
+        "date": "Tuesday 24 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Accounting ",
+        "subject": "Accounting",
         "code": "9706/42",
         "duration": "1h",
-        "date": "Monday 15 May 2023 PM"
+        "date": "Monday 30 October AM"
       }
     ]
   },
@@ -3187,31 +3048,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Economics (Multiple Choice) ",
+        "subject": "Economics (Multiple Choice)",
         "code": "9708/12",
         "duration": "1h",
-        "date": "Monday 05 June 2023 AM"
+        "date": "Tuesday 14 AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Economics ",
+        "subject": "Economics",
         "code": "9708/22",
         "duration": "2h",
-        "date": "Friday 05 May 2023 AM"
+        "date": "Tuesday 10 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Economics (Multiple Choice) ",
+        "subject": "Economics (Multiple Choice)",
         "code": "9708/32",
         "duration": "1h 15m",
-        "date": "Friday 09 June 2023 AM"
+        "date": "Thursday 16 AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Economics ",
+        "subject": "Economics",
         "code": "9708/42",
         "duration": "2h",
-        "date": "Monday 15 May 2023 AM"
+        "date": "Tuesday 17 October AM"
       }
     ]
   },
@@ -3221,45 +3082,45 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Mathematics (Pure Mathematics 1) ",
+        "subject": "Mathematics (Pure Mathematics 1)",
         "code": "9709/12",
         "duration": "1h 50m",
-        "date": "Wednesday 03 May 2023 PM"
+        "date": "Wednesday 11 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Mathematics (Pure Mathematics 2) ",
+        "subject": "Mathematics (Pure Mathematics 2)",
         "code": "9709/22",
         "duration": "1h 15m",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Mathematics (Pure Mathematics 3) ",
+        "subject": "Mathematics (Pure Mathematics 3)",
         "code": "9709/32",
         "duration": "1h 50m",
-        "date": "Friday 12 May 2023 PM"
+        "date": "Wednesday 18 October 2023 PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Mathematics (Mechanics) ",
+        "subject": "Mathematics (Mechanics)",
         "code": "9709/42",
         "duration": "1h 15m",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Monday 16 October PM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Mathematics (Probability & Statistics 1) ",
+        "subject": "Mathematics (Probability & Statistics 1)",
         "code": "9709/52",
         "duration": "1h 15m",
-        "date": "Wednesday 10 May 2023 PM"
+        "date": "Friday 13 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Mathematics (Probability & Statistics 2) ",
+        "subject": "Mathematics (Probability & Statistics 2)",
         "code": "9709/62",
         "duration": "1h 15m",
-        "date": "Friday 05 May 2023 PM"
+        "date": "Monday 16 October PM"
       }
     ]
   },
@@ -3269,24 +3130,24 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "Chinese ",
+        "subject": "Chinese",
         "code": "9715/22",
         "duration": "1h 45m",
-        "date": "Monday 24 April 2023 AM"
+        "date": "Thursday 05 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Chinese ",
+        "subject": "Chinese",
         "code": "9715/32",
         "duration": "1h 30m",
-        "date": "Friday 12 May 2023 AM"
+        "date": "Thursday 12 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Chinese ",
+        "subject": "Chinese",
         "code": "9715/42",
         "duration": "2h 30m",
-        "date": "Friday 28 April 2023 AM"
+        "date": "Thursday 26 October AM"
       }
     ]
   },
@@ -3296,24 +3157,24 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "French ",
+        "subject": "French",
         "code": "9716/22",
         "duration": "1h 45m",
-        "date": "Wednesday 26 April 2023 PM"
+        "date": "Friday 06 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "French ",
+        "subject": "French",
         "code": "9716/32",
         "duration": "1h 30m",
-        "date": "Tuesday 16 May 2023 PM"
+        "date": "Wednesday 04 October 2023 PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "French ",
+        "subject": "French",
         "code": "9716/42",
         "duration": "2h 30m",
-        "date": "Thursday 25 May 2023 PM"
+        "date": "Monday 23 October PM"
       }
     ]
   },
@@ -3323,51 +3184,24 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "German ",
-        "code": "9717/02",
+        "subject": "German",
+        "code": "9717/22",
         "duration": "1h 45m",
-        "date": "Wednesday 31 May 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "German ",
-        "code": "9717/03",
+        "subject": "German",
+        "code": "9717/32",
         "duration": "1h 30m",
-        "date": "Friday 02 June 2023 PM"
+        "date": "Wednesday 11 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "German ",
-        "code": "9717/04",
+        "subject": "German",
+        "code": "9717/42",
         "duration": "2h 30m",
-        "date": "Tuesday 06 June 2023 PM"
-      }
-    ]
-  },
-  {
-    "code": "9718",
-    "commonSubstring": "Portuguese",
-    "group": [
-      {
-        "type": "Cambridge International A Level",
-        "subject": "Portuguese ",
-        "code": "9718/02",
-        "duration": "1h 45m",
-        "date": "Monday 08 May 2023 PM"
-      },
-      {
-        "type": "Cambridge International A Level",
-        "subject": "Portuguese ",
-        "code": "9718/03",
-        "duration": "1h 30m",
-        "date": "Monday 15 May 2023 PM"
-      },
-      {
-        "type": "Cambridge International A Level",
-        "subject": "Portuguese ",
-        "code": "9718/04",
-        "duration": "2h 30m",
-        "date": "Monday 29 May 2023 PM"
+        "date": "Friday 27 October PM"
       }
     ]
   },
@@ -3377,24 +3211,24 @@
     "group": [
       {
         "type": "Cambridge International A Level",
-        "subject": "Spanish ",
+        "subject": "Spanish",
         "code": "9719/22",
         "duration": "1h 45m",
-        "date": "Thursday 27 April 2023 PM"
+        "date": "Tuesday 24 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Spanish ",
+        "subject": "Spanish",
         "code": "9719/32",
         "duration": "1h 30m",
-        "date": "Friday 19 May 2023 PM"
+        "date": "Wednesday 11 October PM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Spanish ",
+        "subject": "Spanish",
         "code": "9719/42",
         "duration": "2h 30m",
-        "date": "Monday 22 May 2023 PM"
+        "date": "Monday 13 PM"
       }
     ]
   },
@@ -3404,31 +3238,31 @@
     "group": [
       {
         "type": "Cambridge International AS Level",
-        "subject": "Psychology ",
+        "subject": "Psychology",
         "code": "9990/12",
         "duration": "1h 30m",
-        "date": "Tuesday 25 April 2023 AM"
+        "date": "Tuesday 17 October AM"
       },
       {
         "type": "Cambridge International AS Level",
-        "subject": "Psychology ",
+        "subject": "Psychology",
         "code": "9990/22",
         "duration": "1h 30m",
-        "date": "Thursday 27 April 2023 AM"
+        "date": "Tuesday 24 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Psychology ",
+        "subject": "Psychology",
         "code": "9990/32",
         "duration": "1h 30m",
-        "date": "Monday 08 May 2023 AM"
+        "date": "Thursday 26 October AM"
       },
       {
         "type": "Cambridge International A Level",
-        "subject": "Psychology ",
+        "subject": "Psychology",
         "code": "9990/42",
         "duration": "1h 30m",
-        "date": "Monday 22 May 2023 AM"
+        "date": "Tuesday 07 AM"
       }
     ]
   }
