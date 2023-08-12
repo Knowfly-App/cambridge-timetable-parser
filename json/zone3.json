@@ -4,14 +4,14 @@
     "commonSubstring": "World Literature",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "World Literature",
         "code": "0408/22",
         "duration": "1h 15m",
         "date": "Thursday 02 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "World Literature",
         "code": "0408/32",
         "duration": "1h 30m",
@@ -24,7 +24,7 @@
     "commonSubstring": "Music",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Music (Listening)",
         "code": "0410/12",
         "duration": "1h 15m",
@@ -37,7 +37,7 @@
     "commonSubstring": "Drama",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Drama",
         "code": "0411/12",
         "duration": "2h 30m",
@@ -50,7 +50,7 @@
     "commonSubstring": "Physical Education",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Education",
         "code": "0413/11",
         "duration": "1h 45m",
@@ -63,7 +63,7 @@
     "commonSubstring": "Information",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Information & Communication Technology",
         "code": "0417/11",
         "duration": "1h 30m",
@@ -76,28 +76,28 @@
     "commonSubstring": "Design",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0445/12",
         "duration": "1h 15m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0445/32",
         "duration": "1h",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0445/42",
         "duration": "1h",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0445/52",
         "duration": "1h",
@@ -110,14 +110,14 @@
     "commonSubstring": "Business Studies",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Business Studies",
         "code": "0450/11",
         "duration": "1h 30m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Business Studies",
         "code": "0450/21",
         "duration": "1h 30m",
@@ -130,14 +130,14 @@
     "commonSubstring": "Accounting",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Accounting (Multiple Choice)",
         "code": "0452/12",
         "duration": "1h 15m",
         "date": "Wednesday 08 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Accounting",
         "code": "0452/22",
         "duration": "1h 45m",
@@ -150,7 +150,7 @@
     "commonSubstring": "Enterprise",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Enterprise",
         "code": "0454/12",
         "duration": "1h 30m",
@@ -163,14 +163,14 @@
     "commonSubstring": "Economics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Economics (Multiple Choice)",
         "code": "0455/12",
         "duration": "45m",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Economics",
         "code": "0455/22",
         "duration": "2h 15m",
@@ -183,7 +183,7 @@
     "commonSubstring": "Global Perspectives",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Global Perspectives",
         "code": "0457/11",
         "duration": "1h 15m",
@@ -196,21 +196,21 @@
     "commonSubstring": "Geography",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0460/12",
         "duration": "1h 45m",
         "date": "Friday 20 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0460/22",
         "duration": "1h 30m",
         "date": "Wednesday 18 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0460/42",
         "duration": "1h 30m",
@@ -223,21 +223,21 @@
     "commonSubstring": "History",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0470/11",
         "duration": "2h",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0470/21",
         "duration": "2h",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0470/41",
         "duration": "1h",
@@ -250,14 +250,14 @@
     "commonSubstring": "Travel",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Travel & Tourism",
         "code": "0471/12",
         "duration": "2h",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Travel & Tourism",
         "code": "0471/22",
         "duration": "2h 30m",
@@ -270,28 +270,28 @@
     "commonSubstring": "Literature in English",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0475/12",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0475/22",
         "duration": "1h 30m",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0475/32",
         "duration": "45m",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0475/42",
         "duration": "1h 15m",
@@ -304,14 +304,14 @@
     "commonSubstring": "Computer Science",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Computer Science",
         "code": "0478/12",
         "duration": "1h 45m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Computer Science",
         "code": "0478/22",
         "duration": "1h 45m",
@@ -324,14 +324,14 @@
     "commonSubstring": "Literature",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature (Spanish)",
         "code": "0488/01",
         "duration": "2h 15m",
         "date": "Wednesday 04 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature (Spanish)",
         "code": "0488/03",
         "duration": "1h 20m",
@@ -344,14 +344,14 @@
     "commonSubstring": "Religious Studies",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Religious Studies",
         "code": "0490/12",
         "duration": "1h 45m",
         "date": "Thursday 02 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Religious Studies",
         "code": "0490/22",
         "duration": "1h 45m",
@@ -364,14 +364,14 @@
     "commonSubstring": "Islamiyat",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Islamiyat",
         "code": "0493/11",
         "duration": "1h 30m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Islamiyat",
         "code": "0493/21",
         "duration": "1h 30m",
@@ -384,14 +384,14 @@
     "commonSubstring": "Sociology",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Sociology",
         "code": "0495/12",
         "duration": "2h",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Sociology",
         "code": "0495/22",
         "duration": "1h 45m",
@@ -404,14 +404,14 @@
     "commonSubstring": "First Language English",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language English (Oral Endorsement)",
         "code": "0500/12",
         "duration": "2h",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language English (Oral Endorsement)",
         "code": "0500/22",
         "duration": "2h",
@@ -424,14 +424,14 @@
     "commonSubstring": "First Language Spanish",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Spanish",
         "code": "0502/12",
         "duration": "2h",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Spanish",
         "code": "0502/22",
         "duration": "2h",
@@ -444,14 +444,14 @@
     "commonSubstring": "First Language Arabic",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Arabic",
         "code": "0508/01",
         "duration": "2h",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Arabic",
         "code": "0508/02",
         "duration": "2h",
@@ -464,28 +464,28 @@
     "commonSubstring": "English as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Core)",
         "code": "0510/11",
         "duration": "1h 30m",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Extended)",
         "code": "0510/21",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Core)",
         "code": "0510/31",
         "duration": "40m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Extended)",
         "code": "0510/41",
         "duration": "50m",
@@ -498,28 +498,28 @@
     "commonSubstring": "English as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Core)",
         "code": "0511/11",
         "duration": "1h 30m",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Extended)",
         "code": "0511/21",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Core)",
         "code": "0511/31",
         "duration": "40m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Extended)",
         "code": "0511/41",
         "duration": "50m",
@@ -532,21 +532,21 @@
     "commonSubstring": "French",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French (Listening \u2013 Multiple Choice)",
         "code": "0520/12",
         "duration": "50m",
         "date": "Thursday 16 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French",
         "code": "0520/22",
         "duration": "1h",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French",
         "code": "0520/42",
         "duration": "1h",
@@ -559,21 +559,21 @@
     "commonSubstring": "German",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German (Listening \u2013 Multiple Choice)",
         "code": "0525/12",
         "duration": "50m",
         "date": "Friday 10 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German",
         "code": "0525/22",
         "duration": "1h",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German",
         "code": "0525/42",
         "duration": "1h",
@@ -586,21 +586,21 @@
     "commonSubstring": "Spanish",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Spanish (Listening \u2013 Multiple Choice)",
         "code": "0530/11",
         "duration": "50m",
         "date": "Friday 17 November PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Spanish",
         "code": "0530/21",
         "duration": "1h",
         "date": "Thursday 26 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Spanish",
         "code": "0530/41",
         "duration": "1h",
@@ -613,14 +613,14 @@
     "commonSubstring": "IsiZulu as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "IsiZulu as a Second Language",
         "code": "0531/01",
         "duration": "2h",
         "date": "Monday 23 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "IsiZulu as a Second Language (Listening)",
         "code": "0531/02",
         "duration": "45m",
@@ -633,14 +633,14 @@
     "commonSubstring": "Afrikaans as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Afrikaans as a Second Language",
         "code": "0548/01",
         "duration": "2h",
         "date": "Friday 20 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Afrikaans as a Second Language (Listening)",
         "code": "0548/02",
         "duration": "45m",
@@ -653,14 +653,14 @@
     "commonSubstring": "Hindi as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Hindi as a Second Language",
         "code": "0549/01",
         "duration": "2h",
         "date": "Monday 23 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Hindi as a Second Language",
         "code": "0549/02",
         "duration": "45m",
@@ -673,28 +673,28 @@
     "commonSubstring": "Mathematics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Core)",
         "code": "0580/11",
         "duration": "1h",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Extended)",
         "code": "0580/21",
         "duration": "1h 30m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Core)",
         "code": "0580/31",
         "duration": "2h",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Extended)",
         "code": "0580/41",
         "duration": "2h 30m",
@@ -707,7 +707,7 @@
     "commonSubstring": "Agriculture",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Agriculture",
         "code": "0600/11",
         "duration": "1h 45m",
@@ -720,14 +720,14 @@
     "commonSubstring": "Additional Mathematics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Additional Mathematics",
         "code": "0606/12",
         "duration": "2h",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Additional Mathematics",
         "code": "0606/22",
         "duration": "2h",
@@ -740,42 +740,42 @@
     "commonSubstring": "Cambridge International Mathematics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/11",
         "duration": "45m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/21",
         "duration": "45m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/31",
         "duration": "1h 45m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/41",
         "duration": "2h 15m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Core)",
         "code": "0607/51",
         "duration": "1h 10m",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Cambridge International Mathematics (Extended)",
         "code": "0607/61",
         "duration": "1h 40m",
@@ -788,42 +788,42 @@
     "commonSubstring": "Biology",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Multiple Choice \u2013 Core)",
         "code": "0610/12",
         "duration": "45m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Multiple Choice \u2013 Extended)",
         "code": "0610/22",
         "duration": "45m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Core)",
         "code": "0610/32",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Extended)",
         "code": "0610/42",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Practical)",
         "code": "0610/52",
         "duration": "1h 15m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Alternative to Practical)",
         "code": "0610/62",
         "duration": "1h",
@@ -836,42 +836,42 @@
     "commonSubstring": "Chemistry",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Multiple Choice \u2013 Core)",
         "code": "0620/12",
         "duration": "45m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Multiple Choice \u2013 Extended)",
         "code": "0620/22",
         "duration": "45m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Core)",
         "code": "0620/32",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Extended)",
         "code": "0620/42",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Practical)",
         "code": "0620/52",
         "duration": "1h 15m",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Alternative to Practical)",
         "code": "0620/62",
         "duration": "1h",
@@ -884,42 +884,42 @@
     "commonSubstring": "Physics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Multiple Choice \u2013 Core)",
         "code": "0625/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Multiple Choice \u2013 Extended)",
         "code": "0625/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Core)",
         "code": "0625/31",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Extended)",
         "code": "0625/41",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Practical)",
         "code": "0625/51",
         "duration": "1h 15m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Alternative to Practical)",
         "code": "0625/61",
         "duration": "1h",
@@ -932,7 +932,7 @@
     "commonSubstring": "Food",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Food & Nutrition",
         "code": "0648/11",
         "duration": "2h",
@@ -942,46 +942,46 @@
   },
   {
     "code": "0652",
-    "commonSubstring": "Physical Science",
+    "commonSubstring": "",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Science (Multiple Choice \u2013 Core)",
         "code": "0652/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Science (Multiple Choice \u2013 Extended)",
         "code": "0652/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Science (Core)",
         "code": "0652/31",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Science (Extended)",
         "code": "0652/41",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Science (Practical)",
         "code": "0652/51",
         "duration": "1h 15m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
-        "subject": "Physical Science (Alternative to Practical)",
+        "type": "Cambridge O Level Cambridge IGCSE",
+        "subject": "IG Cambridge IGCSE 9\u20131 Cambridge IGCSE (9\u20131) OL Cambridge O Level Physical Science (Alternative to Practical)",
         "code": "0652/61",
         "duration": "1h",
         "date": "Tuesday 24 October PM"
@@ -993,42 +993,42 @@
     "commonSubstring": "Combined Science",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Multiple Choice \u2013 Core)",
         "code": "0653/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Multiple Choice \u2013 Extended)",
         "code": "0653/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Core)",
         "code": "0653/31",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Extended)",
         "code": "0653/41",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Practical)",
         "code": "0653/51",
         "duration": "1h 15m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Combined Science (Alternative to Practical)",
         "code": "0653/61",
         "duration": "1h",
@@ -1041,42 +1041,42 @@
     "commonSubstring": "Co",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Core)",
         "code": "0654/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Extended)",
         "code": "0654/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Core)",
         "code": "0654/31",
         "duration": "2h",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Extended)",
         "code": "0654/41",
         "duration": "2h",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Practical)",
         "code": "0654/51",
         "duration": "2h",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Alternative to Practical)",
         "code": "0654/61",
         "duration": "1h 30m",
@@ -1089,14 +1089,14 @@
     "commonSubstring": "Environmental Management",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Environmental Management",
         "code": "0680/11",
         "duration": "1h 45m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge IGCSE",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Environmental Management",
         "code": "0680/21",
         "duration": "1h 45m",
@@ -1109,42 +1109,42 @@
     "commonSubstring": "Biology",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Multiple Choice \u2013 Core)",
         "code": "0970/12",
         "duration": "45m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Multiple Choice \u2013 Extended)",
         "code": "0970/22",
         "duration": "45m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Core)",
         "code": "0970/32",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Extended)",
         "code": "0970/42",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Practical)",
         "code": "0970/52",
         "duration": "1h 15m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Biology (Alternative to Practical)",
         "code": "0970/62",
         "duration": "1h",
@@ -1157,42 +1157,42 @@
     "commonSubstring": "Chemistry",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Multiple Choice \u2013 Core)",
         "code": "0971/12",
         "duration": "45m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Multiple Choice \u2013 Extended)",
         "code": "0971/22",
         "duration": "45m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Core)",
         "code": "0971/32",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Extended)",
         "code": "0971/42",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Practical)",
         "code": "0971/52",
         "duration": "1h 15m",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Chemistry (Alternative to Practical)",
         "code": "0971/62",
         "duration": "1h",
@@ -1205,42 +1205,42 @@
     "commonSubstring": "Physics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Multiple Choice \u2013 Core)",
         "code": "0972/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Multiple Choice \u2013 Extended)",
         "code": "0972/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Core)",
         "code": "0972/31",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Extended)",
         "code": "0972/41",
         "duration": "1h 15m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Practical)",
         "code": "0972/51",
         "duration": "1h 15m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physics (Alternative to Practical)",
         "code": "0972/61",
         "duration": "1h",
@@ -1253,42 +1253,42 @@
     "commonSubstring": "Co",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Core)",
         "code": "0973/11",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Extended)",
         "code": "0973/21",
         "duration": "45m",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Core)",
         "code": "0973/31",
         "duration": "2h",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Extended)",
         "code": "0973/41",
         "duration": "2h",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Practical)",
         "code": "0973/51",
         "duration": "2h",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Co-ordinated Sciences (Double Award) (Alternative to Practical)",
         "code": "0973/61",
         "duration": "1h 30m",
@@ -1301,21 +1301,21 @@
     "commonSubstring": "Geography",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0976/12",
         "duration": "1h 45m",
         "date": "Friday 20 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0976/22",
         "duration": "1h 30m",
         "date": "Wednesday 18 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Geography",
         "code": "0976/42",
         "duration": "1h 30m",
@@ -1328,21 +1328,21 @@
     "commonSubstring": "History",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0977/11",
         "duration": "2h",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0977/21",
         "duration": "2h",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "History",
         "code": "0977/41",
         "duration": "1h",
@@ -1355,7 +1355,7 @@
     "commonSubstring": "Music",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Music (Listening)",
         "code": "0978/12",
         "duration": "1h 15m",
@@ -1368,28 +1368,28 @@
     "commonSubstring": "Design",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0979/12",
         "duration": "1h 15m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0979/32",
         "duration": "1h",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0979/42",
         "duration": "1h",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Design & Technology",
         "code": "0979/52",
         "duration": "1h",
@@ -1402,28 +1402,28 @@
     "commonSubstring": "Mathematics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Core)",
         "code": "0980/11",
         "duration": "1h",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Extended)",
         "code": "0980/21",
         "duration": "1h 30m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Core)",
         "code": "0980/31",
         "duration": "2h",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Mathematics (Extended)",
         "code": "0980/41",
         "duration": "2h 30m",
@@ -1436,7 +1436,7 @@
     "commonSubstring": "Information",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Information & Communication Technology",
         "code": "0983/11",
         "duration": "1h 30m",
@@ -1449,14 +1449,14 @@
     "commonSubstring": "Computer Science",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Computer Science",
         "code": "0984/12",
         "duration": "1h 45m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Computer Science",
         "code": "0984/22",
         "duration": "1h 45m",
@@ -1469,14 +1469,14 @@
     "commonSubstring": "Accounting",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Accounting (Multiple Choice)",
         "code": "0985/12",
         "duration": "1h 15m",
         "date": "Wednesday 08 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Accounting",
         "code": "0985/22",
         "duration": "1h 45m",
@@ -1489,14 +1489,14 @@
     "commonSubstring": "Business Studies",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Business Studies",
         "code": "0986/11",
         "duration": "1h 30m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Business Studies",
         "code": "0986/21",
         "duration": "1h 30m",
@@ -1509,14 +1509,14 @@
     "commonSubstring": "Economics",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Economics (Multiple Choice)",
         "code": "0987/12",
         "duration": "45m",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Economics",
         "code": "0987/22",
         "duration": "2h 15m",
@@ -1529,14 +1529,14 @@
     "commonSubstring": "First Language English",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language English",
         "code": "0990/12",
         "duration": "2h",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language English",
         "code": "0990/22",
         "duration": "2h",
@@ -1549,28 +1549,28 @@
     "commonSubstring": "English as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Core)",
         "code": "0991/11",
         "duration": "1h 30m",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Extended)",
         "code": "0991/21",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Core)",
         "code": "0991/31",
         "duration": "40m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Extended)",
         "code": "0991/41",
         "duration": "50m",
@@ -1583,28 +1583,28 @@
     "commonSubstring": "Literature in English",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0992/12",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0992/22",
         "duration": "1h 30m",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0992/32",
         "duration": "45m",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Literature in English",
         "code": "0992/42",
         "duration": "1h 15m",
@@ -1617,28 +1617,28 @@
     "commonSubstring": "English as a Second Language",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Core)",
         "code": "0993/11",
         "duration": "1h 30m",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Extended)",
         "code": "0993/21",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Core)",
         "code": "0993/31",
         "duration": "40m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Extended)",
         "code": "0993/41",
         "duration": "50m",
@@ -1651,7 +1651,7 @@
     "commonSubstring": "Drama",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Drama",
         "code": "0994/12",
         "duration": "2h 30m",
@@ -1664,7 +1664,7 @@
     "commonSubstring": "Physical Education",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "Physical Education",
         "code": "0995/11",
         "duration": "1h 45m",
@@ -1677,14 +1677,14 @@
     "commonSubstring": "English Language",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "English Language",
         "code": "1123/11",
         "duration": "1h 30m",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "English Language",
         "code": "1123/21",
         "duration": "1h 45m",
@@ -1697,14 +1697,14 @@
     "commonSubstring": "Literature in English",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Literature in English",
         "code": "2010/12",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Literature in English",
         "code": "2010/22",
         "duration": "1h 30m",
@@ -1717,14 +1717,14 @@
     "commonSubstring": "Religious Studies",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Religious Studies (Bible Knowledge)",
         "code": "2048/12",
         "duration": "1h 30m",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Religious Studies (Bible Knowledge)",
         "code": "2048/22",
         "duration": "1h 30m",
@@ -1737,14 +1737,14 @@
     "commonSubstring": "Hinduism",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Hinduism",
         "code": "2055/01",
         "duration": "1h 30m",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Hinduism",
         "code": "2055/02",
         "duration": "1h 30m",
@@ -1757,14 +1757,14 @@
     "commonSubstring": "Islamiyat",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Islamiyat",
         "code": "2058/11",
         "duration": "1h 30m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Islamiyat",
         "code": "2058/21",
         "duration": "1h 30m",
@@ -1777,14 +1777,14 @@
     "commonSubstring": "Pakistan Studies",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Pakistan Studies",
         "code": "2059/01",
         "duration": "1h 30m",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Pakistan Studies",
         "code": "2059/02",
         "duration": "1h 30m",
@@ -1797,14 +1797,14 @@
     "commonSubstring": "Islamic Studies",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Islamic Studies",
         "code": "2068/12",
         "duration": "1h 30m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Islamic Studies",
         "code": "2068/22",
         "duration": "1h 30m",
@@ -1817,14 +1817,14 @@
     "commonSubstring": "History",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "History",
         "code": "2147/11",
         "duration": "2h",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "History",
         "code": "2147/21",
         "duration": "2h",
@@ -1837,14 +1837,14 @@
     "commonSubstring": "Computer Science",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Computer Science",
         "code": "2210/12",
         "duration": "1h 45m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Computer Science",
         "code": "2210/22",
         "duration": "1h 45m",
@@ -1857,21 +1857,21 @@
     "commonSubstring": "Geography",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Geography",
         "code": "2217/12",
         "duration": "1h 45m",
         "date": "Friday 20 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Geography",
         "code": "2217/22",
         "duration": "1h 30m",
         "date": "Wednesday 18 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Geography",
         "code": "2217/32",
         "duration": "1h 30m",
@@ -1884,14 +1884,14 @@
     "commonSubstring": "Sociology",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Sociology",
         "code": "2251/12",
         "duration": "2h",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Sociology",
         "code": "2251/22",
         "duration": "1h 45m",
@@ -1904,14 +1904,14 @@
     "commonSubstring": "Economics",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Economics (Multiple Choice)",
         "code": "2281/12",
         "duration": "45m",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Economics",
         "code": "2281/22",
         "duration": "2h 15m",
@@ -1924,14 +1924,14 @@
     "commonSubstring": "Setswana",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Setswana",
         "code": "3158/01",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Setswana",
         "code": "3158/02",
         "duration": "1h 30m",
@@ -1944,14 +1944,14 @@
     "commonSubstring": "Arabic",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Arabic",
         "code": "3180/01",
         "duration": "1h 30m",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Arabic",
         "code": "3180/02",
         "duration": "1h 30m",
@@ -1964,14 +1964,14 @@
     "commonSubstring": "Second Language Urdu",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Second Language Urdu",
         "code": "3248/01",
         "duration": "2h",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Second Language Urdu",
         "code": "3248/02",
         "duration": "1h 45m",
@@ -1984,14 +1984,14 @@
     "commonSubstring": "Mathematics Syllabus D",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Mathematics Syllabus D",
         "code": "4024/11",
         "duration": "2h",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Mathematics Syllabus D",
         "code": "4024/21",
         "duration": "2h 30m",
@@ -2004,14 +2004,14 @@
     "commonSubstring": "Additional Mathematics",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Additional Mathematics",
         "code": "4037/12",
         "duration": "2h",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Additional Mathematics",
         "code": "4037/22",
         "duration": "2h",
@@ -2024,14 +2024,14 @@
     "commonSubstring": "Statistics",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Statistics",
         "code": "4040/12",
         "duration": "2h 15m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Statistics",
         "code": "4040/22",
         "duration": "2h 15m",
@@ -2044,28 +2044,28 @@
     "commonSubstring": "Physics",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Physics (Multiple Choice)",
         "code": "5054/11",
         "duration": "1h",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Physics",
         "code": "5054/21",
         "duration": "1h 45m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Physics (Practical)",
         "code": "5054/31",
         "duration": "1h 30m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Physics (Alternative to Practical)",
         "code": "5054/41",
         "duration": "1h",
@@ -2078,28 +2078,28 @@
     "commonSubstring": "Chemistry",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Chemistry (Multiple Choice)",
         "code": "5070/11",
         "duration": "1h",
         "date": "Monday 30 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Chemistry",
         "code": "5070/21",
         "duration": "1h 45m",
         "date": "Monday 09 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Chemistry (Practical)",
         "code": "5070/31",
         "duration": "1h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Chemistry (Alternative to Practical)",
         "code": "5070/41",
         "duration": "1h",
@@ -2112,28 +2112,28 @@
     "commonSubstring": "Biology",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Biology (Multiple Choice)",
         "code": "5090/11",
         "duration": "1h",
         "date": "Tuesday 31 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Biology",
         "code": "5090/21",
         "duration": "1h 45m",
         "date": "Friday 20 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Biology (Practical)",
         "code": "5090/31",
         "duration": "1h 30m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Biology (Alternative to Practical)",
         "code": "5090/41",
         "duration": "1h",
@@ -2146,21 +2146,21 @@
     "commonSubstring": "Combined Science",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Combined Science (Multiple Choice)",
         "code": "5129/11",
         "duration": "1h",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Combined Science",
         "code": "5129/21",
         "duration": "1h 45m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Combined Science",
         "code": "5129/31",
         "duration": "1h",
@@ -2173,14 +2173,14 @@
     "commonSubstring": "Design",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Design & Technology",
         "code": "6043/12",
         "duration": "1h 15m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Design & Technology",
         "code": "6043/32",
         "duration": "1h",
@@ -2193,7 +2193,7 @@
     "commonSubstring": "Food",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Food & Nutrition",
         "code": "6065/11",
         "duration": "2h",
@@ -2206,7 +2206,7 @@
     "commonSubstring": "Fashion",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Fashion & Textiles",
         "code": "6130/01",
         "duration": "2h",
@@ -2219,14 +2219,14 @@
     "commonSubstring": "Travel",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Travel & Tourism",
         "code": "7096/12",
         "duration": "2h",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Travel & Tourism",
         "code": "7096/22",
         "duration": "2h 30m",
@@ -2239,14 +2239,14 @@
     "commonSubstring": "Commerce",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Commerce (Multiple Choice)",
         "code": "7100/11",
         "duration": "1h",
         "date": "Tuesday 14 November PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Commerce",
         "code": "7100/21",
         "duration": "2h",
@@ -2259,14 +2259,14 @@
     "commonSubstring": "Business Studies",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Business Studies",
         "code": "7115/11",
         "duration": "1h 30m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Business Studies",
         "code": "7115/21",
         "duration": "1h 30m",
@@ -2279,21 +2279,21 @@
     "commonSubstring": "French",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French (Listening \u2013 Multiple Choice)",
         "code": "7156/12",
         "duration": "50m",
         "date": "Thursday 16 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French",
         "code": "7156/22",
         "duration": "1h",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "French",
         "code": "7156/42",
         "duration": "1h",
@@ -2306,21 +2306,21 @@
     "commonSubstring": "German",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German (Listening \u2013 Multiple Choice)",
         "code": "7159/12",
         "duration": "50m",
         "date": "Friday 10 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German",
         "code": "7159/22",
         "duration": "1h",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "German",
         "code": "7159/42",
         "duration": "1h",
@@ -2333,21 +2333,21 @@
     "commonSubstring": "Spanish",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Spanish (Listening \u2013 Multiple Choice)",
         "code": "7160/11",
         "duration": "50m",
         "date": "Friday 17 November PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Spanish",
         "code": "7160/21",
         "duration": "1h",
         "date": "Thursday 26 October PM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Spanish",
         "code": "7160/41",
         "duration": "1h",
@@ -2360,14 +2360,14 @@
     "commonSubstring": "First Language Arabic",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Arabic",
         "code": "7184/01",
         "duration": "2h",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam Timetable",
+        "type": "Cambridge O Level Cambridge IGCSE",
         "subject": "First Language Arabic",
         "code": "7184/02",
         "duration": "2h",
@@ -2380,14 +2380,14 @@
     "commonSubstring": "Accounting",
     "group": [
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Accounting (Multiple Choice)",
         "code": "7707/12",
         "duration": "1h 15m",
         "date": "Wednesday 08 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level",
+        "type": "Cambridge O Level Cambridge O Level",
         "subject": "Accounting",
         "code": "7707/22",
         "duration": "1h 45m",
@@ -2400,14 +2400,14 @@
     "commonSubstring": "English General Paper",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "English General Paper",
         "code": "8021/11",
         "duration": "1h 15m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "English General Paper",
         "code": "8021/21",
         "duration": "1h 45m",
@@ -2420,14 +2420,14 @@
     "commonSubstring": "Japanese Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Japanese Language",
         "code": "8281/02",
         "duration": "1h 45m",
         "date": "Thursday 05 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Japanese Language",
         "code": "8281/03",
         "duration": "1h 30m",
@@ -2440,14 +2440,14 @@
     "commonSubstring": "Environmental Management",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Environmental Management",
         "code": "8291/12",
         "duration": "1h 45m",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Environmental Management",
         "code": "8291/22",
         "duration": "1h 45m",
@@ -2460,14 +2460,14 @@
     "commonSubstring": "First Language Spanish",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "First Language Spanish",
         "code": "8665/22",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "First Language Spanish",
         "code": "8665/42",
         "duration": "2h 30m",
@@ -2480,7 +2480,7 @@
     "commonSubstring": "Spanish Literature",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Literature",
         "code": "8673/42",
         "duration": "2h 30m",
@@ -2493,7 +2493,7 @@
     "commonSubstring": "Hindi Literature",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Literature",
         "code": "8675/04",
         "duration": "2h 30m",
@@ -2506,14 +2506,14 @@
     "commonSubstring": "Afrikaans Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Afrikaans Language",
         "code": "8679/02",
         "duration": "1h 45m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Afrikaans Language",
         "code": "8679/03",
         "duration": "1h 30m",
@@ -2526,14 +2526,14 @@
     "commonSubstring": "Arabic Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Arabic Language",
         "code": "8680/21",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Arabic Language",
         "code": "8680/31",
         "duration": "1h 30m",
@@ -2546,14 +2546,14 @@
     "commonSubstring": "Chinese Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chinese Language",
         "code": "8681/21",
         "duration": "1h 45m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chinese Language",
         "code": "8681/31",
         "duration": "1h 30m",
@@ -2566,14 +2566,14 @@
     "commonSubstring": "French Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "French Language",
         "code": "8682/22",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "French Language",
         "code": "8682/32",
         "duration": "1h 30m",
@@ -2586,14 +2586,14 @@
     "commonSubstring": "German Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "German Language",
         "code": "8683/22",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "German Language",
         "code": "8683/32",
         "duration": "1h 30m",
@@ -2606,14 +2606,14 @@
     "commonSubstring": "Spanish Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Language",
         "code": "8685/22",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Language",
         "code": "8685/32",
         "duration": "1h 30m",
@@ -2626,14 +2626,14 @@
     "commonSubstring": "Urdu Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Urdu Language",
         "code": "8686/02",
         "duration": "1h 45m",
         "date": "Friday 27 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Urdu Language",
         "code": "8686/03",
         "duration": "1h 30m",
@@ -2646,14 +2646,14 @@
     "commonSubstring": "Hindi Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Language",
         "code": "8687/02",
         "duration": "1h 45m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Language",
         "code": "8687/03",
         "duration": "1h 30m",
@@ -2666,14 +2666,14 @@
     "commonSubstring": "Tamil Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Tamil Language",
         "code": "8689/21",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Tamil Language",
         "code": "8689/31",
         "duration": "1h 30m",
@@ -2686,14 +2686,14 @@
     "commonSubstring": "Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Language & Literature in English",
         "code": "8695/12",
         "duration": "2h",
         "date": "Monday 30 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Language & Literature in English",
         "code": "8695/22",
         "duration": "2h",
@@ -2706,28 +2706,28 @@
     "commonSubstring": "Law",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Law",
         "code": "9084/11",
         "duration": "1h 30m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Law",
         "code": "9084/21",
         "duration": "1h 30m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Law",
         "code": "9084/31",
         "duration": "1h 30m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Law",
         "code": "9084/41",
         "duration": "1h 30m",
@@ -2740,28 +2740,28 @@
     "commonSubstring": "English Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "English Language",
         "code": "9093/12",
         "duration": "2h 15m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "English Language",
         "code": "9093/22",
         "duration": "2h",
         "date": "Monday 30 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "English Language",
         "code": "9093/32",
         "duration": "2h 15m",
         "date": "Wednesday 01 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "English Language",
         "code": "9093/42",
         "duration": "2h 15m",
@@ -2774,28 +2774,28 @@
     "commonSubstring": "Further Mathematics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/11",
         "duration": "2h",
         "date": "Monday 09 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Further Mathematics",
         "code": "9231/21",
         "duration": "2h",
         "date": "Wednesday 01 November 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/31",
         "duration": "1h 30m",
         "date": "Wednesday 25 October 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/41",
         "duration": "1h 30m",
@@ -2808,7 +2808,7 @@
     "commonSubstring": "Global Perspectives",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Global Perspectives & Research",
         "code": "9239/11",
         "duration": "1h 30m",
@@ -2821,28 +2821,28 @@
     "commonSubstring": "Classical Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Classical Studies",
         "code": "9274/12",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Classical Studies",
         "code": "9274/22",
         "duration": "1h 30m",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Classical Studies",
         "code": "9274/32",
         "duration": "1h 30m",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Classical Studies",
         "code": "9274/42",
         "duration": "1h 30m",
@@ -2855,21 +2855,21 @@
     "commonSubstring": "Travel",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Travel & Tourism",
         "code": "9395/12",
         "duration": "2h 30m",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Travel & Tourism",
         "code": "9395/32",
         "duration": "1h 30m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Travel & Tourism",
         "code": "9395/42",
         "duration": "1h 30m",
@@ -2882,14 +2882,14 @@
     "commonSubstring": "Physical Education",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Physical Education",
         "code": "9396/12",
         "duration": "2h 30m",
         "date": "Tuesday 07 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Physical Education",
         "code": "9396/32",
         "duration": "2h 30m",
@@ -2902,7 +2902,7 @@
     "commonSubstring": "Drama",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Drama",
         "code": "9482/12",
         "duration": "2h",
@@ -2915,7 +2915,7 @@
     "commonSubstring": "Music",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Music (Listening)",
         "code": "9483/12",
         "duration": "2h",
@@ -2928,28 +2928,28 @@
     "commonSubstring": "Biblical Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biblical Studies",
         "code": "9484/12",
         "duration": "1h 30m",
         "date": "Wednesday 08 November 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biblical Studies",
         "code": "9484/22",
         "duration": "1h 30m",
         "date": "Monday 13 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Biblical Studies",
         "code": "9484/32",
         "duration": "1h 30m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Biblical Studies",
         "code": "9484/42",
         "duration": "1h 30m",
@@ -2962,28 +2962,28 @@
     "commonSubstring": "Hinduism",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Hinduism",
         "code": "9487/01",
         "duration": "1h 30m",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Hinduism",
         "code": "9487/02",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hinduism",
         "code": "9487/03",
         "duration": "1h 30m",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hinduism",
         "code": "9487/04",
         "duration": "1h 30m",
@@ -2996,28 +2996,28 @@
     "commonSubstring": "History",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "History",
         "code": "9489/11",
         "duration": "1h 15m",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "History",
         "code": "9489/21",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "History",
         "code": "9489/31",
         "duration": "1h 15m",
         "date": "Monday 30 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "History",
         "code": "9489/41",
         "duration": "1h 45m",
@@ -3030,14 +3030,14 @@
     "commonSubstring": "Media Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Media Studies",
         "code": "9607/02",
         "duration": "2h",
         "date": "Thursday 09 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Media Studies",
         "code": "9607/04",
         "duration": "2h",
@@ -3050,28 +3050,28 @@
     "commonSubstring": "Business",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Business",
         "code": "9609/11",
         "duration": "1h 15m",
         "date": "Monday 09 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Business",
         "code": "9609/21",
         "duration": "1h 30m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Business",
         "code": "9609/31",
         "duration": "1h 45m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Business",
         "code": "9609/41",
         "duration": "1h 15m",
@@ -3084,28 +3084,28 @@
     "commonSubstring": "Computer Science",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Computer Science",
         "code": "9618/11",
         "duration": "1h 30m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Computer Science",
         "code": "9618/21",
         "duration": "2h",
         "date": "Friday 20 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Computer Science (Advanced)",
         "code": "9618/31",
         "duration": "1h 30m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Computer Science (Practical)",
         "code": "9618/41",
         "duration": "2h 30m",
@@ -3118,14 +3118,14 @@
     "commonSubstring": "Information Technology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Information Technology",
         "code": "9626/12",
         "duration": "1h 45m",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Information Technology (Advanced)",
         "code": "9626/32",
         "duration": "1h 45m",
@@ -3138,28 +3138,28 @@
     "commonSubstring": "Urdu",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/02",
         "duration": "1h 45m",
         "date": "Friday 27 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/03",
         "duration": "1h 30m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/04",
         "duration": "2h 30m",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/05",
         "duration": "45m",
@@ -3172,28 +3172,28 @@
     "commonSubstring": "Arabic",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/21",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/31",
         "duration": "1h 30m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/41",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/51",
         "duration": "45m",
@@ -3206,28 +3206,28 @@
     "commonSubstring": "Hindi",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/02",
         "duration": "1h 45m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/03",
         "duration": "1h 30m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/04",
         "duration": "2h 30m",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/05",
         "duration": "45m",
@@ -3240,28 +3240,28 @@
     "commonSubstring": "Tamil",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/21",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/31",
         "duration": "1h 30m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/41",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/51",
         "duration": "45m",
@@ -3274,28 +3274,28 @@
     "commonSubstring": "Marine Science",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Marine Science",
         "code": "9693/12",
         "duration": "1h 45m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Marine Science",
         "code": "9693/22",
         "duration": "1h 45m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Marine Science",
         "code": "9693/32",
         "duration": "1h 45m",
         "date": "Wednesday 01 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Marine Science",
         "code": "9693/42",
         "duration": "1h 45m",
@@ -3308,28 +3308,28 @@
     "commonSubstring": "Thinking Skills",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Thinking Skills",
         "code": "9694/12",
         "duration": "1h 30m",
         "date": "Tuesday 03 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Thinking Skills",
         "code": "9694/22",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Thinking Skills",
         "code": "9694/32",
         "duration": "2h",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Thinking Skills",
         "code": "9694/42",
         "duration": "1h 45m",
@@ -3342,28 +3342,28 @@
     "commonSubstring": "Literature in English",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Literature in English",
         "code": "9695/12",
         "duration": "2h",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Literature in English",
         "code": "9695/22",
         "duration": "2h",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Literature in English",
         "code": "9695/32",
         "duration": "2h",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Literature in English",
         "code": "9695/42",
         "duration": "2h",
@@ -3376,28 +3376,28 @@
     "commonSubstring": "Geography",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Geography (Core)",
         "code": "9696/12",
         "duration": "1h 30m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Geography (Core)",
         "code": "9696/22",
         "duration": "1h 30m",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Geography (Advanced)",
         "code": "9696/32",
         "duration": "1h 30m",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Geography (Advanced)",
         "code": "9696/42",
         "duration": "1h 30m",
@@ -3410,28 +3410,28 @@
     "commonSubstring": "Sociology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Sociology",
         "code": "9699/11",
         "duration": "1h 30m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Sociology",
         "code": "9699/21",
         "duration": "1h 30m",
         "date": "Monday 23 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Sociology",
         "code": "9699/31",
         "duration": "1h 15m",
         "date": "Monday 06 November PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Sociology",
         "code": "9699/41",
         "duration": "1h 45m",
@@ -3444,42 +3444,42 @@
     "commonSubstring": "Biology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Multiple Choice)",
         "code": "9700/12",
         "duration": "1h 15m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biology",
         "code": "9700/22",
         "duration": "1h 15m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/33",
         "duration": "2h",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/34",
         "duration": "2h",
         "date": "Tuesday 07 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Biology",
         "code": "9700/42",
         "duration": "2h",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Biology",
         "code": "9700/52",
         "duration": "1h 15m",
@@ -3492,42 +3492,42 @@
     "commonSubstring": "Chemistry",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Multiple Choice)",
         "code": "9701/12",
         "duration": "1h 15m",
         "date": "Thursday 16 November AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry",
         "code": "9701/22",
         "duration": "1h 15m",
         "date": "Friday 20 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/33",
         "duration": "2h",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/34",
         "duration": "2h",
         "date": "Thursday 02 November 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Chemistry",
         "code": "9701/42",
         "duration": "2h",
         "date": "Friday 27 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Chemistry",
         "code": "9701/52",
         "duration": "1h 15m",
@@ -3540,42 +3540,42 @@
     "commonSubstring": "Physics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Multiple Choice)",
         "code": "9702/12",
         "duration": "1h 15m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Physics",
         "code": "9702/22",
         "duration": "1h 15m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/33",
         "duration": "2h",
         "date": "Tuesday 17 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/34",
         "duration": "2h",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Physics",
         "code": "9702/42",
         "duration": "2h",
         "date": "Monday 09 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Physics",
         "code": "9702/52",
         "duration": "1h 15m",
@@ -3588,14 +3588,14 @@
     "commonSubstring": "Design",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Design & Technology",
         "code": "9705/12",
         "duration": "3h",
         "date": "Friday 10 November AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Design & Technology",
         "code": "9705/32",
         "duration": "3h",
@@ -3608,28 +3608,28 @@
     "commonSubstring": "Accounting",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Accounting (Multiple Choice)",
         "code": "9706/11",
         "duration": "1h",
         "date": "Wednesday 15 November 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Accounting",
         "code": "9706/21",
         "duration": "1h 45m",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Accounting",
         "code": "9706/31",
         "duration": "1h 30m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Accounting",
         "code": "9706/41",
         "duration": "1h",
@@ -3642,28 +3642,28 @@
     "commonSubstring": "Economics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Economics (Multiple Choice)",
         "code": "9708/11",
         "duration": "1h",
         "date": "Tuesday 14 November PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Economics",
         "code": "9708/21",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Economics (Multiple Choice)",
         "code": "9708/31",
         "duration": "1h 15m",
         "date": "Thursday 16 November PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Economics",
         "code": "9708/41",
         "duration": "2h",
@@ -3676,42 +3676,42 @@
     "commonSubstring": "Mathematics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Pure Mathematics 1)",
         "code": "9709/12",
         "duration": "1h 50m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Pure Mathematics 2)",
         "code": "9709/22",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Mathematics (Pure Mathematics 3)",
         "code": "9709/32",
         "duration": "1h 50m",
         "date": "Wednesday 18 October 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Mechanics)",
         "code": "9709/42",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Probability & Statistics 1)",
         "code": "9709/52",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Mathematics (Probability & Statistics 2)",
         "code": "9709/62",
         "duration": "1h 15m",
@@ -3724,21 +3724,21 @@
     "commonSubstring": "Chinese",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/21",
         "duration": "1h 45m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/31",
         "duration": "1h 30m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/41",
         "duration": "2h 30m",
@@ -3751,21 +3751,21 @@
     "commonSubstring": "French",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/22",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/32",
         "duration": "1h 30m",
         "date": "Wednesday 04 October 2023 AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/42",
         "duration": "2h 30m",
@@ -3778,21 +3778,21 @@
     "commonSubstring": "German",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/22",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/32",
         "duration": "1h 30m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/42",
         "duration": "2h 30m",
@@ -3805,21 +3805,21 @@
     "commonSubstring": "Spanish",
     "group": [
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/22",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/32",
         "duration": "1h 30m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/42",
         "duration": "2h 30m",
@@ -3832,28 +3832,28 @@
     "commonSubstring": "Psychology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Psychology",
         "code": "9990/11",
         "duration": "1h 30m",
         "date": "Tuesday 17 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge O Level Cambridge International AS Level",
         "subject": "Psychology",
         "code": "9990/21",
         "duration": "1h 30m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Psychology",
         "code": "9990/31",
         "duration": "1h 30m",
         "date": "Thursday 26 October PM"
       },
       {
-        "type": "Cambridge O Level Cambridge Final Exam TimetableCambridge International A Level",
+        "type": "Cambridge O Level Cambridge International A Level",
         "subject": "Psychology",
         "code": "9990/41",
         "duration": "1h 30m",

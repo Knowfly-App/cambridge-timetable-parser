@@ -1,5 +1,1023 @@
 [
   {
+    "code": "0408",
+    "commonSubstring": "World Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "World Literature",
+        "code": "0408/23",
+        "duration": "1h 15m",
+        "date": "Wednesday 01 November 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "World Literature",
+        "code": "0408/33",
+        "duration": "1h 30m",
+        "date": "Tuesday 07 November AM"
+      }
+    ]
+  },
+  {
+    "code": "0410",
+    "commonSubstring": "Music",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Music (Listening)",
+        "code": "0410/13",
+        "duration": "1h 15m",
+        "date": "Monday 30 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0411",
+    "commonSubstring": "Drama",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Drama",
+        "code": "0411/13",
+        "duration": "2h 30m",
+        "date": "Friday 27 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0413",
+    "commonSubstring": "Physical Education",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Education",
+        "code": "0413/12",
+        "duration": "1h 45m",
+        "date": "Monday 09 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0417",
+    "commonSubstring": "Information",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Information & Communication Technology",
+        "code": "0417/12",
+        "duration": "1h 30m",
+        "date": "Thursday 19 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0445",
+    "commonSubstring": "Design",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/13",
+        "duration": "1h 15m",
+        "date": "Wednesday 25 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/33",
+        "duration": "1h",
+        "date": "Friday 03 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/43",
+        "duration": "1h",
+        "date": "Friday 03 November EV"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Design & Technology",
+        "code": "0445/53",
+        "duration": "1h",
+        "date": "Friday 03 November AM"
+      }
+    ]
+  },
+  {
+    "code": "0450",
+    "commonSubstring": "Business Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Business Studies",
+        "code": "0450/12",
+        "duration": "1h 30m",
+        "date": "Friday 13 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Business Studies",
+        "code": "0450/22",
+        "duration": "1h 30m",
+        "date": "Tuesday 17 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0452",
+    "commonSubstring": "Accounting",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Accounting (Multiple Choice)",
+        "code": "0452/13",
+        "duration": "1h 15m",
+        "date": "Wednesday 08 November 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Accounting",
+        "code": "0452/23",
+        "duration": "1h 45m",
+        "date": "Monday 09 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0454",
+    "commonSubstring": "Enterprise",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Enterprise",
+        "code": "0454/13",
+        "duration": "1h 30m",
+        "date": "Friday 06 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0455",
+    "commonSubstring": "Economics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Economics (Multiple Choice)",
+        "code": "0455/13",
+        "duration": "45m",
+        "date": "Monday 06 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Economics",
+        "code": "0455/23",
+        "duration": "2h 15m",
+        "date": "Thursday 02 November 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0457",
+    "commonSubstring": "Global Perspectives",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Global Perspectives",
+        "code": "0457/12",
+        "duration": "1h 15m",
+        "date": "Wednesday 25 October 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0460",
+    "commonSubstring": "Geography",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/13",
+        "duration": "1h 45m",
+        "date": "Friday 20 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/23",
+        "duration": "1h 30m",
+        "date": "Wednesday 18 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Geography",
+        "code": "0460/43",
+        "duration": "1h 30m",
+        "date": "Monday 30 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0470",
+    "commonSubstring": "History",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/12",
+        "duration": "2h",
+        "date": "Friday 06 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/22",
+        "duration": "2h",
+        "date": "Friday 27 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "History",
+        "code": "0470/42",
+        "duration": "1h",
+        "date": "Wednesday 25 October 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0471",
+    "commonSubstring": "Travel",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Travel & Tourism",
+        "code": "0471/13",
+        "duration": "2h",
+        "date": "Tuesday 10 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Travel & Tourism",
+        "code": "0471/23",
+        "duration": "2h 30m",
+        "date": "Friday 13 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0475",
+    "commonSubstring": "Literature in English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/13",
+        "duration": "1h 30m",
+        "date": "Tuesday 24 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/23",
+        "duration": "1h 30m",
+        "date": "Tuesday 31 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/33",
+        "duration": "45m",
+        "date": "Tuesday 31 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature in English",
+        "code": "0475/43",
+        "duration": "1h 15m",
+        "date": "Tuesday 31 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0478",
+    "commonSubstring": "Computer Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Computer Science",
+        "code": "0478/13",
+        "duration": "1h 45m",
+        "date": "Wednesday 11 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Computer Science",
+        "code": "0478/23",
+        "duration": "1h 45m",
+        "date": "Friday 20 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0488",
+    "commonSubstring": "Literature",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature (Spanish)",
+        "code": "0488/01",
+        "duration": "2h 15m",
+        "date": "Wednesday 04 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Literature (Spanish)",
+        "code": "0488/03",
+        "duration": "1h 20m",
+        "date": "Friday 06 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0490",
+    "commonSubstring": "Religious Studies",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Religious Studies",
+        "code": "0490/13",
+        "duration": "1h 45m",
+        "date": "Thursday 02 November 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Religious Studies",
+        "code": "0490/23",
+        "duration": "1h 45m",
+        "date": "Thursday 09 November 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0493",
+    "commonSubstring": "Islamiyat",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Islamiyat",
+        "code": "0493/12",
+        "duration": "1h 30m",
+        "date": "Monday 02 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Islamiyat",
+        "code": "0493/22",
+        "duration": "1h 30m",
+        "date": "Wednesday 04 October 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0495",
+    "commonSubstring": "Sociology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Sociology",
+        "code": "0495/13",
+        "duration": "2h",
+        "date": "Monday 16 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Sociology",
+        "code": "0495/23",
+        "duration": "1h 45m",
+        "date": "Thursday 19 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0500",
+    "commonSubstring": "First Language English",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement)",
+        "code": "0500/13",
+        "duration": "2h",
+        "date": "Thursday 12 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "First Language English (Oral Endorsement)",
+        "code": "0500/23",
+        "duration": "2h",
+        "date": "Tuesday 17 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0502",
+    "commonSubstring": "First Language Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "First Language Spanish",
+        "code": "0502/13",
+        "duration": "2h",
+        "date": "Tuesday 03 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "First Language Spanish",
+        "code": "0502/23",
+        "duration": "2h",
+        "date": "Thursday 05 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0510",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement) (Core)",
+        "code": "0510/12",
+        "duration": "1h 30m",
+        "date": "Tuesday 10 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement) (Extended)",
+        "code": "0510/22",
+        "duration": "2h",
+        "date": "Tuesday 10 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Core)",
+        "code": "0510/32",
+        "duration": "40m",
+        "date": "Monday 16 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Speaking Endorsement) (Listening \u2013 Extended)",
+        "code": "0510/42",
+        "duration": "50m",
+        "date": "Monday 16 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0511",
+    "commonSubstring": "English as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking) (Core)",
+        "code": "0511/12",
+        "duration": "1h 30m",
+        "date": "Tuesday 10 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking) (Extended)",
+        "code": "0511/22",
+        "duration": "2h",
+        "date": "Tuesday 10 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Core)",
+        "code": "0511/32",
+        "duration": "40m",
+        "date": "Monday 16 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "English as a Second Language (Count-in Speaking) (Listening \u2013 Extended)",
+        "code": "0511/42",
+        "duration": "50m",
+        "date": "Monday 16 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0520",
+    "commonSubstring": "French",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "French (Listening \u2013 Multiple Choice)",
+        "code": "0520/13",
+        "duration": "50m",
+        "date": "Thursday 16 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "French",
+        "code": "0520/23",
+        "duration": "1h",
+        "date": "Wednesday 25 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "French",
+        "code": "0520/43",
+        "duration": "1h",
+        "date": "Friday 27 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0530",
+    "commonSubstring": "Spanish",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Spanish (Listening \u2013 Multiple Choice)",
+        "code": "0530/12",
+        "duration": "50m",
+        "date": "Friday 17 November PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Spanish",
+        "code": "0530/22",
+        "duration": "1h",
+        "date": "Thursday 26 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level R",
+        "subject": "Spanish",
+        "code": "0530/42",
+        "duration": "1h",
+        "date": "Monday 30 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0549",
+    "commonSubstring": "Hindi as a Second Language",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Hindi as a Second Language",
+        "code": "0549/01",
+        "duration": "2h",
+        "date": "Monday 23 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Hindi as a Second Language",
+        "code": "0549/02",
+        "duration": "45m",
+        "date": "Friday 20 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0580",
+    "commonSubstring": "Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Mathematics (Core)",
+        "code": "0580/12",
+        "duration": "1h",
+        "date": "Wednesday 11 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Mathematics (Extended)",
+        "code": "0580/22",
+        "duration": "1h 30m",
+        "date": "Wednesday 11 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Mathematics (Core)",
+        "code": "0580/32",
+        "duration": "2h",
+        "date": "Wednesday 18 October 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Mathematics (Extended)",
+        "code": "0580/42",
+        "duration": "2h 30m",
+        "date": "Wednesday 18 October 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0600",
+    "commonSubstring": "Agriculture",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Agriculture",
+        "code": "0600/12",
+        "duration": "1h 45m",
+        "date": "Thursday 19 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0606",
+    "commonSubstring": "Additional Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Additional Mathematics",
+        "code": "0606/13",
+        "duration": "2h",
+        "date": "Friday 06 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Additional Mathematics",
+        "code": "0606/23",
+        "duration": "2h",
+        "date": "Monday 09 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0607",
+    "commonSubstring": "Cambridge International Mathematics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/12",
+        "duration": "45m",
+        "date": "Tuesday 03 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/22",
+        "duration": "45m",
+        "date": "Tuesday 03 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/32",
+        "duration": "1h 45m",
+        "date": "Wednesday 11 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/42",
+        "duration": "2h 15m",
+        "date": "Wednesday 11 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Core)",
+        "code": "0607/52",
+        "duration": "1h 10m",
+        "date": "Wednesday 18 October 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Cambridge International Mathematics (Extended)",
+        "code": "0607/62",
+        "duration": "1h 40m",
+        "date": "Wednesday 18 October 2023 PM"
+      }
+    ]
+  },
+  {
+    "code": "0610",
+    "commonSubstring": "Biology",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Core)",
+        "code": "0610/13",
+        "duration": "45m",
+        "date": "Tuesday 14 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Multiple Choice \u2013 Extended)",
+        "code": "0610/23",
+        "duration": "45m",
+        "date": "Tuesday 14 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Core)",
+        "code": "0610/33",
+        "duration": "1h 15m",
+        "date": "Monday 16 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Extended)",
+        "code": "0610/43",
+        "duration": "1h 15m",
+        "date": "Monday 16 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Practical)",
+        "code": "0610/53",
+        "duration": "1h 15m",
+        "date": "Thursday 19 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Biology (Alternative to Practical)",
+        "code": "0610/63",
+        "duration": "1h",
+        "date": "Thursday 19 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0620",
+    "commonSubstring": "Chemistry",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Core)",
+        "code": "0620/13",
+        "duration": "45m",
+        "date": "Wednesday 15 November 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Multiple Choice \u2013 Extended)",
+        "code": "0620/23",
+        "duration": "45m",
+        "date": "Wednesday 15 November 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Core)",
+        "code": "0620/33",
+        "duration": "1h 15m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Extended)",
+        "code": "0620/43",
+        "duration": "1h 15m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Practical)",
+        "code": "0620/53",
+        "duration": "1h 15m",
+        "date": "Thursday 26 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Chemistry (Alternative to Practical)",
+        "code": "0620/63",
+        "duration": "1h",
+        "date": "Thursday 26 October AM"
+      }
+    ]
+  },
+  {
+    "code": "0625",
+    "commonSubstring": "Physics",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Core)",
+        "code": "0625/12",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Multiple Choice \u2013 Extended)",
+        "code": "0625/22",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Core)",
+        "code": "0625/32",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Extended)",
+        "code": "0625/42",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Practical)",
+        "code": "0625/52",
+        "duration": "1h 15m",
+        "date": "Tuesday 24 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physics (Alternative to Practical)",
+        "code": "0625/62",
+        "duration": "1h",
+        "date": "Tuesday 24 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0648",
+    "commonSubstring": "Food",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Food & Nutrition",
+        "code": "0648/12",
+        "duration": "2h",
+        "date": "Thursday 26 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0652",
+    "commonSubstring": "Physical Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Multiple Choice \u2013 Core)",
+        "code": "0652/12",
+        "duration": "45m",
+        "date": "Friday 10 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Multiple Choice \u2013 Extended)",
+        "code": "0652/22",
+        "duration": "45m",
+        "date": "Friday 10 November AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Core)",
+        "code": "0652/32",
+        "duration": "1h 15m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Extended)",
+        "code": "0652/42",
+        "duration": "1h 15m",
+        "date": "Friday 13 October AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Practical)",
+        "code": "0652/52",
+        "duration": "1h 15m",
+        "date": "Wednesday 25 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Physical Science (Alternative to Practical)",
+        "code": "0652/62",
+        "duration": "1h",
+        "date": "Wednesday 25 October 2023 AM"
+      }
+    ]
+  },
+  {
+    "code": "0653",
+    "commonSubstring": "Combined Science",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Core)",
+        "code": "0653/12",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Multiple Choice \u2013 Extended)",
+        "code": "0653/22",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Core)",
+        "code": "0653/32",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Extended)",
+        "code": "0653/42",
+        "duration": "1h 15m",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Practical)",
+        "code": "0653/52",
+        "duration": "1h 15m",
+        "date": "Wednesday 25 October 2023 AM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Combined Science (Alternative to Practical)",
+        "code": "0653/62",
+        "duration": "1h",
+        "date": "Tuesday 24 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0654",
+    "commonSubstring": "Co",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Core)",
+        "code": "0654/12",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Multiple Choice \u2013 Extended)",
+        "code": "0654/22",
+        "duration": "45m",
+        "date": "Thursday 09 November 2023 PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Core)",
+        "code": "0654/32",
+        "duration": "2h",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Extended)",
+        "code": "0654/42",
+        "duration": "2h",
+        "date": "Thursday 12 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Practical)",
+        "code": "0654/52",
+        "duration": "2h",
+        "date": "Tuesday 24 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Co-ordinated Sciences (Double Award) (Alternative to Practical)",
+        "code": "0654/62",
+        "duration": "1h 30m",
+        "date": "Tuesday 24 October PM"
+      }
+    ]
+  },
+  {
+    "code": "0680",
+    "commonSubstring": "Environmental Management",
+    "group": [
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Environmental Management",
+        "code": "0680/12",
+        "duration": "1h 45m",
+        "date": "Monday 02 October PM"
+      },
+      {
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge IGCSE",
+        "subject": "Environmental Management",
+        "code": "0680/22",
+        "duration": "1h 45m",
+        "date": "Thursday 05 October PM"
+      }
+    ]
+  },
+  {
     "code": "1123",
     "commonSubstring": "English Language",
     "group": [
@@ -492,14 +1510,14 @@
     "commonSubstring": "English General Paper",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "English General Paper",
         "code": "8021/12",
         "duration": "1h 15m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "English General Paper",
         "code": "8021/22",
         "duration": "1h 45m",
@@ -512,14 +1530,14 @@
     "commonSubstring": "Japanese Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Japanese Language",
         "code": "8281/02",
         "duration": "1h 45m",
         "date": "Thursday 05 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Japanese Language",
         "code": "8281/03",
         "duration": "1h 30m",
@@ -532,14 +1550,14 @@
     "commonSubstring": "Environmental Management",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Environmental Management",
         "code": "8291/13",
         "duration": "1h 45m",
         "date": "Wednesday 04 October 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Environmental Management",
         "code": "8291/23",
         "duration": "1h 45m",
@@ -552,14 +1570,14 @@
     "commonSubstring": "First Language Spanish",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "First Language Spanish",
         "code": "8665/23",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "First Language Spanish",
         "code": "8665/43",
         "duration": "2h 30m",
@@ -572,7 +1590,7 @@
     "commonSubstring": "Spanish Literature",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Literature",
         "code": "8673/43",
         "duration": "2h 30m",
@@ -585,7 +1603,7 @@
     "commonSubstring": "Hindi Literature",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Literature",
         "code": "8675/04",
         "duration": "2h 30m",
@@ -598,14 +1616,14 @@
     "commonSubstring": "Afrikaans Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Afrikaans Language",
         "code": "8679/02",
         "duration": "1h 45m",
         "date": "Saturday 07 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Afrikaans Language",
         "code": "8679/03",
         "duration": "1h 30m",
@@ -618,14 +1636,14 @@
     "commonSubstring": "Arabic Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Arabic Language",
         "code": "8680/22",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Arabic Language",
         "code": "8680/32",
         "duration": "1h 30m",
@@ -638,14 +1656,14 @@
     "commonSubstring": "Chinese Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chinese Language",
         "code": "8681/22",
         "duration": "1h 45m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chinese Language",
         "code": "8681/32",
         "duration": "1h 30m",
@@ -658,14 +1676,14 @@
     "commonSubstring": "French Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "French Language",
         "code": "8682/23",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "French Language",
         "code": "8682/33",
         "duration": "1h 30m",
@@ -678,14 +1696,14 @@
     "commonSubstring": "German Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "German Language",
         "code": "8683/23",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "German Language",
         "code": "8683/33",
         "duration": "1h 30m",
@@ -698,14 +1716,14 @@
     "commonSubstring": "Spanish Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Language",
         "code": "8685/23",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Spanish Language",
         "code": "8685/33",
         "duration": "1h 30m",
@@ -718,14 +1736,14 @@
     "commonSubstring": "Urdu Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Urdu Language",
         "code": "8686/02",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Urdu Language",
         "code": "8686/03",
         "duration": "1h 30m",
@@ -738,14 +1756,14 @@
     "commonSubstring": "Hindi Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Language",
         "code": "8687/02",
         "duration": "1h 45m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Hindi Language",
         "code": "8687/03",
         "duration": "1h 30m",
@@ -758,14 +1776,14 @@
     "commonSubstring": "Tamil Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Tamil Language",
         "code": "8689/22",
         "duration": "1h 45m",
         "date": "Saturday 28 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Tamil Language",
         "code": "8689/32",
         "duration": "1h 30m",
@@ -778,14 +1796,14 @@
     "commonSubstring": "Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Language & Literature in English",
         "code": "8695/13",
         "duration": "2h",
         "date": "Monday 30 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Language & Literature in English",
         "code": "8695/23",
         "duration": "2h",
@@ -798,28 +1816,28 @@
     "commonSubstring": "Law",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Law",
         "code": "9084/12",
         "duration": "1h 30m",
         "date": "Monday 02 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Law",
         "code": "9084/22",
         "duration": "1h 30m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Law",
         "code": "9084/32",
         "duration": "1h 30m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Law",
         "code": "9084/42",
         "duration": "1h 30m",
@@ -832,28 +1850,28 @@
     "commonSubstring": "English Language",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "English Language",
         "code": "9093/13",
         "duration": "2h 15m",
         "date": "Wednesday 25 October 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "English Language",
         "code": "9093/23",
         "duration": "2h",
         "date": "Monday 30 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "English Language",
         "code": "9093/33",
         "duration": "2h 15m",
         "date": "Wednesday 01 November 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "English Language",
         "code": "9093/43",
         "duration": "2h 15m",
@@ -866,28 +1884,28 @@
     "commonSubstring": "Further Mathematics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/12",
         "duration": "2h",
         "date": "Monday 09 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Further Mathematics",
         "code": "9231/22",
         "duration": "2h",
         "date": "Wednesday 01 November 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/32",
         "duration": "1h 30m",
         "date": "Wednesday 25 October 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Further Mathematics",
         "code": "9231/42",
         "duration": "1h 30m",
@@ -900,7 +1918,7 @@
     "commonSubstring": "Global Perspectives",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Global Perspectives & Research",
         "code": "9239/12",
         "duration": "1h 30m",
@@ -913,28 +1931,28 @@
     "commonSubstring": "Classical Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Classical Studies",
         "code": "9274/13",
         "duration": "1h 30m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Classical Studies",
         "code": "9274/23",
         "duration": "1h 30m",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Classical Studies",
         "code": "9274/33",
         "duration": "1h 30m",
         "date": "Thursday 02 November 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Classical Studies",
         "code": "9274/43",
         "duration": "1h 30m",
@@ -947,21 +1965,21 @@
     "commonSubstring": "Travel",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Travel & Tourism",
         "code": "9395/13",
         "duration": "2h 30m",
         "date": "Monday 02 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Travel & Tourism",
         "code": "9395/33",
         "duration": "1h 30m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Travel & Tourism",
         "code": "9395/43",
         "duration": "1h 30m",
@@ -974,14 +1992,14 @@
     "commonSubstring": "Physical Education",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Physical Education",
         "code": "9396/13",
         "duration": "2h 30m",
         "date": "Tuesday 07 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Physical Education",
         "code": "9396/33",
         "duration": "2h 30m",
@@ -994,7 +2012,7 @@
     "commonSubstring": "Drama",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Drama",
         "code": "9482/13",
         "duration": "2h",
@@ -1007,7 +2025,7 @@
     "commonSubstring": "Music",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Music (Listening)",
         "code": "9483/13",
         "duration": "2h",
@@ -1020,28 +2038,28 @@
     "commonSubstring": "Biblical Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biblical Studies",
         "code": "9484/13",
         "duration": "1h 30m",
         "date": "Wednesday 08 November 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biblical Studies",
         "code": "9484/23",
         "duration": "1h 30m",
         "date": "Monday 13 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Biblical Studies",
         "code": "9484/33",
         "duration": "1h 30m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Biblical Studies",
         "code": "9484/43",
         "duration": "1h 30m",
@@ -1054,28 +2072,28 @@
     "commonSubstring": "Islamic Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Islamic Studies",
         "code": "9488/12",
         "duration": "1h 30m",
         "date": "Monday 23 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Islamic Studies",
         "code": "9488/22",
         "duration": "1h 30m",
         "date": "Wednesday 01 November 2023 PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Islamic Studies",
         "code": "9488/32",
         "duration": "1h 30m",
         "date": "Monday 06 November PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Islamic Studies",
         "code": "9488/42",
         "duration": "1h 30m",
@@ -1088,28 +2106,28 @@
     "commonSubstring": "History",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "History",
         "code": "9489/12",
         "duration": "1h 15m",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "History",
         "code": "9489/22",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "History",
         "code": "9489/32",
         "duration": "1h 15m",
         "date": "Monday 30 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "History",
         "code": "9489/42",
         "duration": "1h 45m",
@@ -1122,14 +2140,14 @@
     "commonSubstring": "Media Studies",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Media Studies",
         "code": "9607/02",
         "duration": "2h",
         "date": "Thursday 09 November 2023 PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Media Studies",
         "code": "9607/04",
         "duration": "2h",
@@ -1142,28 +2160,28 @@
     "commonSubstring": "Business",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Business",
         "code": "9609/12",
         "duration": "1h 15m",
         "date": "Monday 09 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Business",
         "code": "9609/22",
         "duration": "1h 30m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Business",
         "code": "9609/32",
         "duration": "1h 45m",
         "date": "Monday 16 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Business",
         "code": "9609/42",
         "duration": "1h 15m",
@@ -1176,28 +2194,28 @@
     "commonSubstring": "Computer Science",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Computer Science",
         "code": "9618/12",
         "duration": "1h 30m",
         "date": "Wednesday 11 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Computer Science",
         "code": "9618/22",
         "duration": "2h",
         "date": "Friday 20 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Computer Science (Advanced)",
         "code": "9618/32",
         "duration": "1h 30m",
         "date": "Wednesday 25 October 2023 PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Computer Science (Practical)",
         "code": "9618/42",
         "duration": "2h 30m",
@@ -1210,14 +2228,14 @@
     "commonSubstring": "Information Technology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Information Technology",
         "code": "9626/13",
         "duration": "1h 45m",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Information Technology (Advanced)",
         "code": "9626/33",
         "duration": "1h 45m",
@@ -1230,28 +2248,28 @@
     "commonSubstring": "Urdu",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/02",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/03",
         "duration": "1h 30m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/04",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Urdu",
         "code": "9676/05",
         "duration": "45m",
@@ -1264,28 +2282,28 @@
     "commonSubstring": "Arabic",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/22",
         "duration": "1h 45m",
         "date": "Friday 27 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/32",
         "duration": "1h 30m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/42",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Arabic",
         "code": "9680/52",
         "duration": "45m",
@@ -1298,28 +2316,28 @@
     "commonSubstring": "Hindi",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/02",
         "duration": "1h 45m",
         "date": "Friday 13 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/03",
         "duration": "1h 30m",
         "date": "Friday 06 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/04",
         "duration": "2h 30m",
         "date": "Tuesday 03 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Hindi",
         "code": "9687/05",
         "duration": "45m",
@@ -1332,28 +2350,28 @@
     "commonSubstring": "Tamil",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/22",
         "duration": "1h 45m",
         "date": "Saturday 28 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/32",
         "duration": "1h 30m",
         "date": "Saturday 07 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/42",
         "duration": "2h 30m",
         "date": "Wednesday 04 October 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Tamil",
         "code": "9689/52",
         "duration": "45m",
@@ -1366,28 +2384,28 @@
     "commonSubstring": "Marine Science",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Marine Science",
         "code": "9693/13",
         "duration": "1h 45m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Marine Science",
         "code": "9693/23",
         "duration": "1h 45m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Marine Science",
         "code": "9693/33",
         "duration": "1h 45m",
         "date": "Wednesday 01 November 2023 EV"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Marine Science",
         "code": "9693/43",
         "duration": "1h 45m",
@@ -1400,28 +2418,28 @@
     "commonSubstring": "Thinking Skills",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Thinking Skills",
         "code": "9694/13",
         "duration": "1h 30m",
         "date": "Tuesday 03 October EV"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Thinking Skills",
         "code": "9694/23",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Thinking Skills",
         "code": "9694/33",
         "duration": "2h",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Thinking Skills",
         "code": "9694/43",
         "duration": "1h 45m",
@@ -1434,28 +2452,28 @@
     "commonSubstring": "Literature in English",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Literature in English",
         "code": "9695/13",
         "duration": "2h",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Literature in English",
         "code": "9695/23",
         "duration": "2h",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Literature in English",
         "code": "9695/33",
         "duration": "2h",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Literature in English",
         "code": "9695/43",
         "duration": "2h",
@@ -1468,28 +2486,28 @@
     "commonSubstring": "Geography",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Geography (Core)",
         "code": "9696/13",
         "duration": "1h 30m",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Geography (Core)",
         "code": "9696/23",
         "duration": "1h 30m",
         "date": "Friday 03 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Geography (Advanced)",
         "code": "9696/33",
         "duration": "1h 30m",
         "date": "Monday 06 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Geography (Advanced)",
         "code": "9696/43",
         "duration": "1h 30m",
@@ -1502,28 +2520,28 @@
     "commonSubstring": "Sociology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Sociology",
         "code": "9699/12",
         "duration": "1h 30m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Sociology",
         "code": "9699/22",
         "duration": "1h 30m",
         "date": "Monday 23 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Sociology",
         "code": "9699/32",
         "duration": "1h 15m",
         "date": "Monday 06 November PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Sociology",
         "code": "9699/42",
         "duration": "1h 45m",
@@ -1536,42 +2554,42 @@
     "commonSubstring": "Biology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Multiple Choice)",
         "code": "9700/13",
         "duration": "1h 15m",
         "date": "Tuesday 14 November AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biology",
         "code": "9700/23",
         "duration": "1h 15m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/35",
         "duration": "2h",
         "date": "Thursday 12 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Biology (Practical \u2013 Advanced)",
         "code": "9700/36",
         "duration": "2h",
         "date": "Tuesday 07 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Biology",
         "code": "9700/43",
         "duration": "2h",
         "date": "Thursday 26 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Biology",
         "code": "9700/53",
         "duration": "1h 15m",
@@ -1584,42 +2602,42 @@
     "commonSubstring": "Chemistry",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Multiple Choice)",
         "code": "9701/13",
         "duration": "1h 15m",
         "date": "Thursday 16 November AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry",
         "code": "9701/23",
         "duration": "1h 15m",
         "date": "Friday 20 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/35",
         "duration": "2h",
         "date": "Tuesday 10 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Chemistry (Practical \u2013 Advanced)",
         "code": "9701/36",
         "duration": "2h",
         "date": "Thursday 02 November 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Chemistry",
         "code": "9701/43",
         "duration": "2h",
         "date": "Friday 27 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Chemistry",
         "code": "9701/53",
         "duration": "1h 15m",
@@ -1632,42 +2650,42 @@
     "commonSubstring": "Physics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Multiple Choice)",
         "code": "9702/13",
         "duration": "1h 15m",
         "date": "Wednesday 15 November 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Physics",
         "code": "9702/23",
         "duration": "1h 15m",
         "date": "Thursday 19 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/35",
         "duration": "2h",
         "date": "Tuesday 17 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Physics (Practical \u2013 Advanced)",
         "code": "9702/36",
         "duration": "2h",
         "date": "Tuesday 31 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Physics",
         "code": "9702/43",
         "duration": "2h",
         "date": "Monday 09 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Physics",
         "code": "9702/53",
         "duration": "1h 15m",
@@ -1680,14 +2698,14 @@
     "commonSubstring": "Design",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Design & Technology",
         "code": "9705/13",
         "duration": "3h",
         "date": "Friday 10 November AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Design & Technology",
         "code": "9705/33",
         "duration": "3h",
@@ -1700,28 +2718,28 @@
     "commonSubstring": "Accounting",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Accounting (Multiple Choice)",
         "code": "9706/12",
         "duration": "1h",
         "date": "Wednesday 15 November 2023 PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Accounting",
         "code": "9706/22",
         "duration": "1h 45m",
         "date": "Wednesday 18 October 2023 PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Accounting",
         "code": "9706/32",
         "duration": "1h 30m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Accounting",
         "code": "9706/42",
         "duration": "1h",
@@ -1734,28 +2752,28 @@
     "commonSubstring": "Economics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Economics (Multiple Choice)",
         "code": "9708/12",
         "duration": "1h",
         "date": "Tuesday 14 November PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Economics",
         "code": "9708/22",
         "duration": "2h",
         "date": "Tuesday 10 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Economics (Multiple Choice)",
         "code": "9708/32",
         "duration": "1h 15m",
         "date": "Thursday 16 November PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Economics",
         "code": "9708/42",
         "duration": "2h",
@@ -1768,42 +2786,42 @@
     "commonSubstring": "Mathematics",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Pure Mathematics 1)",
         "code": "9709/13",
         "duration": "1h 50m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Pure Mathematics 2)",
         "code": "9709/23",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Mathematics (Pure Mathematics 3)",
         "code": "9709/33",
         "duration": "1h 50m",
         "date": "Wednesday 18 October 2023 AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Mechanics)",
         "code": "9709/43",
         "duration": "1h 15m",
         "date": "Monday 16 October AM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Mathematics (Probability & Statistics 1)",
         "code": "9709/53",
         "duration": "1h 15m",
         "date": "Friday 13 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Mathematics (Probability & Statistics 2)",
         "code": "9709/63",
         "duration": "1h 15m",
@@ -1816,21 +2834,21 @@
     "commonSubstring": "Chinese",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/22",
         "duration": "1h 45m",
         "date": "Thursday 05 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/32",
         "duration": "1h 30m",
         "date": "Thursday 12 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Chinese",
         "code": "9715/42",
         "duration": "2h 30m",
@@ -1843,21 +2861,21 @@
     "commonSubstring": "French",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/23",
         "duration": "1h 45m",
         "date": "Friday 06 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/33",
         "duration": "1h 30m",
         "date": "Wednesday 04 October 2023 AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "French",
         "code": "9716/43",
         "duration": "2h 30m",
@@ -1870,21 +2888,21 @@
     "commonSubstring": "German",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/23",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/33",
         "duration": "1h 30m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "German",
         "code": "9717/43",
         "duration": "2h 30m",
@@ -1897,21 +2915,21 @@
     "commonSubstring": "Spanish",
     "group": [
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/23",
         "duration": "1h 45m",
         "date": "Tuesday 24 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/33",
         "duration": "1h 30m",
         "date": "Wednesday 11 October AM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Spanish",
         "code": "9719/43",
         "duration": "2h 30m",
@@ -1924,28 +2942,28 @@
     "commonSubstring": "Psychology",
     "group": [
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Psychology",
         "code": "9990/12",
         "duration": "1h 30m",
         "date": "Tuesday 17 October PM"
       },
       {
-        "type": "Cambridge International AS Level",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International AS Level",
         "subject": "Psychology",
         "code": "9990/22",
         "duration": "1h 30m",
         "date": "Tuesday 24 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Psychology",
         "code": "9990/32",
         "duration": "1h 30m",
         "date": "Thursday 26 October PM"
       },
       {
-        "type": "Cambridge International A Level A",
+        "type": "Cambridge IGCSE OL Cambridge O Level Cambridge International A Level",
         "subject": "Psychology",
         "code": "9990/42",
         "duration": "1h 30m",
