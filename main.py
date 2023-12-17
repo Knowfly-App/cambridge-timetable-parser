@@ -186,7 +186,7 @@ def parse_timetable(file_path, output_path, format):
     if format == "json":
         grouped_df.to_json(output_path, orient="records")
     else:
-        grouped_df.to_csv(output_path, index=False)
+        df.to_csv(output_path, index=False)
 
     return grouped_df, df
 
