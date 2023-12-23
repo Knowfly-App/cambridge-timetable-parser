@@ -5,7 +5,9 @@ import pandas as pd
 import PyPDF2
 
 
-def parse_timetable(file_path, output_path, format):
+def parse_timetable(
+    file_path: str, output_path: str, format: str
+) -> tuple[pd.DataFrame, pd.DataFrame]:
     # read your file
     pdf = PyPDF2.PdfReader(open(file_path, "rb"))
 
@@ -110,13 +112,13 @@ def parse_timetable(file_path, output_path, format):
     ]
 
     # flatten data
-    def flatten(l):
-        return [item for sublist in l for item in sublist]
+    def flatten(array: list) -> list:
+        return [item for sublist in array for item in sublist]
 
     flat_data = flatten(data)
 
     flat_data = [[i[0], *i[2]] for i in flat_data if len(i) == 3]
-    
+
     # for each string in flat_data, replace multiple spaces with a single space
     flat_data = [[re.sub(r" +", " ", x) for x in d] for d in flat_data]
 
@@ -178,9 +180,6 @@ def parse_timetable(file_path, output_path, format):
             }
         )
 
-    # save the output data to a json file
-    # json.dump(grouped_data, open(f"json/zone{idx}.json", "w"), indent=2)
-
     grouped_df = pd.DataFrame(grouped_data)
 
     if format == "json":
@@ -191,7 +190,7 @@ def parse_timetable(file_path, output_path, format):
     return grouped_df, df
 
 
-if __name__ == "__main__":
+def main() -> None:
     # read arguments from the command line
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -215,8 +214,15 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # call the function
-    parse_timetable(
+    grouped_df, df = parse_timetable(
         file_path=args.file_path,
         output_path=args.output_path,
         format=args.format,
     )
+
+    print("Data generated of shape: ", df.shape)
+    print("Grouped Data generated of shape: ", grouped_df.shape)
+
+
+if __name__ == "__main__":
+    main()

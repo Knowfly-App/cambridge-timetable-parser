@@ -50,3 +50,37 @@ python main.py --file_path "timetable.pdf" --output_path "output.csv" --format "
 > Note the CSV format only extracts the timetable as a normal table, it does not group the subjects by code.
 > If you wish to group the subjects by code, try using the JSON format.
 >
+
+### CSV Output shape
+
+| type | subject | code | duration | date | session |
+| ---- | ------- | ---- | -------- | ---- | ------- |
+| ...  | ...     | ...  | ...      | ...  | ...     |
+
+```csv
+type,subject,code,duration,date,session
+..., ..., ..., ..., ..., ...
+```
+
+### JSON Output shape
+
+```json
+[
+  {
+    "code": "...",
+    "commonSubstring": "...",
+    "group": [
+      {
+        "type": "...",
+        "subject": "...",
+        "code": "...",
+        "duration": "...",
+        "date": "...",
+        "session": "..."
+      },
+      ...
+    ]
+  },
+  ...
+]
+```
